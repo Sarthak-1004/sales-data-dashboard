@@ -1,0 +1,2576 @@
+Date,Product,Price,Quantity,Region,City,Country,Discount,Payment_Method,Customer_Age,Customer_Gender
+2022-10-15,Laptop,29365.0,38.0,North,Chennai,UK,5.0,UPI,25.0,Female
+2022-10-22,Mouse,55568.0,44.0,East,Kolkata,Canada,5.0,,43.0,Male
+2022-05-02,Laptop,71239.0,1.0,North,Kolkata,,10.0,Cash,60.0,
+2022-10-07,Camera,74562.0,4.0,South,Lucknow,USA,0.0,Cash,69.0,Female
+2022-02-08,Laptop,63361.0,27.0,East,Mumbai,USA,10.0,Net Banking,41.0,Other
+2022-01-01,Monitor,28191.0,14.0,North,Kolkata,UK,5.0,Debit Card,59.0,Male
+2022-11-24,Mouse,48967.0,39.0,West,Delhi,USA,0.0,Debit Card,,Female
+2022-10-15,Headphones,48022.0,31.0,South,Delhi,Germany,0.0,Cash,26.0,Other
+2022-09-08,,61968.0,13.0,East,Jaipur,USA,20.0,Debit Card,59.0,Male
+2022-04-08,Mouse,99971.0,25.0,North,Ahmedabad,Germany,20.0,Debit Card,,Female
+2022-06-11,Laptop,64857.0,25.0,East,Chennai,USA,0.0,Credit Card,64.0,Male
+2022-10-02,Monitor,27772.0,33.0,South,Jaipur,UK,,UPI,,Other
+,Camera,90382.0,42.0,East,Delhi,UK,10.0,UPI,47.0,Other
+2022-02-23,Headphones,93178.0,30.0,East,Chennai,Canada,5.0,UPI,38.0,Female
+2022-04-11,Mouse,58929.0,5.0,West,Chennai,Canada,0.0,UPI,65.0,Female
+2022-06-19,Smartwatch,69543.0,20.0,North,Chennai,India,10.0,Debit Card,51.0,Male
+2022-12-31,Smartwatch,89256.0,12.0,East,Ahmedabad,,0.0,UPI,48.0,Other
+2022-01-14,Camera,95514.0,37.0,South,Lucknow,USA,20.0,Cash,24.0,Male
+2022-11-15,Laptop,48921.0,12.0,South,Chennai,India,5.0,Credit Card,55.0,Female
+2022-08-08,Monitor,40230.0,15.0,East,Jaipur,Germany,15.0,UPI,39.0,Other
+2022-12-02,Camera,83087.0,45.0,North,Chennai,France,15.0,Credit Card,,Male
+2022-10-29,Tablet,86907.0,33.0,East,Jaipur,Germany,5.0,Credit Card,29.0,Male
+2022-10-04,Keyboard,75709.0,25.0,East,Kolkata,USA,10.0,Debit Card,30.0,Female
+2022-11-06,Tablet,55144.0,25.0,North,Kolkata,UK,5.0,Debit Card,29.0,Male
+2022-04-11,Mouse,30707.0,22.0,West,Bangalore,USA,0.0,,33.0,Male
+2022-06-07,Keyboard,45021.0,18.0,West,Lucknow,Germany,5.0,Net Banking,38.0,Other
+2022-07-14,Mouse,95861.0,,South,Kolkata,Canada,10.0,Credit Card,59.0,Male
+2022-12-16,Tablet,87433.0,43.0,South,Bangalore,USA,,,32.0,Other
+2022-04-04,Headphones,84917.0,10.0,,Hyderabad,,5.0,UPI,34.0,Female
+2022-09-14,Camera,14819.0,39.0,East,Hyderabad,France,5.0,,48.0,Other
+2022-07-11,Camera,22590.0,19.0,East,Jaipur,Canada,5.0,Debit Card,29.0,Female
+2022-01-07,Smartwatch,49803.0,19.0,South,,Germany,20.0,Credit Card,58.0,Other
+2022-11-09,,51006.0,8.0,,Ahmedabad,Germany,5.0,Cash,45.0,Male
+2022-03-04,Mouse,1562.0,33.0,East,Bangalore,India,15.0,Credit Card,45.0,Female
+2022-02-22,Tablet,25356.0,42.0,North,Bangalore,Germany,20.0,UPI,37.0,Other
+2022-08-19,Smartwatch,69490.0,46.0,North,Pune,Germany,20.0,Credit Card,28.0,Male
+2022-11-15,Keyboard,34593.0,22.0,East,Kolkata,Canada,10.0,,28.0,Other
+2022-09-25,Smartwatch,24466.0,13.0,East,,Canada,20.0,Cash,59.0,Other
+2022-05-09,Mouse,52650.0,15.0,West,Hyderabad,Germany,10.0,UPI,66.0,Female
+2022-05-07,Mouse,59351.0,39.0,West,Bangalore,,20.0,,23.0,Male
+2022-06-09,Keyboard,14366.0,12.0,West,Hyderabad,India,20.0,Cash,,Female
+2022-06-23,Mouse,26970.0,28.0,South,Ahmedabad,India,0.0,Credit Card,47.0,Female
+2022-01-10,Phone,7335.0,40.0,,Lucknow,UK,15.0,Debit Card,63.0,Male
+2022-06-29,Mouse,59223.0,2.0,North,Mumbai,UK,15.0,Cash,64.0,Other
+2022-01-25,Headphones,77342.0,19.0,West,Chennai,India,0.0,Net Banking,28.0,Female
+2022-12-19,Phone,89231.0,16.0,East,Pune,Germany,5.0,Debit Card,49.0,Other
+2022-10-12,Monitor,,31.0,West,Ahmedabad,USA,0.0,Net Banking,66.0,Male
+2022-11-19,Smartwatch,35997.0,20.0,South,Chennai,USA,0.0,Credit Card,28.0,Other
+2022-06-14,Camera,16674.0,9.0,South,Chennai,USA,0.0,Credit Card,61.0,Male
+2022-01-29,Smartwatch,8902.0,23.0,North,Pune,France,10.0,Debit Card,22.0,Male
+2022-10-27,Laptop,39248.0,23.0,West,Mumbai,France,15.0,UPI,54.0,Other
+2022-09-03,Mouse,81110.0,48.0,South,Pune,USA,5.0,Debit Card,27.0,Other
+2022-09-24,Keyboard,97612.0,38.0,South,Hyderabad,USA,5.0,Cash,,Male
+2022-11-27,Mouse,60710.0,24.0,East,Mumbai,USA,0.0,UPI,34.0,Male
+2022-10-15,Tablet,66567.0,10.0,West,Bangalore,UK,10.0,UPI,57.0,Male
+,Monitor,55070.0,40.0,North,Lucknow,Canada,20.0,Cash,,Other
+2022-04-12,Phone,79415.0,35.0,North,Jaipur,Canada,10.0,UPI,18.0,Male
+2022-12-14,Tablet,1046.0,14.0,West,Pune,Canada,,Net Banking,35.0,Male
+2022-09-08,Mouse,41402.0,22.0,South,Delhi,India,10.0,Credit Card,57.0,Other
+2022-02-25,Tablet,49656.0,12.0,East,Ahmedabad,UK,20.0,Net Banking,56.0,Female
+,Phone,84673.0,27.0,South,Chennai,Canada,20.0,Debit Card,27.0,Male
+2022-06-03,Keyboard,67543.0,44.0,North,Lucknow,,20.0,Credit Card,62.0,Male
+2022-05-11,Printer,56783.0,20.0,West,Bangalore,UK,20.0,Cash,31.0,Other
+2022-02-16,Monitor,78086.0,22.0,South,Delhi,France,,Credit Card,60.0,Other
+2022-10-14,Mouse,63312.0,11.0,East,Kolkata,India,15.0,Net Banking,60.0,Female
+2022-12-14,Phone,5694.0,3.0,West,,USA,20.0,Cash,37.0,Other
+2022-10-21,Keyboard,51528.0,7.0,South,Delhi,USA,15.0,Credit Card,22.0,Other
+2022-07-18,Monitor,79435.0,23.0,West,Ahmedabad,Germany,5.0,Net Banking,19.0,Other
+2022-08-26,Printer,73706.0,47.0,West,Chennai,France,20.0,Debit Card,35.0,Other
+2022-08-14,Headphones,37979.0,37.0,North,Lucknow,India,10.0,Cash,26.0,Other
+2022-05-16,Laptop,17165.0,48.0,,Chennai,Germany,0.0,Cash,48.0,Male
+2022-08-15,Keyboard,93468.0,21.0,West,Hyderabad,Canada,5.0,,36.0,Female
+2022-02-22,Tablet,86172.0,10.0,North,,USA,20.0,Cash,35.0,Female
+2022-02-15,Laptop,23860.0,10.0,North,Ahmedabad,Canada,5.0,UPI,52.0,Other
+2022-04-15,Printer,463.0,28.0,East,Bangalore,Germany,15.0,Cash,25.0,Female
+2022-01-27,Printer,93209.0,13.0,West,Pune,UK,0.0,Debit Card,21.0,Female
+2022-11-06,Mouse,57816.0,48.0,East,Bangalore,UK,15.0,,30.0,Male
+2022-09-30,Headphones,34912.0,9.0,East,Mumbai,Germany,0.0,Credit Card,65.0,
+,Tablet,,3.0,South,Mumbai,USA,5.0,Debit Card,42.0,Male
+2022-07-14,,68344.0,37.0,East,Chennai,Germany,20.0,Cash,60.0,Other
+2022-02-24,Smartwatch,17658.0,42.0,South,Jaipur,France,0.0,Debit Card,23.0,Female
+2022-10-29,Mouse,68569.0,42.0,South,Kolkata,Canada,10.0,Net Banking,33.0,Female
+2022-04-14,Phone,15097.0,46.0,West,Jaipur,France,10.0,Cash,18.0,Female
+2022-12-19,,71238.0,45.0,North,Kolkata,France,10.0,Cash,18.0,Female
+2022-11-26,Laptop,39446.0,5.0,South,Hyderabad,Germany,20.0,,20.0,Other
+2022-03-08,,26760.0,38.0,South,Mumbai,USA,15.0,Debit Card,39.0,Female
+2022-04-02,,831.0,40.0,,Chennai,Canada,5.0,Debit Card,41.0,Other
+2022-03-11,,14489.0,44.0,North,,USA,20.0,UPI,44.0,Male
+2022-05-28,Tablet,99387.0,27.0,West,Bangalore,France,0.0,Debit Card,62.0,Male
+2022-05-31,Laptop,58039.0,5.0,South,Delhi,UK,20.0,Credit Card,48.0,Other
+2022-10-30,Monitor,90797.0,6.0,East,Bangalore,USA,20.0,UPI,,Female
+2022-09-13,Tablet,88542.0,38.0,North,Pune,France,10.0,UPI,68.0,Other
+2022-05-01,Camera,3658.0,22.0,North,Kolkata,India,10.0,Debit Card,35.0,Other
+2022-08-22,Mouse,63321.0,19.0,North,Delhi,UK,10.0,Cash,59.0,Male
+2022-05-24,Headphones,86062.0,26.0,South,Bangalore,UK,15.0,Net Banking,60.0,Other
+2022-10-31,Laptop,66353.0,2.0,West,Lucknow,Canada,20.0,UPI,58.0,Female
+2022-02-07,Camera,47465.0,3.0,West,Ahmedabad,India,0.0,Cash,24.0,Other
+2022-11-06,Phone,71795.0,36.0,South,Mumbai,USA,5.0,Debit Card,54.0,Female
+2022-02-13,Smartwatch,21851.0,32.0,North,Ahmedabad,India,10.0,Credit Card,57.0,Other
+2022-09-30,Printer,45303.0,20.0,South,Pune,France,10.0,UPI,34.0,Female
+2022-01-21,,26001.0,28.0,North,Pune,Canada,,Debit Card,42.0,Female
+2022-06-03,Camera,53885.0,27.0,North,Jaipur,,20.0,Credit Card,68.0,Other
+2022-08-17,Monitor,10043.0,21.0,North,Pune,USA,15.0,Credit Card,21.0,Female
+,Tablet,67085.0,16.0,West,Delhi,UK,5.0,Cash,51.0,
+2022-11-21,Phone,70509.0,19.0,West,Pune,Canada,0.0,Cash,32.0,Male
+2022-09-16,Tablet,7108.0,18.0,North,Ahmedabad,Germany,10.0,Debit Card,33.0,Other
+2022-02-23,Mouse,41674.0,17.0,North,Bangalore,France,0.0,UPI,53.0,Other
+2022-03-08,Camera,61073.0,,East,Delhi,India,20.0,Cash,29.0,Female
+2022-06-24,Printer,41236.0,20.0,East,Jaipur,USA,15.0,Credit Card,45.0,Female
+2022-12-22,Smartwatch,35433.0,18.0,North,Mumbai,Canada,0.0,Credit Card,,Male
+2022-12-26,Tablet,9973.0,24.0,East,Bangalore,Canada,0.0,Net Banking,52.0,Male
+2022-08-21,Keyboard,50213.0,25.0,West,Mumbai,UK,10.0,Cash,35.0,Female
+2022-09-06,Headphones,50113.0,17.0,East,Pune,India,20.0,UPI,50.0,Male
+2022-01-02,Smartwatch,44364.0,22.0,North,Hyderabad,USA,5.0,Net Banking,41.0,Female
+2022-09-13,Headphones,20139.0,19.0,North,,USA,5.0,Net Banking,31.0,Female
+2022-10-09,Mouse,94603.0,,West,Delhi,India,5.0,Cash,46.0,Male
+2022-07-07,Laptop,15923.0,11.0,North,Pune,Canada,20.0,Cash,22.0,Female
+2022-05-08,Printer,98115.0,6.0,East,Lucknow,,5.0,Net Banking,56.0,Male
+2022-12-20,Printer,89487.0,11.0,East,Jaipur,India,15.0,Credit Card,49.0,Female
+2022-04-09,Smartwatch,78637.0,27.0,North,Chennai,France,10.0,Net Banking,18.0,Female
+,Tablet,20927.0,10.0,South,Chennai,,5.0,Cash,37.0,Other
+,Printer,84819.0,25.0,West,Pune,UK,15.0,UPI,68.0,Female
+2022-02-06,Headphones,43746.0,45.0,West,Delhi,Germany,20.0,Debit Card,42.0,Other
+2022-11-12,Printer,,41.0,East,Mumbai,UK,0.0,Cash,35.0,Other
+,Camera,65464.0,8.0,East,Hyderabad,India,0.0,Cash,69.0,Female
+2022-10-05,Mouse,95949.0,39.0,West,Kolkata,USA,,UPI,25.0,Female
+2022-12-19,Laptop,6074.0,,West,Ahmedabad,USA,10.0,Net Banking,23.0,Male
+2022-03-27,Laptop,42963.0,18.0,West,Hyderabad,USA,10.0,Debit Card,31.0,Other
+2022-02-08,Phone,80252.0,28.0,,Kolkata,Canada,15.0,UPI,57.0,Male
+2022-03-25,Tablet,9427.0,30.0,North,Kolkata,Canada,,Net Banking,19.0,Other
+2022-06-30,Smartwatch,,4.0,West,Chennai,USA,5.0,Cash,37.0,Male
+2022-08-08,Printer,90125.0,41.0,West,Delhi,France,,Debit Card,63.0,Female
+2022-06-10,Tablet,54630.0,41.0,West,Mumbai,France,5.0,,51.0,Other
+2022-11-28,Headphones,58854.0,9.0,,Ahmedabad,,5.0,Cash,20.0,Female
+2022-01-26,Tablet,5706.0,9.0,East,Bangalore,India,10.0,Credit Card,24.0,Male
+2022-07-19,Camera,99909.0,14.0,East,Jaipur,India,5.0,Net Banking,19.0,Male
+2022-11-16,Camera,9290.0,16.0,North,Delhi,India,20.0,UPI,24.0,Male
+,Headphones,90733.0,26.0,West,Hyderabad,Canada,0.0,Cash,59.0,Male
+2022-05-21,Phone,71151.0,12.0,South,Chennai,UK,10.0,Net Banking,38.0,Female
+2022-04-29,Keyboard,83187.0,7.0,East,Kolkata,France,5.0,Net Banking,22.0,Other
+2022-01-25,Mouse,32455.0,22.0,South,Jaipur,Germany,0.0,Cash,23.0,Male
+2022-12-21,Printer,61687.0,36.0,South,Kolkata,USA,0.0,,19.0,Female
+2022-09-06,Camera,,39.0,South,Kolkata,France,5.0,UPI,52.0,Female
+2022-08-14,Phone,12062.0,8.0,North,Hyderabad,India,15.0,Cash,53.0,Female
+2022-10-10,Monitor,24142.0,12.0,North,Bangalore,Germany,0.0,Debit Card,57.0,Male
+2022-08-17,Smartwatch,3875.0,5.0,West,Jaipur,Canada,15.0,UPI,28.0,
+2022-05-24,Tablet,46518.0,13.0,North,Lucknow,Canada,15.0,Cash,68.0,Other
+2022-09-26,Laptop,46132.0,,East,Pune,India,20.0,Debit Card,52.0,Male
+2022-01-01,Phone,18257.0,14.0,East,Lucknow,UK,5.0,Cash,37.0,Male
+2022-08-17,Camera,89144.0,13.0,West,Jaipur,,5.0,Debit Card,55.0,Other
+2022-11-07,Monitor,71892.0,33.0,West,Hyderabad,USA,5.0,Net Banking,31.0,Other
+2022-05-11,Camera,40156.0,43.0,South,Delhi,France,5.0,Cash,60.0,Other
+2022-12-27,Smartwatch,75279.0,49.0,East,Delhi,USA,,Net Banking,35.0,Other
+2022-06-04,Mouse,3192.0,24.0,North,Chennai,France,0.0,Debit Card,65.0,Other
+2022-06-29,Camera,33883.0,,South,Bangalore,UK,5.0,Net Banking,35.0,Female
+2022-10-16,Phone,74428.0,33.0,North,Kolkata,France,5.0,Debit Card,43.0,
+2022-06-07,Camera,18543.0,21.0,South,Lucknow,Canada,0.0,Net Banking,,Female
+2022-01-05,Laptop,45224.0,8.0,North,Delhi,India,20.0,Cash,20.0,Female
+2022-03-10,Printer,43354.0,35.0,East,Jaipur,,0.0,Debit Card,45.0,Other
+2022-04-18,Mouse,22921.0,10.0,West,Delhi,Canada,5.0,Net Banking,59.0,Female
+2022-08-29,Tablet,75526.0,5.0,South,Lucknow,UK,5.0,Debit Card,68.0,Male
+2022-02-05,Camera,44539.0,5.0,South,Pune,Canada,5.0,Net Banking,69.0,Female
+2022-09-24,Smartwatch,80528.0,35.0,North,Mumbai,Germany,20.0,Debit Card,24.0,Female
+2022-06-15,Headphones,74897.0,25.0,East,Hyderabad,France,15.0,Credit Card,64.0,Other
+2022-10-15,Smartwatch,42698.0,18.0,South,Mumbai,Germany,0.0,Cash,25.0,Female
+2022-03-29,Printer,77606.0,28.0,West,Jaipur,USA,5.0,Debit Card,38.0,Male
+2022-03-23,Mouse,97306.0,48.0,North,,India,5.0,UPI,54.0,Female
+2022-12-02,Tablet,22838.0,30.0,North,Lucknow,,20.0,UPI,63.0,Female
+2022-02-20,Laptop,95965.0,34.0,North,Delhi,Germany,5.0,UPI,38.0,Male
+2022-04-22,Camera,50872.0,49.0,South,Hyderabad,UK,15.0,UPI,47.0,Male
+2022-10-20,Smartwatch,5022.0,11.0,East,Mumbai,India,5.0,Net Banking,41.0,Male
+2022-01-23,Tablet,79543.0,30.0,South,Lucknow,UK,0.0,Credit Card,33.0,Female
+2022-11-19,Printer,4125.0,40.0,North,Ahmedabad,Germany,15.0,Net Banking,25.0,Other
+2022-12-19,Laptop,93354.0,15.0,East,Chennai,USA,,Net Banking,42.0,Female
+2022-04-29,Monitor,91504.0,28.0,North,Pune,Canada,,Net Banking,27.0,Male
+2022-08-30,Mouse,28433.0,20.0,East,Chennai,Germany,,Cash,61.0,Male
+2022-06-01,Printer,87071.0,45.0,East,Hyderabad,Canada,5.0,Cash,51.0,Male
+2022-03-06,Headphones,27545.0,5.0,West,Kolkata,UK,5.0,Credit Card,35.0,Other
+,Printer,35181.0,10.0,East,Kolkata,France,10.0,Cash,35.0,Other
+2022-01-09,Camera,88068.0,48.0,North,Bangalore,Canada,15.0,Debit Card,19.0,Other
+2022-04-14,,1001.0,37.0,North,Delhi,,15.0,Cash,64.0,Male
+2022-10-31,Tablet,75986.0,5.0,North,Lucknow,USA,20.0,Credit Card,46.0,Other
+2022-05-05,Laptop,98530.0,6.0,South,Ahmedabad,Canada,15.0,Credit Card,39.0,Male
+2022-09-09,Monitor,29532.0,9.0,East,Kolkata,Germany,10.0,Net Banking,23.0,Other
+2022-08-06,Tablet,84249.0,20.0,North,,USA,10.0,Credit Card,61.0,Female
+2022-01-17,Smartwatch,41605.0,46.0,South,Jaipur,France,5.0,Net Banking,24.0,Other
+2022-08-17,Smartwatch,,40.0,South,Delhi,France,15.0,Credit Card,53.0,Male
+2022-07-17,Tablet,36443.0,29.0,South,Delhi,Canada,10.0,Debit Card,29.0,Female
+2022-11-16,Printer,88683.0,33.0,North,Delhi,Germany,20.0,Cash,69.0,Other
+2022-10-22,Printer,70932.0,,North,Mumbai,UK,10.0,UPI,44.0,
+2022-03-01,Smartwatch,38985.0,14.0,East,Mumbai,India,20.0,Debit Card,32.0,Other
+2022-09-07,Camera,57097.0,36.0,East,,France,5.0,UPI,39.0,Female
+2022-07-11,Monitor,81008.0,15.0,West,Jaipur,USA,20.0,Credit Card,27.0,Other
+2022-01-29,Laptop,22599.0,25.0,North,Jaipur,USA,,Cash,40.0,Other
+2022-04-22,Mouse,35799.0,1.0,South,Jaipur,France,15.0,Debit Card,32.0,Female
+2022-04-29,Smartwatch,39363.0,22.0,West,Jaipur,USA,5.0,Cash,62.0,Female
+2022-03-14,Mouse,26223.0,28.0,South,Chennai,Germany,15.0,Cash,65.0,Female
+2022-05-29,Printer,,36.0,East,Bangalore,USA,5.0,Cash,18.0,Female
+2022-02-13,Laptop,86693.0,9.0,West,Delhi,France,10.0,Credit Card,24.0,Other
+2022-04-17,Monitor,62614.0,14.0,East,Mumbai,,5.0,Net Banking,34.0,Female
+2022-12-25,Phone,51001.0,,South,Kolkata,UK,10.0,Credit Card,48.0,Female
+2022-06-13,Camera,,25.0,South,Delhi,France,20.0,UPI,48.0,Other
+2022-11-02,Monitor,8746.0,43.0,North,Jaipur,Germany,5.0,Debit Card,31.0,Male
+2022-05-30,Printer,,2.0,West,Delhi,Canada,5.0,Cash,54.0,Male
+2022-04-17,Mouse,33857.0,20.0,North,Hyderabad,Germany,0.0,Credit Card,47.0,Female
+2022-09-28,Headphones,4398.0,2.0,East,Chennai,Germany,0.0,UPI,49.0,Other
+2022-11-12,Camera,,35.0,North,Lucknow,India,5.0,Cash,65.0,Other
+2022-02-25,Laptop,58665.0,34.0,North,Pune,Germany,0.0,Debit Card,,Female
+2022-12-11,Monitor,54897.0,5.0,North,Kolkata,Canada,15.0,UPI,20.0,Female
+2022-02-05,Smartwatch,,8.0,South,Ahmedabad,Canada,20.0,Credit Card,28.0,Other
+2022-10-19,Laptop,4056.0,21.0,East,Chennai,Germany,15.0,UPI,63.0,Male
+2022-10-29,Mouse,12732.0,48.0,East,Bangalore,France,15.0,UPI,51.0,Female
+2022-11-01,Monitor,98702.0,8.0,North,Pune,Canada,20.0,Net Banking,69.0,Female
+2022-12-05,Monitor,57018.0,14.0,West,Lucknow,India,0.0,Net Banking,,Female
+2022-12-30,Mouse,,45.0,East,Ahmedabad,France,10.0,Credit Card,57.0,Other
+2022-05-24,Printer,6738.0,20.0,West,Chennai,Canada,15.0,Debit Card,,Female
+2022-08-02,Smartwatch,33772.0,12.0,West,Jaipur,India,20.0,UPI,,
+2022-03-04,Smartwatch,80080.0,15.0,South,,France,0.0,Debit Card,43.0,Female
+2022-12-07,Laptop,3109.0,36.0,North,Bangalore,USA,20.0,UPI,22.0,Other
+2022-02-23,Monitor,30109.0,5.0,West,Delhi,India,20.0,Cash,60.0,Female
+2022-11-22,Headphones,51760.0,33.0,West,Delhi,India,0.0,UPI,22.0,Other
+2022-03-04,Headphones,26038.0,35.0,East,,India,15.0,Net Banking,60.0,Male
+2022-03-14,Smartwatch,59264.0,,North,Bangalore,France,20.0,UPI,22.0,Male
+2022-11-09,Monitor,28469.0,13.0,West,Pune,Canada,15.0,Cash,57.0,Male
+2022-03-08,,1024.0,48.0,North,Hyderabad,India,20.0,Credit Card,56.0,Other
+2022-09-18,Phone,20811.0,34.0,East,Mumbai,UK,5.0,Debit Card,45.0,Male
+2022-10-30,Smartwatch,21498.0,30.0,West,Kolkata,France,10.0,Net Banking,33.0,Male
+2022-11-14,Phone,36647.0,21.0,West,Kolkata,Germany,,UPI,61.0,Other
+2022-03-21,,19165.0,25.0,South,Jaipur,Canada,5.0,Debit Card,61.0,Male
+2022-11-30,Phone,58244.0,2.0,East,Mumbai,USA,0.0,Cash,19.0,Other
+2022-05-28,Camera,62632.0,6.0,West,Pune,France,20.0,Debit Card,63.0,Male
+2022-03-03,Mouse,21018.0,20.0,West,Chennai,Canada,15.0,,67.0,Other
+2022-11-21,Mouse,98099.0,36.0,East,Bangalore,Germany,0.0,Net Banking,69.0,Male
+2022-06-15,Tablet,68646.0,5.0,North,Pune,France,15.0,Cash,24.0,Other
+2022-09-20,Printer,21220.0,,North,Bangalore,Canada,20.0,UPI,34.0,Female
+2022-04-10,Mouse,33641.0,34.0,West,,India,15.0,Credit Card,40.0,Female
+2022-05-19,Tablet,86226.0,13.0,North,Lucknow,Germany,0.0,Cash,53.0,Female
+2022-04-26,Monitor,99452.0,,South,Bangalore,UK,15.0,Net Banking,61.0,Female
+2022-11-03,Keyboard,53318.0,22.0,,Ahmedabad,France,20.0,UPI,68.0,Female
+,Printer,53692.0,42.0,South,Bangalore,France,10.0,Debit Card,27.0,Female
+2022-03-09,Printer,27775.0,15.0,North,Pune,Canada,10.0,Credit Card,49.0,Other
+2022-03-01,Monitor,89354.0,5.0,West,Hyderabad,India,5.0,Debit Card,20.0,Other
+2022-05-17,Keyboard,83036.0,23.0,South,Lucknow,Germany,15.0,Credit Card,19.0,Male
+2022-12-18,Smartwatch,92272.0,4.0,South,Delhi,India,0.0,Net Banking,45.0,Female
+2022-06-25,Tablet,87345.0,31.0,North,Lucknow,USA,10.0,Credit Card,42.0,Other
+2022-06-17,Smartwatch,79923.0,17.0,West,Pune,USA,20.0,Credit Card,19.0,Male
+2022-04-28,Monitor,26727.0,10.0,East,Mumbai,India,5.0,Credit Card,21.0,Female
+2022-10-15,Printer,51667.0,,West,Chennai,France,5.0,Cash,31.0,Female
+2022-06-27,Printer,72703.0,49.0,West,Pune,USA,0.0,UPI,23.0,Female
+2022-12-03,Camera,5297.0,,North,Bangalore,Germany,5.0,Debit Card,19.0,Female
+2022-04-09,Laptop,,11.0,,Delhi,USA,10.0,Credit Card,49.0,Other
+2022-09-01,Laptop,81541.0,8.0,South,Bangalore,France,10.0,Credit Card,30.0,Female
+2022-05-31,Keyboard,24595.0,41.0,West,Pune,Canada,20.0,Net Banking,47.0,Other
+2022-04-13,Tablet,23588.0,26.0,South,Pune,Germany,10.0,UPI,68.0,Male
+2022-09-21,Laptop,27005.0,17.0,South,Lucknow,Canada,0.0,Credit Card,,Male
+2022-08-16,Phone,83028.0,41.0,North,Kolkata,,0.0,Debit Card,65.0,Other
+2022-06-27,Smartwatch,89092.0,47.0,West,Kolkata,Germany,0.0,Net Banking,69.0,Other
+2022-01-10,Smartwatch,30673.0,5.0,South,Delhi,France,5.0,Debit Card,61.0,Male
+2022-08-23,Mouse,76390.0,21.0,South,Jaipur,France,15.0,Debit Card,59.0,Male
+2022-01-07,Mouse,58546.0,10.0,North,Kolkata,USA,5.0,Cash,28.0,
+2022-12-30,Laptop,80258.0,3.0,,Kolkata,USA,15.0,Net Banking,20.0,Other
+2022-05-13,Smartwatch,97920.0,42.0,East,Delhi,Canada,10.0,Debit Card,31.0,Female
+2022-05-12,Monitor,47688.0,9.0,West,Mumbai,,5.0,Cash,61.0,Female
+2022-10-16,Monitor,9560.0,17.0,East,Pune,France,0.0,UPI,63.0,
+2022-12-26,Camera,12121.0,4.0,West,Delhi,Germany,5.0,,59.0,Other
+2022-02-05,Smartwatch,79653.0,16.0,East,Ahmedabad,Germany,20.0,Net Banking,26.0,Other
+2022-08-25,Monitor,58660.0,18.0,South,Chennai,France,5.0,Cash,33.0,Male
+2022-04-04,Tablet,33173.0,4.0,West,Hyderabad,France,,Net Banking,39.0,Male
+2022-05-10,Tablet,,15.0,South,Delhi,India,0.0,Debit Card,39.0,Male
+2022-12-27,Phone,55490.0,11.0,West,Hyderabad,India,10.0,Credit Card,57.0,Male
+2022-01-09,Headphones,72145.0,40.0,East,Jaipur,India,5.0,Net Banking,32.0,Female
+2022-08-25,Camera,,17.0,East,Jaipur,USA,20.0,Credit Card,64.0,Other
+2022-06-28,Printer,15996.0,46.0,East,Chennai,UK,0.0,Credit Card,32.0,Male
+2022-06-03,Headphones,,8.0,West,Chennai,Germany,15.0,Credit Card,40.0,Male
+2022-01-11,Smartwatch,34259.0,20.0,East,Bangalore,USA,0.0,Debit Card,59.0,Other
+2022-05-13,Camera,88746.0,12.0,South,Bangalore,Germany,5.0,Cash,42.0,Other
+2022-10-28,Smartwatch,78772.0,35.0,North,Lucknow,USA,0.0,Credit Card,33.0,Female
+2022-03-20,Phone,70556.0,34.0,,Hyderabad,UK,5.0,Net Banking,45.0,Other
+2022-04-26,Monitor,72420.0,1.0,East,Pune,UK,5.0,Net Banking,38.0,Female
+2022-08-14,Printer,2995.0,5.0,North,Kolkata,UK,20.0,Debit Card,51.0,Male
+2022-07-21,Camera,54810.0,17.0,North,Pune,UK,10.0,Credit Card,33.0,Male
+2022-11-13,Mouse,39653.0,46.0,East,Delhi,India,20.0,Debit Card,43.0,Female
+2022-10-20,Phone,68254.0,22.0,West,Jaipur,Canada,15.0,Credit Card,42.0,Male
+2022-04-26,Tablet,52103.0,16.0,East,,Germany,15.0,Debit Card,34.0,Female
+2022-07-01,Laptop,23383.0,,West,Bangalore,India,15.0,UPI,45.0,Female
+2022-12-15,Phone,,30.0,East,Ahmedabad,France,0.0,Debit Card,,
+2022-11-30,Monitor,10863.0,49.0,South,Lucknow,UK,20.0,Net Banking,43.0,Male
+2022-12-04,Mouse,27626.0,49.0,North,,UK,10.0,Debit Card,38.0,Female
+2022-01-10,Monitor,62659.0,25.0,South,Bangalore,Canada,15.0,UPI,60.0,Male
+2022-06-29,Laptop,26447.0,2.0,South,Chennai,UK,15.0,,38.0,Female
+2022-10-26,Phone,23962.0,29.0,East,Mumbai,USA,10.0,Net Banking,52.0,Other
+2022-01-31,Printer,41898.0,15.0,East,Kolkata,UK,15.0,Credit Card,64.0,Other
+2022-05-04,Headphones,33402.0,20.0,West,Lucknow,France,20.0,Credit Card,22.0,Female
+2022-11-06,Monitor,85812.0,10.0,West,Lucknow,UK,0.0,Credit Card,66.0,Male
+,Smartwatch,79469.0,20.0,South,Jaipur,USA,0.0,Net Banking,55.0,Male
+2022-02-06,Headphones,9296.0,40.0,North,,USA,5.0,Credit Card,29.0,Male
+2022-11-29,Tablet,39336.0,35.0,South,Hyderabad,UK,5.0,Debit Card,37.0,Male
+2022-12-18,Laptop,18423.0,35.0,North,Mumbai,Germany,10.0,Cash,27.0,Other
+2022-09-06,Phone,28733.0,42.0,North,Delhi,India,5.0,Debit Card,58.0,
+2022-07-28,Monitor,19681.0,10.0,East,,France,0.0,Credit Card,19.0,Female
+2022-07-23,Headphones,60239.0,43.0,North,Kolkata,Germany,15.0,Credit Card,19.0,Male
+2022-02-13,Phone,16060.0,8.0,West,Hyderabad,France,,Debit Card,65.0,Other
+2022-03-16,Printer,40681.0,43.0,East,Bangalore,UK,15.0,Cash,18.0,Male
+2022-06-10,Laptop,78391.0,33.0,South,Ahmedabad,India,10.0,Cash,35.0,Male
+2022-11-01,Headphones,11649.0,47.0,West,Hyderabad,USA,0.0,Cash,23.0,Female
+2022-02-16,Smartwatch,49446.0,41.0,South,Chennai,USA,0.0,UPI,51.0,Other
+2022-01-25,Phone,82334.0,17.0,South,Lucknow,Canada,5.0,Cash,64.0,Male
+2022-09-19,Printer,74386.0,36.0,East,Pune,Canada,5.0,Debit Card,47.0,Female
+2022-04-21,Headphones,46518.0,30.0,North,Chennai,Germany,0.0,Net Banking,,Male
+2022-12-08,Laptop,72016.0,34.0,West,Delhi,Germany,,Debit Card,68.0,Female
+2022-02-04,Printer,,8.0,West,Ahmedabad,India,5.0,UPI,27.0,Other
+2022-06-29,Tablet,92992.0,31.0,South,Hyderabad,USA,0.0,UPI,21.0,Other
+2022-02-09,Printer,80456.0,49.0,West,Hyderabad,India,0.0,Cash,64.0,Male
+2022-02-21,Mouse,37134.0,42.0,East,,Germany,10.0,Cash,,Male
+2022-06-17,Monitor,20751.0,6.0,East,Lucknow,USA,,Debit Card,64.0,Other
+2022-12-28,Tablet,20313.0,10.0,South,Pune,India,5.0,Cash,52.0,Female
+2022-08-27,Camera,45364.0,47.0,East,Ahmedabad,Canada,15.0,Credit Card,31.0,Other
+2022-12-08,Monitor,3432.0,,North,Ahmedabad,Germany,,Debit Card,48.0,Other
+2022-09-01,Headphones,75552.0,40.0,South,Hyderabad,Canada,5.0,Cash,67.0,
+2022-04-06,Camera,1705.0,39.0,South,Delhi,Canada,15.0,Credit Card,61.0,Male
+2022-09-24,Camera,93409.0,15.0,East,Hyderabad,Germany,15.0,Net Banking,57.0,Other
+2022-07-17,Keyboard,30124.0,,East,Kolkata,Germany,0.0,Credit Card,36.0,Male
+2022-09-29,Laptop,79565.0,48.0,North,Delhi,Canada,0.0,Credit Card,68.0,Male
+2022-05-11,Mouse,60394.0,20.0,West,Mumbai,Germany,5.0,UPI,66.0,Female
+2022-11-24,Headphones,64248.0,40.0,East,Bangalore,France,5.0,Cash,43.0,Other
+2022-03-30,Headphones,420.0,34.0,South,Chennai,Canada,0.0,UPI,53.0,Other
+2022-06-05,Printer,85944.0,32.0,East,Pune,Canada,15.0,UPI,69.0,Male
+2022-01-11,Tablet,14778.0,2.0,,Bangalore,Germany,0.0,,69.0,Other
+2022-08-28,,,1.0,West,Kolkata,Canada,20.0,Debit Card,53.0,Female
+2022-05-19,Camera,49520.0,13.0,West,Delhi,Germany,0.0,Credit Card,46.0,Male
+2022-11-12,Mouse,45860.0,36.0,South,Hyderabad,UK,15.0,Net Banking,28.0,Male
+2022-04-15,Mouse,74319.0,43.0,South,Ahmedabad,UK,10.0,Net Banking,53.0,Other
+2022-11-08,,97007.0,49.0,South,Hyderabad,India,20.0,Net Banking,68.0,Other
+2022-05-27,Mouse,84826.0,29.0,South,Delhi,India,10.0,Credit Card,31.0,Female
+2022-07-07,Laptop,55898.0,18.0,West,Ahmedabad,UK,10.0,UPI,66.0,Female
+2022-03-14,Camera,20145.0,12.0,East,Mumbai,India,5.0,Cash,68.0,Female
+2022-08-20,Laptop,52191.0,34.0,West,Delhi,India,15.0,Cash,37.0,Female
+2022-05-11,Keyboard,10500.0,24.0,East,Jaipur,Canada,20.0,Cash,53.0,Male
+2022-04-24,Printer,,37.0,South,,UK,20.0,Debit Card,39.0,Female
+2022-03-24,,58223.0,44.0,North,Lucknow,USA,0.0,Net Banking,60.0,Other
+2022-06-01,Phone,5673.0,10.0,West,Ahmedabad,USA,20.0,Debit Card,19.0,Other
+2022-10-08,Laptop,33024.0,19.0,West,Bangalore,France,5.0,Cash,18.0,Female
+2022-01-07,Tablet,62659.0,14.0,North,Delhi,,20.0,Debit Card,37.0,Other
+2022-12-12,Camera,14291.0,3.0,West,Pune,Canada,5.0,UPI,26.0,Other
+2022-02-22,Printer,44431.0,1.0,East,Jaipur,UK,20.0,Cash,29.0,Female
+2022-03-18,Laptop,45354.0,46.0,South,Delhi,Germany,15.0,UPI,49.0,Female
+2022-08-08,Printer,29575.0,10.0,South,Mumbai,UK,20.0,UPI,65.0,Male
+2022-12-01,Laptop,50717.0,24.0,West,Delhi,UK,10.0,Net Banking,37.0,Other
+,Laptop,90294.0,23.0,East,Pune,India,5.0,Debit Card,62.0,Male
+2022-10-20,Laptop,95333.0,21.0,North,Mumbai,USA,0.0,Debit Card,47.0,
+2022-10-10,Laptop,80172.0,2.0,West,Pune,UK,5.0,Debit Card,58.0,
+2022-09-11,Camera,61175.0,20.0,West,Kolkata,Canada,5.0,Cash,62.0,Other
+2022-10-12,Phone,86940.0,27.0,South,Jaipur,UK,20.0,Credit Card,32.0,Male
+2022-03-17,Tablet,46430.0,24.0,North,Mumbai,USA,5.0,Net Banking,54.0,Female
+2022-02-12,Smartwatch,24199.0,18.0,North,Mumbai,Canada,5.0,UPI,42.0,Female
+2022-11-02,Camera,99615.0,9.0,North,Hyderabad,UK,15.0,Net Banking,23.0,Female
+2022-11-08,Tablet,89963.0,49.0,North,Chennai,,10.0,Net Banking,30.0,Male
+2022-07-29,Phone,72494.0,16.0,West,Bangalore,Germany,15.0,UPI,35.0,
+2022-01-29,Keyboard,16060.0,2.0,South,Kolkata,Germany,0.0,Net Banking,48.0,Other
+2022-06-13,Keyboard,59195.0,7.0,West,Hyderabad,UK,10.0,Debit Card,43.0,
+2022-01-29,Camera,9369.0,28.0,East,Ahmedabad,USA,5.0,Debit Card,39.0,Female
+2022-10-02,Printer,31205.0,47.0,West,Hyderabad,UK,0.0,Cash,28.0,Male
+2022-04-13,Printer,43007.0,25.0,South,,Canada,0.0,Debit Card,54.0,Female
+2022-01-28,Headphones,96243.0,7.0,East,Lucknow,Germany,10.0,Cash,32.0,Other
+2022-04-06,,29192.0,37.0,North,Pune,UK,0.0,Cash,62.0,Female
+2022-05-17,Laptop,27564.0,8.0,South,Hyderabad,India,20.0,Net Banking,34.0,Male
+2022-11-20,Phone,4863.0,41.0,West,Pune,UK,,UPI,67.0,Other
+2022-09-07,Keyboard,72355.0,40.0,North,Chennai,Canada,10.0,Credit Card,35.0,Other
+2022-06-21,Phone,74048.0,3.0,,Pune,France,,UPI,26.0,Other
+2022-03-03,Printer,44562.0,48.0,West,Jaipur,UK,20.0,Cash,64.0,Other
+2022-02-20,Keyboard,97366.0,3.0,West,Hyderabad,Canada,10.0,Cash,52.0,Female
+2022-10-09,Phone,8621.0,11.0,West,Ahmedabad,USA,5.0,Credit Card,30.0,Other
+2022-09-30,Mouse,18200.0,31.0,East,Kolkata,UK,20.0,Net Banking,55.0,Female
+2022-04-24,Laptop,86036.0,35.0,North,Bangalore,India,0.0,Net Banking,33.0,Other
+2022-07-07,Mouse,51980.0,40.0,West,Pune,,5.0,Cash,50.0,Other
+2022-01-12,Camera,8051.0,12.0,West,Kolkata,Canada,15.0,UPI,27.0,Other
+2022-09-14,Laptop,85573.0,19.0,North,Lucknow,India,0.0,Net Banking,54.0,Male
+2022-01-05,Tablet,5309.0,48.0,West,Jaipur,France,20.0,UPI,28.0,Other
+2022-02-18,Laptop,27956.0,44.0,South,Bangalore,UK,5.0,Credit Card,,Female
+2022-01-30,Laptop,63979.0,42.0,North,Hyderabad,India,10.0,UPI,63.0,Other
+2022-01-13,Monitor,72735.0,45.0,East,Hyderabad,Germany,0.0,Debit Card,50.0,Female
+2022-02-22,Smartwatch,71645.0,39.0,North,Lucknow,Germany,20.0,Credit Card,26.0,Other
+2022-04-27,Camera,79626.0,43.0,East,Hyderabad,Germany,20.0,Cash,42.0,Male
+2022-03-22,Keyboard,37093.0,36.0,South,Hyderabad,India,15.0,Debit Card,41.0,Female
+2022-02-11,Keyboard,70814.0,40.0,West,Lucknow,Canada,5.0,UPI,36.0,Male
+2022-05-11,Headphones,17274.0,14.0,North,Mumbai,India,10.0,Debit Card,68.0,Female
+2022-07-22,Keyboard,58961.0,35.0,South,Kolkata,,0.0,Cash,61.0,Male
+2022-12-13,Printer,56674.0,48.0,,Mumbai,France,5.0,Credit Card,67.0,Female
+2022-08-03,Laptop,45996.0,42.0,South,Bangalore,France,5.0,Debit Card,64.0,Female
+2022-02-25,Printer,17206.0,46.0,North,Mumbai,,15.0,Credit Card,39.0,
+2022-05-20,,92791.0,17.0,South,Kolkata,USA,0.0,Cash,51.0,
+2022-07-03,Tablet,70542.0,26.0,South,Jaipur,UK,10.0,UPI,26.0,Other
+2022-02-28,Printer,49394.0,11.0,North,Ahmedabad,France,20.0,Net Banking,18.0,Female
+2022-06-26,Phone,615.0,17.0,North,Lucknow,Canada,0.0,Credit Card,63.0,Female
+2022-01-01,Mouse,13431.0,9.0,East,,India,5.0,Net Banking,69.0,Other
+2022-10-18,Smartwatch,86804.0,17.0,North,Chennai,USA,5.0,Net Banking,29.0,Female
+,Tablet,37140.0,26.0,West,Mumbai,Germany,20.0,Net Banking,45.0,Other
+2022-02-23,Mouse,,8.0,North,Lucknow,Canada,10.0,Credit Card,49.0,Female
+2022-08-11,Tablet,14408.0,22.0,West,Pune,UK,0.0,Cash,53.0,Female
+2022-02-04,Headphones,55187.0,34.0,North,Bangalore,UK,10.0,Credit Card,,Other
+2022-08-17,Mouse,490.0,3.0,North,Lucknow,UK,15.0,Credit Card,38.0,Female
+2022-08-01,Phone,6969.0,32.0,West,,Germany,5.0,Credit Card,28.0,Female
+2022-01-08,Laptop,28721.0,23.0,North,Kolkata,Canada,20.0,Debit Card,31.0,Female
+2022-04-10,Camera,29427.0,28.0,East,Hyderabad,Canada,,Debit Card,39.0,Other
+2022-01-27,Laptop,70290.0,30.0,East,Lucknow,UK,15.0,Net Banking,24.0,Male
+2022-06-29,Tablet,43326.0,38.0,South,,France,20.0,Net Banking,40.0,Male
+2022-05-06,Mouse,61486.0,10.0,South,Ahmedabad,Canada,10.0,Debit Card,68.0,Female
+2022-04-02,Monitor,,3.0,North,Bangalore,Canada,15.0,Debit Card,28.0,Female
+2022-12-20,Printer,89487.0,11.0,East,Jaipur,India,15.0,Credit Card,49.0,Female
+2022-01-14,Keyboard,5998.0,,,Kolkata,Canada,20.0,Credit Card,32.0,Other
+2022-03-21,Mouse,43032.0,26.0,East,Lucknow,USA,20.0,Credit Card,55.0,Other
+2022-11-01,Mouse,21772.0,16.0,East,Pune,UK,5.0,Credit Card,66.0,Female
+2022-10-31,Keyboard,77953.0,31.0,,Chennai,France,0.0,UPI,64.0,Male
+2022-07-20,Printer,,15.0,East,Kolkata,UK,5.0,Credit Card,,Other
+2022-05-26,Headphones,52435.0,12.0,West,Pune,Canada,0.0,Debit Card,44.0,Female
+2022-04-10,Monitor,19277.0,46.0,North,Hyderabad,India,10.0,Credit Card,,Other
+2022-12-25,Monitor,,49.0,South,Hyderabad,Germany,0.0,Cash,35.0,Other
+,Camera,97593.0,19.0,North,Hyderabad,Germany,20.0,Debit Card,59.0,Female
+,Keyboard,83263.0,33.0,West,Jaipur,France,15.0,,45.0,Other
+2022-03-09,Smartwatch,77706.0,12.0,East,Lucknow,UK,10.0,Net Banking,27.0,Male
+2022-08-01,Smartwatch,61369.0,18.0,South,Mumbai,India,10.0,,,Other
+2022-12-01,Printer,17127.0,11.0,West,Hyderabad,USA,0.0,Net Banking,48.0,Other
+2022-09-15,Keyboard,92060.0,4.0,East,Kolkata,USA,15.0,Net Banking,69.0,Other
+2022-01-15,Laptop,62866.0,31.0,North,Delhi,Germany,0.0,Debit Card,40.0,Male
+2022-10-12,Phone,86940.0,27.0,South,Jaipur,UK,20.0,Credit Card,32.0,Male
+2022-02-20,Keyboard,55261.0,30.0,South,Lucknow,Germany,,Net Banking,59.0,Male
+2022-10-21,Keyboard,51528.0,7.0,South,Delhi,USA,15.0,Credit Card,22.0,Other
+2022-03-21,Monitor,73003.0,28.0,North,Pune,USA,10.0,Net Banking,43.0,Female
+2022-05-28,Camera,78912.0,16.0,South,Kolkata,,0.0,Cash,38.0,Female
+2022-02-08,Mouse,2223.0,33.0,East,Delhi,France,15.0,UPI,19.0,Female
+2022-10-20,,34735.0,3.0,East,Ahmedabad,UK,15.0,UPI,28.0,Other
+2022-04-11,Headphones,57896.0,23.0,North,Hyderabad,Canada,0.0,UPI,28.0,Female
+,Phone,5051.0,43.0,North,Pune,France,0.0,Cash,65.0,Other
+2022-10-18,Laptop,73668.0,48.0,South,Jaipur,India,5.0,Net Banking,56.0,Female
+2022-05-29,Tablet,47731.0,34.0,West,Delhi,USA,5.0,Net Banking,35.0,Male
+2022-11-22,Printer,81397.0,41.0,,Mumbai,USA,0.0,Credit Card,50.0,Male
+2022-01-16,Keyboard,93448.0,43.0,West,Chennai,Canada,20.0,UPI,,Male
+2022-09-24,Tablet,51112.0,42.0,,Bangalore,Canada,5.0,Credit Card,62.0,Male
+2022-01-03,Monitor,17957.0,35.0,South,Hyderabad,Germany,5.0,Net Banking,58.0,Male
+2022-08-05,Keyboard,11185.0,4.0,South,Delhi,Canada,5.0,Cash,68.0,Other
+2022-03-08,Laptop,,39.0,North,Mumbai,UK,10.0,Cash,25.0,Male
+2022-09-23,Camera,,28.0,East,Delhi,France,15.0,Credit Card,67.0,Male
+2022-01-12,Printer,61565.0,15.0,,Lucknow,USA,20.0,UPI,52.0,Female
+2022-05-28,Phone,77076.0,44.0,West,Lucknow,Germany,15.0,Cash,22.0,Other
+2022-02-09,Printer,50171.0,46.0,South,Jaipur,Germany,20.0,UPI,24.0,Female
+2022-01-06,Tablet,91663.0,16.0,,Bangalore,,20.0,Cash,50.0,Other
+2022-02-24,Headphones,34584.0,,West,Kolkata,USA,20.0,Credit Card,59.0,Female
+2022-03-12,Monitor,85192.0,48.0,South,Bangalore,Canada,10.0,Cash,37.0,Male
+2022-10-23,Headphones,42084.0,47.0,South,Delhi,UK,15.0,Net Banking,38.0,Male
+2022-09-27,Monitor,27260.0,12.0,South,Hyderabad,France,,Credit Card,40.0,Male
+2022-06-22,Phone,69302.0,9.0,South,Kolkata,UK,,Credit Card,44.0,Male
+2022-03-03,Printer,44562.0,48.0,West,Jaipur,UK,20.0,Cash,64.0,Other
+2022-06-27,,99345.0,29.0,West,Lucknow,Canada,20.0,Credit Card,36.0,
+2022-12-15,Printer,65597.0,4.0,North,Hyderabad,France,10.0,Credit Card,29.0,Other
+2022-09-18,Monitor,4468.0,9.0,West,Delhi,USA,0.0,Net Banking,23.0,Other
+2022-01-05,Laptop,61746.0,31.0,West,Kolkata,France,,Cash,58.0,Male
+2022-04-25,Printer,63872.0,40.0,North,Ahmedabad,India,0.0,Credit Card,42.0,Male
+,Phone,38623.0,36.0,East,Jaipur,Canada,10.0,Debit Card,60.0,Female
+2022-05-13,Mouse,86536.0,4.0,East,Pune,Germany,15.0,Net Banking,34.0,Male
+2022-12-08,Mouse,83893.0,37.0,North,Bangalore,Germany,0.0,Cash,28.0,Male
+2022-01-12,Laptop,24700.0,40.0,North,Hyderabad,France,20.0,UPI,63.0,Other
+2022-03-10,Camera,79658.0,42.0,West,,UK,15.0,Net Banking,53.0,Male
+2022-03-14,Tablet,3426.0,23.0,West,Lucknow,France,15.0,UPI,18.0,Other
+2022-06-19,Phone,20345.0,3.0,South,Delhi,Germany,20.0,Cash,44.0,Other
+2022-10-19,Printer,49152.0,41.0,South,Chennai,India,0.0,Credit Card,50.0,Male
+2022-09-26,Phone,64484.0,,North,Delhi,India,10.0,Credit Card,56.0,Other
+,Smartwatch,96733.0,37.0,West,Hyderabad,France,10.0,UPI,44.0,Female
+2022-02-10,Tablet,94313.0,49.0,South,Chennai,USA,15.0,Credit Card,44.0,Other
+2022-01-25,Camera,48617.0,39.0,South,Kolkata,India,,Cash,52.0,Other
+2022-06-12,Laptop,78562.0,49.0,South,Kolkata,USA,15.0,Cash,41.0,Female
+2022-10-12,Tablet,9047.0,2.0,East,Lucknow,Germany,20.0,Net Banking,35.0,Female
+2022-07-07,Keyboard,19084.0,24.0,West,Lucknow,UK,5.0,Credit Card,,Female
+2022-04-04,Headphones,2637.0,7.0,North,Pune,USA,0.0,Cash,43.0,Female
+2022-10-14,Printer,74305.0,26.0,South,Jaipur,Canada,15.0,Cash,60.0,Other
+,,62680.0,45.0,,Lucknow,India,5.0,Credit Card,68.0,Female
+2022-11-07,Smartwatch,65624.0,40.0,East,Hyderabad,France,20.0,Debit Card,61.0,Female
+2022-10-19,Laptop,13261.0,15.0,West,Hyderabad,UK,5.0,UPI,46.0,Other
+2022-08-06,Laptop,6189.0,44.0,West,Delhi,USA,15.0,Credit Card,19.0,Male
+2022-03-07,Phone,45536.0,6.0,West,Jaipur,India,0.0,Debit Card,60.0,Male
+2022-10-09,Tablet,38467.0,16.0,East,Kolkata,France,,UPI,40.0,Other
+2022-04-09,Phone,82766.0,2.0,North,Ahmedabad,UK,20.0,Cash,59.0,Female
+2022-06-02,Smartwatch,12479.0,18.0,East,Mumbai,,20.0,Credit Card,,Other
+2022-08-06,Laptop,806.0,25.0,South,Jaipur,France,5.0,Debit Card,56.0,Other
+2022-06-18,Monitor,39269.0,26.0,,Pune,France,5.0,Net Banking,41.0,
+2022-09-04,Smartwatch,5026.0,8.0,West,Kolkata,France,15.0,,43.0,Female
+2022-11-26,Mouse,39967.0,38.0,South,Hyderabad,USA,15.0,Cash,32.0,Other
+2022-07-09,Smartwatch,74517.0,27.0,North,,Canada,20.0,UPI,46.0,Male
+,Keyboard,82163.0,40.0,,Chennai,Canada,20.0,Debit Card,40.0,Other
+2022-09-17,Mouse,93548.0,33.0,South,Chennai,France,,Cash,44.0,Female
+2022-12-21,Tablet,21684.0,5.0,East,Chennai,UK,0.0,UPI,68.0,Female
+2022-02-07,Mouse,25525.0,4.0,South,Pune,France,10.0,UPI,31.0,Female
+2022-09-03,Keyboard,37525.0,43.0,East,Hyderabad,USA,5.0,Debit Card,55.0,Female
+2022-09-19,Tablet,44065.0,18.0,North,Pune,Germany,20.0,Debit Card,32.0,Male
+2022-05-04,Phone,31490.0,5.0,South,Mumbai,USA,10.0,Cash,44.0,Other
+2022-11-28,Laptop,80959.0,23.0,East,Hyderabad,Canada,20.0,Net Banking,49.0,Other
+2022-04-13,Mouse,52444.0,13.0,East,Kolkata,UK,5.0,Net Banking,54.0,Female
+2022-09-12,Headphones,17676.0,34.0,South,Lucknow,USA,0.0,Debit Card,18.0,Male
+2022-12-28,Phone,5094.0,45.0,South,Kolkata,Germany,0.0,Debit Card,53.0,Male
+2022-12-19,Tablet,36210.0,24.0,West,Lucknow,USA,0.0,Debit Card,68.0,Other
+2022-05-24,Phone,24056.0,40.0,West,Kolkata,Canada,0.0,Credit Card,27.0,Male
+2022-12-23,Printer,57296.0,26.0,East,Delhi,France,5.0,Net Banking,59.0,Female
+2022-01-04,Keyboard,39995.0,2.0,East,Ahmedabad,Canada,5.0,Debit Card,47.0,Female
+2022-11-01,,7633.0,18.0,South,Jaipur,India,10.0,Credit Card,56.0,Other
+2022-01-26,Mouse,95048.0,13.0,East,Lucknow,India,20.0,Net Banking,28.0,Male
+2022-09-11,Laptop,75974.0,36.0,East,,Canada,5.0,Credit Card,69.0,Male
+2022-12-01,Printer,9937.0,49.0,North,Pune,UK,20.0,Credit Card,44.0,Male
+2022-06-01,Headphones,68789.0,34.0,North,Mumbai,Canada,0.0,Net Banking,31.0,Male
+2022-03-14,Laptop,98075.0,37.0,East,Kolkata,France,5.0,Credit Card,27.0,Female
+2022-01-22,Laptop,83758.0,8.0,South,Chennai,Germany,0.0,Cash,68.0,Male
+2022-12-12,Smartwatch,91973.0,21.0,South,Hyderabad,India,5.0,Debit Card,62.0,Male
+2022-01-19,Keyboard,89624.0,5.0,North,Kolkata,Canada,0.0,Debit Card,62.0,Male
+2022-06-09,Monitor,58679.0,24.0,West,Pune,Germany,0.0,Debit Card,64.0,Male
+2022-05-21,Phone,26228.0,16.0,South,Pune,Canada,5.0,Net Banking,67.0,Other
+2022-04-28,Laptop,1268.0,28.0,East,Bangalore,France,20.0,Debit Card,45.0,Male
+,Tablet,17404.0,38.0,South,Jaipur,USA,10.0,UPI,25.0,Male
+2022-02-12,Smartwatch,24199.0,18.0,North,Mumbai,Canada,5.0,UPI,42.0,Female
+2022-03-31,,81888.0,17.0,North,Pune,Germany,10.0,Debit Card,59.0,Other
+2022-07-15,Monitor,67808.0,19.0,East,Ahmedabad,USA,10.0,UPI,,Female
+2022-10-30,Monitor,56340.0,40.0,North,Lucknow,India,15.0,Credit Card,26.0,Other
+2022-04-14,Phone,2981.0,10.0,North,Chennai,,,UPI,67.0,Male
+2022-07-30,Mouse,34665.0,38.0,South,Chennai,France,15.0,UPI,18.0,Male
+2022-03-09,Headphones,3591.0,22.0,South,Pune,UK,0.0,Credit Card,24.0,Other
+2022-11-11,Monitor,58101.0,18.0,West,,Germany,15.0,Debit Card,40.0,Other
+2022-07-12,Printer,15677.0,43.0,North,Delhi,Canada,5.0,Credit Card,62.0,Other
+2022-01-31,Mouse,31656.0,49.0,East,Ahmedabad,France,0.0,Cash,21.0,Other
+2022-08-19,Smartwatch,42714.0,26.0,South,Bangalore,Canada,15.0,Credit Card,52.0,Other
+2022-03-06,Smartwatch,43890.0,26.0,West,Bangalore,Germany,0.0,UPI,42.0,Other
+2022-10-11,Tablet,85809.0,44.0,South,Jaipur,Canada,5.0,Net Banking,50.0,Other
+2022-09-06,Camera,89845.0,29.0,East,Kolkata,Germany,10.0,Credit Card,50.0,Male
+2022-01-20,Tablet,34678.0,,East,Delhi,Germany,5.0,Net Banking,19.0,Female
+2022-11-16,,21022.0,7.0,North,Bangalore,India,20.0,Cash,58.0,Female
+2022-10-18,Printer,96721.0,12.0,North,Bangalore,France,5.0,Cash,29.0,Male
+2022-01-07,Monitor,,33.0,West,Pune,Canada,10.0,UPI,21.0,Male
+2022-02-25,Mouse,63951.0,39.0,North,Delhi,,5.0,Credit Card,51.0,Other
+2022-11-01,Smartwatch,63680.0,31.0,East,Kolkata,UK,15.0,UPI,67.0,Other
+2022-06-27,Headphones,59972.0,39.0,East,Lucknow,UK,5.0,,68.0,Other
+2022-05-25,Printer,90171.0,28.0,West,Bangalore,Canada,0.0,,58.0,
+2022-03-13,Headphones,27341.0,23.0,,Pune,Canada,15.0,,61.0,Male
+2022-11-10,Smartwatch,,36.0,North,Chennai,India,5.0,Cash,66.0,Male
+2022-03-20,Printer,15223.0,,East,Pune,USA,20.0,Cash,27.0,Other
+2022-08-10,Smartwatch,15129.0,35.0,South,Chennai,,15.0,Credit Card,19.0,Female
+2022-07-20,,44514.0,33.0,,Ahmedabad,USA,10.0,Debit Card,48.0,Other
+2022-08-30,Camera,77462.0,5.0,West,Delhi,USA,0.0,Credit Card,28.0,
+2022-03-10,Mouse,,2.0,East,Chennai,Germany,5.0,UPI,26.0,Female
+2022-06-02,Mouse,81633.0,45.0,North,Lucknow,Germany,20.0,,53.0,Other
+2022-10-18,Monitor,28122.0,39.0,East,Hyderabad,India,15.0,UPI,25.0,Other
+2022-11-19,Laptop,32734.0,10.0,South,Mumbai,Canada,10.0,Cash,,Other
+2022-08-04,Keyboard,70311.0,31.0,North,Delhi,USA,10.0,Net Banking,23.0,Other
+2022-05-31,Camera,25516.0,46.0,East,Jaipur,USA,20.0,Credit Card,61.0,Female
+2022-06-04,Tablet,11460.0,7.0,West,Bangalore,Canada,20.0,Net Banking,46.0,Other
+2022-04-23,Smartwatch,16906.0,10.0,North,Ahmedabad,Germany,10.0,Debit Card,69.0,Other
+2022-12-02,Tablet,78112.0,1.0,East,Chennai,,0.0,UPI,38.0,Female
+2022-12-14,Mouse,,40.0,South,,USA,20.0,,28.0,
+2022-05-13,Tablet,81937.0,3.0,East,Chennai,Germany,5.0,Net Banking,41.0,Other
+2022-03-01,Tablet,96133.0,45.0,East,Lucknow,USA,5.0,UPI,62.0,Female
+2022-02-14,Monitor,56733.0,40.0,North,Kolkata,France,5.0,Credit Card,57.0,Female
+2022-04-20,Laptop,76150.0,24.0,West,Pune,Canada,0.0,Credit Card,61.0,Other
+2022-12-30,Camera,93815.0,47.0,East,Bangalore,Canada,10.0,Credit Card,,Male
+2022-04-06,Camera,85743.0,45.0,South,Chennai,UK,10.0,Cash,19.0,Other
+2022-10-07,Tablet,82484.0,48.0,North,Pune,India,0.0,UPI,,Other
+2022-08-18,Monitor,79311.0,47.0,South,Ahmedabad,Germany,15.0,Credit Card,21.0,Male
+2022-10-24,Tablet,31415.0,23.0,South,Jaipur,Germany,10.0,Net Banking,38.0,Other
+2022-06-06,Printer,94987.0,49.0,West,Kolkata,India,0.0,Credit Card,43.0,Male
+2022-12-20,Smartwatch,791.0,1.0,East,Jaipur,India,5.0,Net Banking,62.0,
+2022-12-28,Headphones,37145.0,,South,Chennai,UK,15.0,Net Banking,31.0,Other
+2022-04-27,Phone,61926.0,33.0,West,Pune,France,15.0,UPI,19.0,Female
+2022-10-03,Printer,96464.0,10.0,North,Bangalore,France,10.0,Debit Card,69.0,Male
+2022-05-17,Headphones,58319.0,8.0,West,Chennai,UK,5.0,Debit Card,21.0,Other
+2022-01-16,Smartwatch,40569.0,36.0,North,,Germany,15.0,Credit Card,18.0,Other
+2022-06-02,Mouse,,6.0,South,Delhi,Germany,5.0,UPI,40.0,Male
+2022-05-26,Phone,36019.0,6.0,South,Delhi,India,5.0,Credit Card,50.0,Male
+2022-10-04,Tablet,30664.0,12.0,North,Hyderabad,India,0.0,UPI,43.0,Female
+2022-03-31,Headphones,39825.0,11.0,South,Lucknow,USA,0.0,UPI,24.0,Female
+2022-11-24,Headphones,29809.0,12.0,East,Pune,India,20.0,UPI,69.0,Female
+2022-05-31,Monitor,30105.0,18.0,West,,Germany,5.0,UPI,39.0,
+2022-03-17,Camera,,16.0,North,,Germany,5.0,UPI,31.0,Female
+2022-07-17,Mouse,21023.0,31.0,East,Mumbai,UK,10.0,Credit Card,59.0,Other
+2022-09-10,Printer,,12.0,East,Mumbai,India,0.0,UPI,66.0,Other
+2022-11-17,Camera,62147.0,13.0,West,Hyderabad,Canada,5.0,Cash,35.0,Other
+2022-11-24,Tablet,45301.0,3.0,West,Hyderabad,India,20.0,Credit Card,55.0,Other
+2022-02-20,Smartwatch,49693.0,14.0,East,Ahmedabad,Canada,10.0,UPI,52.0,Female
+2022-08-13,Tablet,19701.0,16.0,,Jaipur,UK,,Credit Card,,Male
+2022-04-05,Mouse,82868.0,32.0,,Chennai,Canada,0.0,UPI,42.0,Other
+2022-01-11,Headphones,2529.0,6.0,North,,UK,10.0,Credit Card,63.0,Female
+,Keyboard,28710.0,18.0,West,Chennai,India,15.0,Credit Card,51.0,Male
+,,58966.0,29.0,East,Ahmedabad,India,0.0,Net Banking,33.0,Male
+2022-02-11,Printer,15828.0,31.0,North,Chennai,UK,20.0,Credit Card,34.0,Female
+2022-11-25,Phone,93998.0,31.0,South,Pune,USA,10.0,Net Banking,55.0,Male
+2022-01-12,Laptop,48739.0,42.0,West,Ahmedabad,France,10.0,Debit Card,36.0,Other
+2022-07-27,Camera,5795.0,46.0,South,Ahmedabad,UK,20.0,UPI,42.0,
+2022-04-11,Smartwatch,51133.0,39.0,West,Chennai,Canada,20.0,Cash,47.0,Other
+2022-02-02,Smartwatch,50805.0,15.0,North,Pune,USA,0.0,Debit Card,20.0,Male
+2022-05-25,Mouse,34335.0,34.0,East,Kolkata,Germany,0.0,Debit Card,63.0,Male
+2022-12-07,Tablet,40801.0,17.0,East,Chennai,Canada,15.0,Credit Card,,Other
+2022-06-11,Smartwatch,13898.0,24.0,East,Kolkata,Germany,5.0,Debit Card,23.0,Male
+2022-05-02,Smartwatch,76541.0,27.0,,Bangalore,USA,10.0,Debit Card,56.0,Female
+,Keyboard,792.0,31.0,North,Mumbai,Canada,0.0,UPI,25.0,Male
+2022-05-11,Printer,34128.0,41.0,North,Lucknow,France,10.0,Credit Card,19.0,Male
+2022-03-07,Phone,77165.0,46.0,South,Jaipur,USA,5.0,Cash,26.0,Other
+2022-07-02,Headphones,,2.0,North,Pune,USA,10.0,Credit Card,57.0,Male
+2022-02-08,Monitor,90004.0,32.0,,Bangalore,India,20.0,Net Banking,58.0,Female
+2022-09-21,Laptop,41586.0,39.0,North,Lucknow,India,10.0,Net Banking,28.0,Female
+2022-01-20,Keyboard,21976.0,49.0,East,Kolkata,,10.0,Cash,66.0,Male
+2022-09-06,Printer,50535.0,5.0,West,Chennai,USA,20.0,Cash,58.0,Female
+2022-06-13,Smartwatch,4236.0,29.0,North,Bangalore,Canada,,Credit Card,68.0,Male
+2022-12-07,Smartwatch,87635.0,,East,Delhi,USA,20.0,Net Banking,62.0,Male
+2022-12-09,,92171.0,48.0,North,Hyderabad,USA,5.0,Cash,34.0,Female
+2022-10-28,Tablet,56307.0,20.0,North,Pune,USA,0.0,Credit Card,57.0,Other
+2022-09-19,Printer,74386.0,36.0,East,Pune,Canada,5.0,Debit Card,47.0,Female
+2022-06-13,Camera,39522.0,30.0,West,Ahmedabad,USA,10.0,Cash,68.0,Male
+2022-10-29,Tablet,63577.0,37.0,East,Mumbai,India,5.0,UPI,66.0,Other
+2022-11-03,Laptop,17896.0,8.0,North,Hyderabad,India,15.0,Credit Card,43.0,Male
+2022-09-21,Tablet,11881.0,13.0,North,Jaipur,Germany,10.0,Debit Card,23.0,Male
+2022-10-15,Headphones,10486.0,9.0,North,Delhi,India,10.0,Cash,39.0,Other
+2022-11-24,Printer,25463.0,30.0,West,Lucknow,UK,5.0,Debit Card,,Male
+2022-11-05,Camera,2087.0,4.0,South,Delhi,India,15.0,Debit Card,42.0,Male
+2022-10-17,Tablet,33165.0,5.0,East,Mumbai,UK,5.0,Credit Card,21.0,Male
+2022-07-18,Printer,52157.0,33.0,West,Mumbai,Canada,20.0,Credit Card,65.0,Male
+2022-06-13,Headphones,83867.0,25.0,East,Delhi,France,5.0,Cash,25.0,Female
+2022-06-30,Phone,,13.0,North,Jaipur,,15.0,Debit Card,54.0,Female
+,Mouse,85986.0,13.0,West,Ahmedabad,USA,15.0,Debit Card,67.0,Male
+2022-04-08,Camera,85589.0,49.0,South,Kolkata,India,20.0,UPI,42.0,Other
+2022-11-09,Headphones,42529.0,43.0,North,Lucknow,India,5.0,,64.0,Female
+2022-05-10,Monitor,52711.0,23.0,East,Delhi,USA,10.0,Cash,40.0,Male
+2022-10-26,Smartwatch,94784.0,18.0,North,Hyderabad,Germany,20.0,Net Banking,47.0,Male
+2022-10-19,Laptop,14659.0,34.0,North,Chennai,Germany,10.0,Debit Card,24.0,Male
+2022-11-23,Printer,85861.0,24.0,North,Kolkata,,5.0,,29.0,Male
+2022-11-01,,97749.0,24.0,West,Lucknow,UK,,UPI,29.0,Other
+2022-03-30,Headphones,90910.0,,West,Pune,France,5.0,Debit Card,29.0,Other
+2022-04-27,Mouse,,17.0,West,Kolkata,France,20.0,Debit Card,33.0,Other
+2022-06-20,Printer,5722.0,9.0,East,Bangalore,India,0.0,Cash,59.0,Female
+2022-12-04,Printer,24566.0,6.0,North,Kolkata,Germany,10.0,Cash,69.0,Female
+2022-05-05,Tablet,70840.0,20.0,North,Kolkata,France,20.0,Net Banking,57.0,Female
+2022-11-07,Smartwatch,65624.0,40.0,East,Hyderabad,France,20.0,Debit Card,61.0,Female
+2022-11-15,Tablet,68976.0,35.0,East,Lucknow,Germany,0.0,Cash,32.0,Female
+,Phone,88414.0,9.0,West,Hyderabad,USA,0.0,UPI,28.0,Other
+2022-08-29,Keyboard,88470.0,2.0,North,Bangalore,USA,5.0,UPI,19.0,Female
+2022-07-03,Monitor,31506.0,48.0,West,Mumbai,France,15.0,Cash,33.0,Female
+2022-04-14,,1001.0,37.0,North,Delhi,,15.0,Cash,64.0,Male
+2022-09-27,Monitor,90062.0,22.0,East,Bangalore,Canada,5.0,Credit Card,54.0,Female
+2022-07-09,Monitor,88402.0,18.0,West,Delhi,,10.0,Debit Card,19.0,Female
+2022-08-10,Headphones,36661.0,9.0,North,Lucknow,,20.0,Credit Card,63.0,Female
+2022-08-11,,56163.0,33.0,West,Mumbai,India,15.0,,30.0,Other
+2022-12-27,Tablet,7797.0,18.0,North,,Canada,5.0,Net Banking,21.0,Male
+2022-11-20,Mouse,20936.0,23.0,,Kolkata,,0.0,Credit Card,53.0,Female
+2022-11-04,,29653.0,37.0,North,,,0.0,Credit Card,40.0,Male
+2022-03-15,,43398.0,42.0,South,Pune,USA,10.0,Credit Card,,Other
+2022-02-28,Printer,33876.0,12.0,North,Ahmedabad,India,0.0,Net Banking,29.0,Female
+2022-12-31,Keyboard,21392.0,35.0,North,Pune,France,10.0,Credit Card,39.0,Other
+2022-01-22,Tablet,6547.0,24.0,,Jaipur,Germany,10.0,Cash,68.0,Male
+2022-05-13,Monitor,74952.0,23.0,North,Hyderabad,UK,20.0,Debit Card,67.0,Other
+2022-08-14,Headphones,,11.0,,Hyderabad,UK,0.0,Cash,69.0,Male
+2022-06-07,Printer,166.0,24.0,North,Kolkata,Germany,15.0,Net Banking,56.0,
+2022-11-12,Monitor,52062.0,30.0,North,Lucknow,Canada,0.0,Cash,66.0,Other
+2022-09-03,Phone,82014.0,47.0,South,Ahmedabad,UK,10.0,Credit Card,65.0,Other
+2022-07-27,Keyboard,85581.0,18.0,West,Kolkata,USA,5.0,UPI,38.0,Male
+2022-04-19,Keyboard,58197.0,41.0,East,Pune,UK,15.0,UPI,44.0,Female
+2022-06-25,Mouse,67791.0,34.0,West,Lucknow,Canada,10.0,Credit Card,57.0,Male
+,Tablet,38517.0,25.0,North,Pune,India,20.0,UPI,30.0,Other
+2022-12-12,Headphones,65880.0,15.0,East,Ahmedabad,Germany,10.0,Net Banking,40.0,Male
+2022-09-08,Monitor,66637.0,12.0,West,Mumbai,Germany,10.0,Credit Card,58.0,Female
+,Phone,62753.0,39.0,North,Lucknow,USA,20.0,Cash,25.0,Female
+2022-04-27,Printer,31931.0,15.0,South,Lucknow,,0.0,Debit Card,40.0,Female
+2022-07-14,Camera,,23.0,East,Kolkata,India,15.0,Net Banking,,Other
+2022-05-06,Printer,53126.0,16.0,North,Jaipur,Germany,15.0,,54.0,Female
+2022-06-06,Keyboard,53464.0,17.0,West,Mumbai,France,5.0,Debit Card,33.0,Male
+2022-02-06,Keyboard,61792.0,29.0,North,,France,0.0,Credit Card,32.0,Female
+,Tablet,9443.0,45.0,West,Pune,France,5.0,Net Banking,41.0,Female
+2022-05-14,Smartwatch,4923.0,11.0,East,Delhi,Canada,0.0,Debit Card,48.0,Female
+2022-04-25,Printer,49689.0,3.0,,Lucknow,Germany,5.0,Credit Card,25.0,Female
+2022-09-21,Monitor,62387.0,25.0,West,Lucknow,India,,Debit Card,20.0,Female
+2022-01-19,Headphones,15439.0,26.0,South,Lucknow,UK,15.0,Net Banking,36.0,Male
+2022-01-01,Laptop,24694.0,38.0,North,Hyderabad,France,0.0,Cash,63.0,Female
+2022-08-04,Camera,47440.0,38.0,East,Kolkata,France,0.0,Debit Card,32.0,Other
+2022-04-09,Keyboard,30243.0,47.0,South,Lucknow,Canada,15.0,Credit Card,37.0,Female
+2022-09-13,Camera,97554.0,37.0,North,Jaipur,Canada,10.0,Net Banking,21.0,Female
+2022-08-12,Smartwatch,70511.0,11.0,North,Ahmedabad,Germany,20.0,Debit Card,57.0,
+2022-10-18,Monitor,28059.0,42.0,South,Hyderabad,,10.0,Credit Card,35.0,Female
+2022-04-21,Camera,51513.0,40.0,West,Chennai,UK,15.0,Debit Card,57.0,Female
+2022-10-09,Phone,2879.0,7.0,East,Ahmedabad,USA,15.0,Debit Card,44.0,Other
+2022-06-20,Printer,61684.0,3.0,East,Bangalore,India,10.0,UPI,48.0,Male
+2022-06-26,Camera,73879.0,35.0,South,Chennai,France,10.0,Net Banking,62.0,Other
+2022-03-31,Monitor,7552.0,35.0,South,Pune,UK,20.0,Debit Card,50.0,Female
+2022-06-01,Printer,77914.0,16.0,West,Lucknow,USA,20.0,Net Banking,55.0,
+2022-03-13,Printer,19409.0,20.0,North,Kolkata,Canada,20.0,Debit Card,31.0,Female
+2022-08-21,Laptop,77813.0,21.0,North,Pune,France,5.0,Debit Card,41.0,Male
+2022-12-14,Laptop,68785.0,25.0,West,Lucknow,India,10.0,Debit Card,28.0,Female
+2022-08-19,Smartwatch,30370.0,14.0,North,Lucknow,UK,15.0,Debit Card,37.0,Female
+2022-06-11,Printer,1652.0,43.0,South,Kolkata,USA,0.0,UPI,46.0,Female
+,Mouse,16553.0,42.0,West,Chennai,India,10.0,Net Banking,20.0,Female
+2022-05-27,Printer,90449.0,,South,Chennai,India,15.0,Net Banking,42.0,Other
+,Printer,65271.0,8.0,West,Kolkata,Germany,0.0,Cash,30.0,Female
+2022-08-31,Laptop,76273.0,2.0,North,Hyderabad,France,15.0,Debit Card,50.0,Other
+2022-04-27,Tablet,83891.0,37.0,North,Jaipur,Canada,20.0,Debit Card,58.0,Other
+2022-08-14,,20570.0,8.0,West,Lucknow,India,10.0,Debit Card,42.0,Male
+2022-06-12,Tablet,51372.0,39.0,East,Ahmedabad,India,5.0,Credit Card,23.0,Other
+2022-01-14,Tablet,44454.0,24.0,North,,UK,20.0,Debit Card,51.0,Other
+2022-02-08,Mouse,22885.0,6.0,South,Hyderabad,India,15.0,,35.0,Female
+2022-04-28,Camera,41303.0,13.0,South,Mumbai,France,0.0,Credit Card,48.0,Male
+2022-07-21,Laptop,34278.0,31.0,West,Mumbai,UK,20.0,Cash,63.0,Male
+2022-10-13,Monitor,5413.0,11.0,South,Hyderabad,India,15.0,Credit Card,,Male
+2022-04-19,Laptop,26578.0,35.0,South,Pune,Germany,5.0,UPI,55.0,Male
+2022-10-16,Monitor,28856.0,48.0,West,Chennai,USA,10.0,Cash,46.0,Female
+2022-08-25,Headphones,5554.0,,South,Chennai,USA,0.0,,48.0,Female
+2022-05-28,Monitor,69380.0,7.0,West,Lucknow,USA,20.0,Net Banking,39.0,Female
+2022-03-02,Smartwatch,74084.0,29.0,,Hyderabad,USA,15.0,Cash,39.0,Male
+2022-04-24,Monitor,24800.0,7.0,East,Delhi,Germany,,Credit Card,30.0,Female
+2022-09-09,Phone,58755.0,22.0,South,Jaipur,UK,0.0,Net Banking,66.0,Other
+2022-12-12,Monitor,,21.0,North,Chennai,Canada,20.0,Debit Card,57.0,Male
+2022-09-13,Headphones,94149.0,22.0,South,Mumbai,France,5.0,Debit Card,47.0,Female
+2022-07-17,Monitor,29611.0,17.0,South,Pune,France,15.0,Net Banking,35.0,Female
+2022-09-28,Monitor,41053.0,4.0,East,Pune,Canada,20.0,Debit Card,46.0,Female
+2022-01-12,Camera,4421.0,,South,Bangalore,USA,5.0,,51.0,Female
+2022-06-02,Laptop,88174.0,1.0,North,Kolkata,Germany,20.0,Net Banking,65.0,
+2022-02-23,Monitor,99721.0,39.0,North,Ahmedabad,USA,10.0,Credit Card,50.0,Female
+2022-05-07,Smartwatch,39141.0,43.0,North,Chennai,USA,15.0,Cash,41.0,Female
+2022-08-31,Camera,982.0,24.0,North,Kolkata,France,0.0,Net Banking,54.0,Female
+2022-11-26,Camera,67434.0,37.0,East,Bangalore,France,20.0,Debit Card,26.0,Male
+2022-01-11,Monitor,39879.0,39.0,East,,India,5.0,Debit Card,19.0,Female
+,Mouse,38837.0,22.0,East,Chennai,USA,5.0,Credit Card,25.0,
+2022-07-23,Camera,15316.0,4.0,West,Ahmedabad,,20.0,Credit Card,53.0,Female
+2022-04-27,,60201.0,1.0,South,Jaipur,France,5.0,Net Banking,53.0,Male
+2022-11-06,Keyboard,16866.0,32.0,South,Hyderabad,France,15.0,Debit Card,22.0,Female
+2022-03-25,Printer,30473.0,17.0,East,Hyderabad,Germany,10.0,Credit Card,32.0,Female
+2022-08-04,Headphones,41239.0,41.0,South,Pune,France,0.0,UPI,57.0,Male
+2022-05-29,,37761.0,29.0,West,Jaipur,France,10.0,Net Banking,30.0,Male
+2022-08-21,Tablet,45050.0,,East,Bangalore,France,15.0,Net Banking,51.0,Female
+2022-04-24,Camera,93176.0,18.0,South,Hyderabad,Canada,15.0,Net Banking,37.0,Male
+2022-10-27,Phone,70826.0,36.0,,Mumbai,India,,Cash,39.0,Other
+2022-10-08,Printer,76206.0,47.0,West,Ahmedabad,USA,20.0,Cash,50.0,Male
+2022-12-06,Monitor,11056.0,3.0,North,Bangalore,India,20.0,Debit Card,19.0,Male
+2022-01-13,Printer,37763.0,11.0,South,Hyderabad,UK,15.0,Cash,48.0,Other
+2022-08-03,,85924.0,10.0,North,Kolkata,Canada,,Net Banking,46.0,Female
+2022-04-27,Tablet,96397.0,2.0,East,Hyderabad,France,0.0,Debit Card,24.0,Female
+2022-08-21,Mouse,81880.0,,West,Ahmedabad,France,5.0,Credit Card,63.0,Other
+2022-08-16,Camera,62317.0,5.0,West,Ahmedabad,Canada,15.0,UPI,34.0,Male
+2022-06-07,Smartwatch,20766.0,,North,Delhi,Germany,10.0,UPI,56.0,Male
+2022-01-04,Tablet,99664.0,4.0,South,Pune,India,0.0,Cash,27.0,Female
+2022-04-07,Monitor,59743.0,20.0,North,Jaipur,India,,Debit Card,50.0,Male
+2022-06-05,Camera,58855.0,14.0,South,Hyderabad,France,20.0,UPI,34.0,Male
+2022-05-29,Laptop,84178.0,34.0,,Jaipur,UK,0.0,Net Banking,28.0,Female
+2022-09-02,Printer,42918.0,45.0,,Hyderabad,USA,15.0,Credit Card,49.0,Female
+2022-06-03,Keyboard,15640.0,7.0,East,Mumbai,,0.0,Debit Card,53.0,Male
+2022-05-12,Monitor,28479.0,25.0,West,Kolkata,India,5.0,Net Banking,65.0,Male
+2022-08-26,Tablet,61922.0,39.0,North,Delhi,UK,10.0,Debit Card,33.0,Other
+2022-06-09,Smartwatch,10781.0,29.0,South,Jaipur,Canada,20.0,Credit Card,34.0,Male
+2022-09-21,Camera,72207.0,12.0,South,Lucknow,Canada,0.0,Net Banking,27.0,Female
+2022-06-10,Keyboard,38899.0,19.0,South,Bangalore,,0.0,Net Banking,35.0,Other
+2022-03-26,Mouse,8546.0,10.0,South,Hyderabad,Germany,0.0,Net Banking,64.0,Male
+2022-04-21,Laptop,73862.0,39.0,South,Bangalore,India,10.0,Net Banking,52.0,Male
+2022-12-25,Keyboard,26427.0,28.0,East,Delhi,India,15.0,Net Banking,36.0,Male
+2022-11-14,Phone,2276.0,34.0,North,Bangalore,India,10.0,,56.0,Female
+2022-09-10,Tablet,87196.0,38.0,East,,France,5.0,Net Banking,49.0,Female
+2022-06-07,Mouse,67456.0,7.0,West,Delhi,UK,10.0,Net Banking,30.0,Other
+2022-07-06,Mouse,1757.0,38.0,West,Jaipur,USA,0.0,UPI,19.0,Other
+2022-04-25,Smartwatch,40834.0,43.0,East,Jaipur,Canada,15.0,Credit Card,37.0,Other
+2022-08-28,Printer,66011.0,7.0,North,Kolkata,France,5.0,Cash,68.0,Other
+2022-05-28,Monitor,20535.0,,East,Bangalore,UK,5.0,Cash,,Female
+2022-06-10,Headphones,99577.0,26.0,South,,India,0.0,Debit Card,44.0,Male
+2022-10-27,Tablet,72195.0,3.0,North,Chennai,India,0.0,UPI,42.0,
+2022-01-02,Camera,14705.0,11.0,East,Hyderabad,USA,10.0,Debit Card,64.0,Male
+2022-10-13,Headphones,3616.0,17.0,North,Mumbai,Canada,5.0,Credit Card,,Male
+2022-04-02,Keyboard,68575.0,18.0,East,Pune,Germany,5.0,Credit Card,33.0,Other
+2022-09-16,Mouse,8705.0,28.0,West,Jaipur,USA,0.0,Cash,41.0,Female
+2022-02-10,Monitor,43717.0,29.0,North,,USA,20.0,UPI,55.0,Female
+2022-09-09,Tablet,86059.0,36.0,North,Pune,UK,20.0,Net Banking,,Male
+2022-08-10,Camera,15892.0,41.0,,Kolkata,UK,5.0,Cash,54.0,Male
+2022-01-05,Camera,41181.0,15.0,East,Kolkata,UK,20.0,Debit Card,67.0,Female
+2022-10-15,,81368.0,1.0,South,Lucknow,France,20.0,Debit Card,29.0,Female
+2022-08-19,Keyboard,9375.0,40.0,West,Kolkata,Canada,10.0,Cash,27.0,Other
+2022-01-10,Monitor,93222.0,2.0,South,Jaipur,France,0.0,Credit Card,,Other
+2022-12-18,Laptop,31821.0,33.0,East,Chennai,Canada,15.0,Debit Card,44.0,Female
+2022-07-02,Keyboard,35462.0,41.0,East,Chennai,UK,20.0,Debit Card,31.0,Other
+2022-08-10,Headphones,18379.0,7.0,West,Lucknow,India,20.0,UPI,,Male
+2022-12-31,Headphones,33467.0,15.0,South,Lucknow,UK,10.0,Debit Card,46.0,Female
+2022-08-02,Tablet,4703.0,43.0,North,Bangalore,Canada,5.0,Net Banking,40.0,
+2022-04-02,Laptop,7037.0,27.0,West,Pune,France,20.0,Cash,63.0,Other
+2022-05-25,Tablet,47114.0,,East,Ahmedabad,France,15.0,Net Banking,,Female
+2022-09-14,Monitor,,40.0,North,Chennai,UK,20.0,Cash,34.0,Male
+2022-07-13,Camera,58631.0,21.0,North,Hyderabad,USA,20.0,UPI,34.0,Other
+2022-10-16,Laptop,88039.0,12.0,West,Mumbai,Germany,20.0,Cash,68.0,Female
+2022-05-27,Mouse,44855.0,19.0,East,Delhi,Germany,15.0,Credit Card,48.0,Female
+2022-08-15,Camera,17341.0,44.0,North,,Germany,5.0,Credit Card,32.0,Other
+2022-03-13,Mouse,22913.0,17.0,South,Mumbai,India,0.0,Credit Card,56.0,Female
+2022-04-13,Monitor,51593.0,28.0,South,Bangalore,,5.0,Net Banking,68.0,Female
+2022-08-18,Headphones,66314.0,1.0,South,Ahmedabad,France,5.0,Credit Card,41.0,
+2022-01-15,Mouse,7953.0,3.0,North,Ahmedabad,Canada,20.0,Cash,58.0,Male
+2022-05-29,Mouse,935.0,9.0,West,Lucknow,India,0.0,Credit Card,61.0,Female
+2022-12-31,Camera,64527.0,25.0,,Pune,India,5.0,UPI,69.0,Other
+2022-08-03,Tablet,53409.0,41.0,South,Jaipur,USA,5.0,Net Banking,57.0,Female
+2022-11-27,Keyboard,25564.0,14.0,East,Pune,France,10.0,Debit Card,36.0,Female
+2022-09-26,Monitor,77754.0,13.0,,Pune,Germany,5.0,Cash,41.0,Other
+2022-02-27,,14858.0,17.0,North,Jaipur,Canada,20.0,Cash,56.0,Female
+2022-03-09,Printer,47324.0,45.0,West,Jaipur,India,5.0,UPI,30.0,Male
+2022-01-17,Smartwatch,5901.0,49.0,South,Bangalore,India,0.0,Cash,22.0,Male
+2022-02-08,Smartwatch,95890.0,48.0,West,Jaipur,France,5.0,Net Banking,,Male
+2022-01-22,Keyboard,43046.0,42.0,East,Pune,Canada,0.0,Credit Card,38.0,Male
+2022-02-03,Keyboard,65549.0,42.0,South,Hyderabad,UK,0.0,Net Banking,20.0,Other
+2022-10-23,Camera,94342.0,7.0,North,Bangalore,Canada,20.0,UPI,57.0,Other
+2022-09-12,Mouse,7701.0,34.0,North,Kolkata,France,0.0,Cash,65.0,Male
+2022-08-21,Laptop,84733.0,22.0,North,Delhi,France,15.0,UPI,55.0,Other
+,Phone,99211.0,34.0,North,Bangalore,France,15.0,Credit Card,34.0,Other
+2022-04-09,Headphones,85649.0,38.0,North,Pune,Germany,0.0,UPI,39.0,Male
+2022-12-17,Laptop,42125.0,30.0,West,,India,5.0,Debit Card,59.0,Other
+2022-11-20,Camera,20156.0,28.0,West,Ahmedabad,Germany,20.0,Debit Card,30.0,Other
+2022-11-05,Mouse,71254.0,14.0,East,Chennai,USA,10.0,UPI,22.0,
+2022-04-19,,23574.0,37.0,North,Lucknow,India,15.0,Cash,47.0,Male
+2022-08-08,,27929.0,47.0,East,Kolkata,Germany,15.0,UPI,46.0,Female
+2022-01-19,,11311.0,33.0,West,Mumbai,India,20.0,Net Banking,40.0,Other
+2022-10-13,Printer,40974.0,26.0,West,Pune,Canada,20.0,,55.0,Male
+2022-03-18,Camera,84685.0,10.0,East,Kolkata,India,10.0,Debit Card,33.0,Male
+2022-05-23,Mouse,45449.0,15.0,South,Kolkata,India,10.0,,53.0,Male
+2022-05-27,Mouse,20963.0,31.0,North,Hyderabad,Germany,0.0,UPI,21.0,Male
+2022-11-07,Mouse,85255.0,10.0,West,Lucknow,Canada,10.0,Net Banking,47.0,Male
+2022-07-07,Mouse,34574.0,13.0,North,Bangalore,UK,5.0,Cash,38.0,Male
+2022-08-16,,886.0,46.0,West,Pune,UK,20.0,Credit Card,57.0,Other
+2022-05-03,Keyboard,160.0,,West,Delhi,USA,5.0,Net Banking,,Male
+2022-11-01,Printer,11457.0,10.0,East,Mumbai,Canada,10.0,UPI,28.0,Female
+2022-01-27,Camera,66251.0,44.0,North,Pune,Canada,20.0,Net Banking,37.0,
+,Laptop,39421.0,49.0,,Kolkata,France,0.0,UPI,23.0,Other
+2022-01-03,Headphones,24454.0,34.0,North,Ahmedabad,,10.0,Net Banking,50.0,Other
+2022-11-24,Tablet,87859.0,2.0,East,Mumbai,India,15.0,UPI,24.0,Female
+2022-04-16,Printer,977.0,31.0,South,Mumbai,,20.0,Cash,39.0,Other
+2022-08-21,Laptop,71476.0,30.0,South,Kolkata,France,15.0,Credit Card,59.0,Other
+2022-10-12,Tablet,45346.0,1.0,North,Lucknow,Canada,5.0,Credit Card,27.0,Other
+2022-01-10,Laptop,99585.0,26.0,South,Bangalore,France,20.0,Debit Card,35.0,Male
+2022-08-11,Camera,27050.0,48.0,North,Kolkata,UK,,Cash,18.0,Male
+2022-11-22,Headphones,23104.0,14.0,South,Pune,France,15.0,Net Banking,56.0,Female
+2022-06-30,Phone,50677.0,35.0,West,Ahmedabad,France,10.0,UPI,,Male
+2022-07-09,Laptop,7289.0,17.0,North,Lucknow,Germany,20.0,Net Banking,35.0,Female
+2022-11-14,Keyboard,88735.0,15.0,East,Chennai,USA,10.0,Credit Card,49.0,Female
+2022-07-13,Camera,58631.0,21.0,North,Hyderabad,USA,20.0,UPI,34.0,Other
+2022-06-21,Monitor,75309.0,5.0,South,Lucknow,India,20.0,UPI,23.0,Female
+2022-08-01,Headphones,64116.0,10.0,South,Pune,UK,10.0,UPI,48.0,Male
+2022-02-26,Monitor,15904.0,41.0,East,Jaipur,France,20.0,Credit Card,51.0,Male
+2022-05-13,Monitor,93947.0,44.0,North,Mumbai,India,15.0,Cash,26.0,Other
+2022-10-07,Printer,40487.0,40.0,South,Chennai,Germany,10.0,Credit Card,61.0,Male
+2022-04-08,Mouse,9221.0,12.0,North,,France,5.0,Net Banking,31.0,Female
+,Keyboard,8976.0,29.0,East,Pune,UK,,Net Banking,47.0,Female
+2022-06-08,Keyboard,,2.0,South,Jaipur,Canada,5.0,Net Banking,53.0,Female
+2022-09-20,Keyboard,31199.0,19.0,North,Delhi,France,15.0,Cash,68.0,Female
+2022-01-19,Headphones,59758.0,43.0,West,Lucknow,France,0.0,Cash,58.0,Other
+2022-03-10,Printer,21773.0,20.0,South,Mumbai,India,10.0,Net Banking,25.0,Other
+2022-05-23,Keyboard,23008.0,34.0,East,Lucknow,,0.0,,44.0,Male
+2022-10-11,Keyboard,4927.0,12.0,South,Hyderabad,Germany,0.0,Net Banking,20.0,Female
+,,2966.0,44.0,West,Hyderabad,France,10.0,Credit Card,45.0,
+2022-05-21,Keyboard,41762.0,16.0,West,Delhi,Germany,5.0,Cash,51.0,Other
+2022-01-04,Headphones,11379.0,46.0,North,,Germany,15.0,Credit Card,58.0,Other
+2022-04-02,Mouse,35449.0,27.0,East,Jaipur,India,10.0,Debit Card,31.0,Female
+2022-10-20,Laptop,46197.0,30.0,South,Ahmedabad,India,10.0,Cash,63.0,Female
+2022-03-11,Headphones,65026.0,9.0,,Jaipur,Germany,10.0,UPI,36.0,Male
+2022-01-14,Printer,81602.0,46.0,East,Mumbai,Germany,10.0,,,Male
+2022-08-19,Smartwatch,19256.0,48.0,North,Mumbai,Canada,15.0,UPI,69.0,Female
+2022-01-23,Mouse,48391.0,27.0,South,Lucknow,UK,20.0,Cash,35.0,Other
+2022-04-09,Keyboard,65652.0,46.0,West,Hyderabad,USA,,Debit Card,39.0,
+2022-05-08,Headphones,65531.0,15.0,North,Lucknow,Canada,0.0,Debit Card,41.0,Male
+2022-05-20,Camera,51071.0,43.0,West,Delhi,USA,20.0,Cash,19.0,
+2022-09-21,,41298.0,16.0,North,Chennai,Canada,10.0,Debit Card,56.0,Other
+2022-07-11,Mouse,55839.0,23.0,North,Lucknow,Germany,10.0,,54.0,Other
+2022-12-24,Keyboard,12354.0,8.0,East,Lucknow,France,15.0,Credit Card,45.0,Other
+2022-10-02,Printer,55748.0,43.0,North,Lucknow,France,15.0,Cash,59.0,Male
+2022-03-17,Tablet,95445.0,30.0,North,Pune,,20.0,Net Banking,51.0,Other
+2022-04-13,Monitor,23676.0,12.0,,Chennai,UK,15.0,UPI,56.0,Male
+2022-05-30,Headphones,,30.0,North,Ahmedabad,Canada,0.0,UPI,20.0,Female
+2022-08-02,Printer,75239.0,35.0,,Hyderabad,Germany,20.0,Credit Card,34.0,Female
+2022-12-01,Headphones,64065.0,,North,Mumbai,Germany,5.0,Cash,27.0,Male
+,Keyboard,1369.0,29.0,West,Hyderabad,India,15.0,Cash,21.0,Other
+2022-08-19,Monitor,71676.0,24.0,North,Ahmedabad,UK,15.0,UPI,32.0,Female
+2022-08-16,Mouse,45789.0,,East,Delhi,France,0.0,,59.0,Other
+2022-05-26,,62994.0,,South,Chennai,USA,0.0,Debit Card,68.0,Female
+2022-11-25,Laptop,35625.0,25.0,North,Pune,Germany,15.0,Credit Card,32.0,Female
+2022-08-31,Headphones,12765.0,33.0,East,Jaipur,India,0.0,Debit Card,,Other
+2022-07-18,Mouse,54886.0,38.0,North,Lucknow,USA,10.0,Cash,58.0,Male
+2022-04-06,Tablet,10383.0,,East,Pune,USA,,Debit Card,41.0,Female
+2022-10-28,Phone,76527.0,23.0,South,Pune,Canada,20.0,UPI,66.0,Male
+2022-03-13,Mouse,22734.0,7.0,East,Delhi,Germany,0.0,UPI,28.0,Female
+2022-10-21,Camera,71389.0,31.0,North,Ahmedabad,USA,,,67.0,Female
+2022-07-22,Printer,76086.0,21.0,East,Pune,India,10.0,UPI,19.0,Female
+2022-10-10,Smartwatch,22931.0,43.0,East,Kolkata,,15.0,Net Banking,37.0,Male
+2022-10-04,Monitor,42416.0,27.0,East,Jaipur,France,20.0,Credit Card,69.0,Female
+2022-04-23,Headphones,13040.0,34.0,East,Kolkata,USA,0.0,Credit Card,53.0,Female
+2022-10-15,Laptop,5830.0,1.0,South,Ahmedabad,India,15.0,Net Banking,19.0,Male
+2022-08-15,Monitor,98902.0,14.0,North,Kolkata,India,5.0,Net Banking,61.0,Male
+2022-12-19,Headphones,39986.0,49.0,West,Ahmedabad,Germany,15.0,Debit Card,58.0,Other
+2022-04-08,Keyboard,16662.0,22.0,,Hyderabad,Germany,0.0,Credit Card,21.0,Other
+2022-10-25,Monitor,1914.0,2.0,East,Lucknow,Canada,0.0,Net Banking,28.0,Other
+2022-10-06,Smartwatch,33754.0,,East,Hyderabad,USA,5.0,UPI,45.0,Other
+2022-06-10,Camera,92096.0,45.0,North,Pune,Germany,5.0,Net Banking,34.0,Female
+,Printer,94981.0,10.0,South,Jaipur,France,10.0,Cash,22.0,Female
+2022-09-07,Mouse,57708.0,7.0,South,Jaipur,France,15.0,Net Banking,44.0,Male
+2022-05-21,Mouse,,,East,Bangalore,,15.0,Debit Card,21.0,Male
+2022-11-04,Monitor,13804.0,11.0,North,Ahmedabad,Germany,5.0,,49.0,Female
+2022-06-19,Phone,12452.0,9.0,North,Bangalore,UK,10.0,Credit Card,69.0,Other
+2022-08-11,Phone,34252.0,24.0,West,,India,0.0,UPI,34.0,Female
+2022-10-28,Camera,18767.0,13.0,East,Ahmedabad,Canada,0.0,Debit Card,19.0,
+2022-11-12,Laptop,42531.0,42.0,West,Kolkata,India,20.0,Debit Card,32.0,Female
+2022-03-11,Tablet,29931.0,39.0,North,Ahmedabad,Germany,0.0,UPI,57.0,Other
+2022-08-26,Laptop,2096.0,8.0,East,Delhi,Germany,20.0,Credit Card,67.0,Female
+2022-08-04,Smartwatch,5629.0,20.0,North,Chennai,UK,20.0,Credit Card,36.0,Male
+2022-07-17,Mouse,82576.0,42.0,South,Hyderabad,USA,0.0,UPI,68.0,Female
+2022-02-28,Mouse,54957.0,1.0,East,Jaipur,USA,0.0,Net Banking,23.0,Other
+2022-09-20,Smartwatch,18930.0,36.0,South,Bangalore,Canada,10.0,UPI,36.0,Other
+,Laptop,4937.0,39.0,North,Kolkata,USA,0.0,Debit Card,65.0,Other
+2022-09-30,Camera,315.0,,South,Bangalore,UK,20.0,Credit Card,65.0,Male
+2022-02-22,Smartwatch,34493.0,32.0,West,Bangalore,Canada,20.0,UPI,65.0,Male
+2022-08-19,Headphones,47099.0,10.0,North,Bangalore,UK,10.0,UPI,46.0,Male
+2022-11-10,Tablet,,19.0,South,Bangalore,India,10.0,Cash,56.0,Female
+2022-05-18,Headphones,29877.0,11.0,West,Kolkata,India,20.0,Debit Card,20.0,Female
+2022-03-14,Camera,39719.0,2.0,North,Delhi,India,15.0,UPI,49.0,Other
+2022-07-08,Tablet,54295.0,25.0,West,Jaipur,Canada,20.0,Cash,22.0,Other
+2022-03-31,Phone,87553.0,9.0,,Pune,Canada,,Debit Card,20.0,Male
+2022-07-02,Camera,65539.0,10.0,West,Bangalore,France,15.0,Credit Card,68.0,Male
+2022-05-29,Headphones,51802.0,11.0,North,Hyderabad,France,15.0,Net Banking,69.0,Female
+2022-04-23,Keyboard,10689.0,33.0,West,Kolkata,UK,5.0,Debit Card,26.0,Other
+2022-08-25,,83332.0,9.0,South,Chennai,Germany,15.0,Debit Card,59.0,Other
+2022-05-02,Printer,22494.0,28.0,North,Kolkata,Canada,15.0,Debit Card,35.0,Other
+2022-12-02,Printer,95052.0,28.0,North,Lucknow,Germany,5.0,Credit Card,33.0,Female
+2022-02-04,Printer,20846.0,32.0,North,Ahmedabad,France,20.0,Net Banking,20.0,
+2022-07-07,Phone,39713.0,,South,Ahmedabad,Germany,15.0,UPI,62.0,Female
+2022-06-09,Mouse,56063.0,,East,Mumbai,France,,Debit Card,65.0,Female
+2022-04-23,Headphones,77254.0,31.0,West,Ahmedabad,UK,0.0,Net Banking,40.0,Other
+2022-11-15,Headphones,47791.0,37.0,North,Ahmedabad,France,10.0,,33.0,Male
+2022-11-14,,,37.0,East,Bangalore,USA,10.0,Net Banking,64.0,Male
+2022-10-23,,72473.0,13.0,East,Kolkata,Canada,15.0,Credit Card,49.0,Male
+2022-05-30,Camera,41530.0,38.0,North,Lucknow,Germany,0.0,UPI,55.0,Other
+2022-05-04,Tablet,387.0,24.0,South,Ahmedabad,Canada,15.0,Cash,67.0,Male
+2022-05-15,Tablet,90995.0,26.0,North,Chennai,Germany,5.0,UPI,43.0,Male
+2022-09-24,Phone,29031.0,30.0,West,Lucknow,France,10.0,Cash,,Male
+2022-05-27,Laptop,53075.0,22.0,East,Kolkata,UK,15.0,Net Banking,60.0,Other
+,,25181.0,21.0,South,Bangalore,Canada,0.0,UPI,52.0,Other
+2022-10-09,Camera,9195.0,40.0,South,Ahmedabad,Canada,5.0,Credit Card,28.0,Male
+2022-01-11,Tablet,75235.0,27.0,North,Bangalore,UK,15.0,UPI,51.0,Female
+2022-10-16,Keyboard,53734.0,46.0,North,Delhi,Canada,10.0,Credit Card,46.0,Male
+2022-06-04,Headphones,63756.0,17.0,South,Lucknow,Germany,0.0,Debit Card,51.0,Other
+2022-07-09,Laptop,87418.0,24.0,West,,USA,0.0,Net Banking,69.0,Male
+,Tablet,81518.0,28.0,East,Delhi,UK,0.0,Debit Card,26.0,Female
+2022-08-30,Monitor,15730.0,,East,Lucknow,France,15.0,Debit Card,54.0,Male
+2022-02-16,Smartwatch,86422.0,23.0,West,Lucknow,India,0.0,Cash,19.0,Female
+2022-06-01,Monitor,15486.0,39.0,East,Jaipur,France,20.0,Cash,40.0,Other
+2022-10-03,Camera,78009.0,39.0,West,Pune,USA,5.0,UPI,27.0,Male
+2022-06-10,Tablet,40215.0,,West,Bangalore,,10.0,UPI,47.0,Male
+2022-06-26,Printer,66866.0,12.0,South,Kolkata,Germany,5.0,Credit Card,69.0,Other
+2022-11-21,Camera,17500.0,9.0,East,,France,,Credit Card,29.0,Female
+2022-05-16,,82118.0,32.0,North,Jaipur,Germany,0.0,UPI,,Other
+2022-06-17,Laptop,49278.0,44.0,West,Ahmedabad,India,20.0,Net Banking,18.0,Female
+2022-07-09,Printer,7471.0,26.0,East,Ahmedabad,UK,10.0,Credit Card,27.0,Male
+,Phone,73134.0,48.0,East,Mumbai,Canada,0.0,Debit Card,38.0,Male
+2022-09-30,Laptop,607.0,48.0,West,Chennai,India,20.0,Credit Card,61.0,Female
+2022-12-04,Phone,75060.0,38.0,South,Lucknow,Canada,5.0,Cash,28.0,Male
+2022-03-31,Camera,60297.0,26.0,East,Mumbai,Germany,5.0,Credit Card,54.0,Female
+2022-12-11,Laptop,68516.0,,East,,Canada,15.0,UPI,61.0,Other
+2022-03-23,Printer,13669.0,6.0,South,,Canada,20.0,Cash,33.0,Female
+2022-08-20,Laptop,52191.0,34.0,West,Delhi,India,15.0,Cash,37.0,Female
+2022-11-09,Smartwatch,63482.0,23.0,North,Ahmedabad,Canada,5.0,UPI,64.0,Male
+,Smartwatch,79469.0,20.0,South,Jaipur,USA,0.0,Net Banking,55.0,Male
+2022-01-09,Monitor,70004.0,29.0,North,Chennai,USA,5.0,Credit Card,23.0,Female
+,Tablet,62113.0,20.0,South,Chennai,France,15.0,,44.0,Male
+2022-04-03,Printer,14959.0,47.0,West,Chennai,USA,10.0,Net Banking,51.0,Male
+2022-04-11,Camera,41215.0,4.0,,Hyderabad,India,0.0,UPI,20.0,Male
+2022-07-16,Tablet,5686.0,3.0,North,Delhi,Germany,5.0,Debit Card,19.0,Female
+2022-10-07,Keyboard,86583.0,18.0,South,Ahmedabad,Germany,15.0,Credit Card,19.0,Male
+2022-04-18,Headphones,99608.0,31.0,East,Bangalore,India,15.0,UPI,19.0,Other
+2022-06-18,Tablet,68299.0,22.0,North,Delhi,,10.0,,25.0,Other
+,Printer,,41.0,West,Bangalore,Germany,0.0,UPI,52.0,Other
+2022-03-16,Mouse,19153.0,16.0,North,Jaipur,USA,15.0,Debit Card,25.0,Male
+2022-05-25,Laptop,83386.0,26.0,West,Hyderabad,India,15.0,Cash,58.0,Other
+2022-04-27,Smartwatch,72115.0,1.0,South,Lucknow,France,10.0,Credit Card,34.0,Male
+2022-01-05,Monitor,56859.0,6.0,West,Chennai,USA,15.0,Credit Card,,Female
+2022-11-16,Printer,1179.0,30.0,West,,UK,15.0,Cash,21.0,
+2022-02-17,Keyboard,44248.0,23.0,West,Delhi,USA,,Debit Card,63.0,Male
+2022-06-28,Headphones,47745.0,36.0,East,Hyderabad,UK,20.0,Net Banking,27.0,Other
+2022-04-03,Smartwatch,91928.0,18.0,West,Lucknow,France,5.0,Credit Card,,Male
+2022-11-15,Mouse,56444.0,5.0,South,Chennai,Canada,10.0,Credit Card,55.0,Male
+2022-02-11,Mouse,60882.0,11.0,South,Delhi,Germany,15.0,UPI,55.0,Other
+2022-11-12,Laptop,33561.0,20.0,West,Pune,Germany,,Net Banking,60.0,Male
+2022-05-02,Printer,77455.0,,East,Jaipur,,0.0,Credit Card,19.0,Female
+2022-03-16,Tablet,11669.0,48.0,East,Delhi,UK,15.0,Debit Card,21.0,Other
+,Camera,,47.0,North,Ahmedabad,France,15.0,Credit Card,44.0,Male
+,Phone,72933.0,26.0,West,Mumbai,India,15.0,Credit Card,66.0,Other
+2022-03-10,Laptop,69906.0,21.0,South,Delhi,Canada,0.0,Credit Card,33.0,Male
+2022-02-27,Headphones,33424.0,43.0,East,Bangalore,India,15.0,UPI,20.0,Female
+2022-10-13,Phone,96231.0,38.0,North,Pune,Canada,10.0,Cash,48.0,Other
+2022-08-12,Phone,5912.0,22.0,South,Delhi,India,10.0,UPI,67.0,Male
+2022-04-15,Headphones,40575.0,38.0,South,Pune,UK,10.0,Credit Card,34.0,
+2022-12-26,Camera,63093.0,39.0,North,Kolkata,USA,10.0,Cash,,Other
+2022-10-12,Monitor,86542.0,11.0,West,Ahmedabad,India,20.0,Debit Card,26.0,Male
+2022-10-22,Mouse,77634.0,41.0,North,Delhi,Canada,20.0,Credit Card,19.0,Other
+2022-09-02,Camera,3759.0,44.0,North,Hyderabad,UK,5.0,Credit Card,50.0,Male
+2022-09-21,Mouse,64240.0,2.0,North,Pune,Germany,20.0,UPI,28.0,Female
+2022-11-15,Phone,61531.0,35.0,North,Chennai,India,10.0,Credit Card,62.0,Male
+2022-12-15,Laptop,71637.0,27.0,North,Lucknow,Canada,15.0,Cash,51.0,
+2022-04-22,Tablet,31828.0,34.0,East,Lucknow,UK,5.0,Net Banking,39.0,Female
+2022-06-22,Headphones,88024.0,32.0,East,Kolkata,France,15.0,Debit Card,37.0,Other
+2022-04-11,Camera,41215.0,4.0,,Hyderabad,India,0.0,UPI,20.0,Male
+2022-09-11,,60858.0,18.0,,Mumbai,India,10.0,Cash,53.0,Other
+2022-03-01,Mouse,38296.0,35.0,South,Lucknow,Canada,5.0,UPI,50.0,Other
+2022-01-14,,14845.0,33.0,East,Lucknow,India,15.0,Credit Card,41.0,Male
+2022-10-05,Camera,72673.0,10.0,East,Bangalore,Germany,,UPI,23.0,Female
+2022-06-14,Camera,36486.0,8.0,East,Hyderabad,USA,20.0,Cash,28.0,Female
+2022-11-08,Laptop,29893.0,41.0,South,Pune,Germany,10.0,Debit Card,38.0,Other
+2022-09-11,Smartwatch,91286.0,47.0,North,Pune,UK,0.0,UPI,27.0,Male
+2022-04-18,Laptop,13429.0,15.0,South,Kolkata,France,15.0,UPI,55.0,Other
+2022-04-29,Phone,99346.0,24.0,South,Lucknow,UK,5.0,UPI,60.0,Male
+2022-08-30,Monitor,99141.0,,East,Lucknow,UK,10.0,Credit Card,24.0,Male
+2022-04-05,Keyboard,81820.0,31.0,South,Jaipur,India,15.0,Cash,26.0,Male
+2022-08-29,Tablet,89726.0,25.0,North,Mumbai,France,5.0,Credit Card,26.0,Female
+2022-06-25,Mouse,62022.0,16.0,West,Kolkata,USA,15.0,UPI,19.0,Male
+2022-04-12,Keyboard,56217.0,36.0,North,Bangalore,France,20.0,Credit Card,25.0,Female
+2022-06-22,Tablet,69976.0,12.0,West,Bangalore,India,20.0,Net Banking,29.0,Male
+2022-12-05,Headphones,37960.0,31.0,East,Kolkata,Canada,0.0,Cash,33.0,Male
+2022-07-06,Tablet,38971.0,27.0,East,Jaipur,India,15.0,,33.0,
+2022-08-11,Smartwatch,66730.0,40.0,East,Jaipur,France,0.0,UPI,57.0,Male
+2022-04-16,Smartwatch,,3.0,North,Pune,USA,20.0,Credit Card,23.0,Other
+2022-10-29,Mouse,61597.0,2.0,West,Hyderabad,UK,0.0,Debit Card,60.0,Other
+2022-08-27,Tablet,87088.0,37.0,East,Pune,USA,0.0,Net Banking,64.0,Other
+2022-11-04,Monitor,7467.0,3.0,South,Delhi,Germany,10.0,Cash,29.0,Female
+2022-01-05,Laptop,21299.0,13.0,South,Lucknow,India,15.0,Credit Card,37.0,Female
+,Monitor,23877.0,16.0,East,Lucknow,Canada,0.0,Net Banking,69.0,Female
+2022-12-31,Mouse,4775.0,11.0,West,Kolkata,Germany,15.0,Net Banking,60.0,Other
+2022-05-09,Monitor,62799.0,16.0,South,Kolkata,UK,10.0,Debit Card,29.0,Other
+2022-08-08,Printer,23627.0,8.0,West,Delhi,India,20.0,Debit Card,54.0,Other
+2022-12-12,Printer,4106.0,37.0,North,Hyderabad,Canada,5.0,Net Banking,67.0,Male
+2022-10-15,Laptop,14514.0,12.0,East,Lucknow,USA,10.0,Cash,18.0,Other
+2022-02-08,Tablet,81106.0,42.0,East,,Canada,15.0,Cash,45.0,Female
+2022-01-21,Monitor,56563.0,10.0,East,Jaipur,USA,20.0,UPI,50.0,Female
+,Mouse,52348.0,5.0,South,Delhi,,5.0,Net Banking,52.0,Other
+,Keyboard,9390.0,26.0,North,Hyderabad,Germany,20.0,UPI,69.0,Female
+2022-03-03,Laptop,,26.0,East,Jaipur,,10.0,UPI,59.0,Male
+2022-11-23,Keyboard,48029.0,7.0,East,Bangalore,France,20.0,UPI,27.0,Female
+2022-12-26,Smartwatch,34169.0,32.0,South,Kolkata,India,0.0,Credit Card,54.0,Other
+2022-12-02,Printer,59854.0,16.0,South,Bangalore,Germany,15.0,Credit Card,66.0,Male
+2022-02-08,Monitor,75263.0,2.0,East,Bangalore,Canada,15.0,,39.0,Male
+2022-11-26,Smartwatch,51896.0,49.0,North,Chennai,,20.0,Cash,40.0,Female
+2022-06-06,Phone,2941.0,,West,Delhi,UK,0.0,Cash,63.0,Female
+2022-04-06,Printer,89412.0,13.0,South,Ahmedabad,France,5.0,UPI,43.0,Male
+2022-10-20,Laptop,58332.0,,South,Ahmedabad,USA,20.0,UPI,20.0,Female
+2022-04-08,Keyboard,21145.0,41.0,East,Bangalore,Canada,20.0,Net Banking,51.0,Other
+2022-11-18,Keyboard,1475.0,37.0,West,Mumbai,USA,,Cash,26.0,Other
+2022-10-31,Tablet,51128.0,18.0,East,Lucknow,USA,5.0,Debit Card,56.0,Other
+2022-03-04,Phone,19123.0,47.0,North,Mumbai,UK,10.0,Credit Card,42.0,Other
+2022-08-24,Headphones,63556.0,27.0,North,Bangalore,USA,10.0,Debit Card,52.0,Female
+2022-01-03,,5599.0,12.0,West,Mumbai,USA,0.0,Credit Card,68.0,Male
+,Smartwatch,62974.0,33.0,North,Jaipur,USA,10.0,Cash,31.0,Other
+2022-06-10,Phone,99794.0,5.0,North,Kolkata,USA,15.0,Cash,49.0,Other
+2022-10-28,Keyboard,43166.0,36.0,West,Lucknow,Canada,20.0,Debit Card,64.0,Male
+2022-11-27,Monitor,13698.0,6.0,East,Ahmedabad,India,15.0,,47.0,Male
+2022-06-08,Monitor,76000.0,41.0,West,Jaipur,USA,15.0,Debit Card,49.0,Male
+2022-11-26,Keyboard,86903.0,16.0,North,Pune,Canada,20.0,Net Banking,67.0,Other
+,Smartwatch,38598.0,28.0,North,Delhi,UK,0.0,UPI,67.0,Other
+2022-06-01,,8838.0,3.0,South,Kolkata,Germany,15.0,,55.0,Male
+2022-05-14,Tablet,32073.0,33.0,West,Chennai,UK,5.0,Net Banking,33.0,
+2022-12-06,Mouse,11149.0,17.0,East,Chennai,Germany,10.0,Debit Card,55.0,Male
+2022-01-12,Monitor,,19.0,North,,Canada,20.0,Cash,54.0,Male
+2022-01-05,Laptop,,41.0,East,Ahmedabad,Canada,5.0,Net Banking,34.0,Female
+2022-09-09,Printer,47211.0,3.0,South,Kolkata,,,Net Banking,36.0,Other
+2022-02-01,Tablet,84369.0,26.0,,Bangalore,UK,5.0,Cash,36.0,Female
+2022-07-28,Smartwatch,71994.0,27.0,,Delhi,Canada,15.0,Net Banking,66.0,Other
+2022-05-10,Smartwatch,48670.0,17.0,West,Chennai,Germany,15.0,Cash,56.0,Other
+2022-01-08,Keyboard,98558.0,6.0,West,Lucknow,USA,,Debit Card,22.0,Female
+2022-10-20,Phone,46851.0,39.0,North,Kolkata,Canada,20.0,Credit Card,58.0,Other
+2022-09-11,Tablet,63868.0,28.0,East,Lucknow,Canada,5.0,Net Banking,43.0,Male
+2022-02-27,Phone,45010.0,26.0,West,Delhi,France,15.0,Net Banking,65.0,Female
+2022-05-10,Printer,32330.0,19.0,North,Hyderabad,USA,0.0,Debit Card,19.0,Other
+2022-11-17,Monitor,86106.0,36.0,East,Chennai,UK,10.0,Net Banking,58.0,Male
+2022-09-10,Mouse,63208.0,32.0,West,Kolkata,UK,15.0,Net Banking,50.0,Male
+2022-02-12,Phone,42570.0,46.0,West,Jaipur,,10.0,Credit Card,28.0,Male
+2022-09-24,Laptop,55614.0,31.0,West,Hyderabad,Germany,5.0,Cash,21.0,Male
+2022-07-28,Mouse,80791.0,10.0,North,Chennai,USA,,Credit Card,38.0,Male
+2022-03-26,Mouse,60454.0,29.0,East,Chennai,France,5.0,UPI,62.0,Male
+2022-08-14,Printer,5967.0,18.0,West,Jaipur,Canada,15.0,Net Banking,61.0,Female
+2022-01-24,Laptop,66808.0,38.0,North,Bangalore,UK,5.0,Net Banking,43.0,Female
+2022-05-27,Printer,4786.0,11.0,South,Kolkata,UK,5.0,Net Banking,22.0,Other
+2022-07-06,Laptop,43561.0,31.0,South,Pune,,20.0,Cash,25.0,Other
+,Tablet,49102.0,18.0,North,Hyderabad,Germany,5.0,UPI,52.0,Male
+2022-01-12,Smartwatch,,6.0,East,Delhi,India,5.0,Net Banking,22.0,Female
+2022-02-11,Printer,15828.0,31.0,North,Chennai,UK,20.0,Credit Card,34.0,Female
+2022-02-05,Smartwatch,20423.0,36.0,North,Jaipur,Germany,10.0,Debit Card,55.0,Male
+2022-06-03,Keyboard,71933.0,28.0,West,Chennai,Germany,10.0,Cash,40.0,Female
+2022-06-24,Camera,51475.0,7.0,,Jaipur,India,15.0,UPI,67.0,Male
+2022-05-29,Monitor,99392.0,,West,Bangalore,UK,0.0,Net Banking,26.0,Male
+2022-08-17,Laptop,37138.0,16.0,North,Mumbai,,10.0,Cash,62.0,Female
+,Monitor,79480.0,47.0,North,Hyderabad,Germany,5.0,Net Banking,53.0,
+2022-07-14,Smartwatch,11383.0,16.0,North,Kolkata,India,15.0,UPI,58.0,
+2022-08-10,Mouse,97657.0,,North,,UK,10.0,Net Banking,23.0,Male
+2022-02-23,Camera,52447.0,29.0,,Lucknow,Canada,0.0,UPI,60.0,Other
+2022-12-25,Headphones,71191.0,26.0,West,Jaipur,France,0.0,Credit Card,44.0,Male
+2022-03-03,Laptop,11895.0,43.0,West,Hyderabad,,0.0,Cash,65.0,Female
+2022-12-02,Printer,81484.0,16.0,North,Mumbai,France,15.0,Debit Card,56.0,Female
+2022-02-11,Tablet,71360.0,12.0,West,Bangalore,France,0.0,UPI,49.0,Other
+2022-06-12,Printer,68577.0,5.0,South,Pune,France,5.0,Credit Card,34.0,Male
+2022-02-12,Laptop,79476.0,48.0,North,Kolkata,USA,20.0,Net Banking,40.0,Female
+2022-10-23,Headphones,,15.0,East,Bangalore,USA,5.0,UPI,49.0,Female
+,Smartwatch,43718.0,4.0,West,Pune,India,20.0,Net Banking,43.0,Male
+2022-04-23,Smartwatch,10413.0,46.0,North,Lucknow,India,5.0,Debit Card,69.0,Other
+2022-09-03,Mouse,90496.0,49.0,West,Kolkata,Germany,5.0,Credit Card,47.0,
+2022-08-08,Laptop,3264.0,2.0,North,Chennai,Canada,15.0,Debit Card,25.0,Female
+2022-01-18,Keyboard,60341.0,7.0,North,Jaipur,India,5.0,Debit Card,,
+2022-09-25,Camera,,29.0,South,Hyderabad,Canada,15.0,Credit Card,37.0,Male
+2022-08-25,Printer,94271.0,39.0,West,Jaipur,Canada,5.0,Credit Card,43.0,Male
+2022-04-18,Printer,96944.0,30.0,,Jaipur,Canada,20.0,Credit Card,49.0,Male
+2022-06-19,Mouse,40960.0,34.0,East,Hyderabad,France,5.0,Credit Card,69.0,Male
+2022-12-22,Mouse,55532.0,18.0,East,Mumbai,India,0.0,Cash,52.0,Female
+2022-12-05,Printer,89460.0,49.0,East,Lucknow,UK,0.0,Credit Card,43.0,Other
+2022-09-08,Printer,34875.0,42.0,West,Mumbai,USA,0.0,Cash,59.0,Other
+2022-08-22,Smartwatch,,,South,Kolkata,Canada,10.0,UPI,61.0,Male
+2022-10-28,Printer,50619.0,9.0,East,Lucknow,,10.0,Credit Card,63.0,Other
+2022-10-02,Mouse,,44.0,East,Kolkata,India,5.0,UPI,18.0,Female
+2022-01-25,Mouse,95699.0,9.0,South,Bangalore,USA,0.0,Cash,67.0,
+,Phone,72327.0,19.0,North,Bangalore,UK,10.0,Cash,18.0,Female
+2022-07-10,Headphones,59570.0,37.0,South,Jaipur,Canada,10.0,Net Banking,42.0,Other
+2022-03-09,Tablet,25716.0,,West,Mumbai,USA,5.0,Credit Card,32.0,
+2022-03-25,Laptop,88841.0,4.0,South,Chennai,France,0.0,UPI,66.0,Female
+2022-03-22,Phone,75604.0,27.0,East,Hyderabad,India,10.0,UPI,47.0,Male
+2022-01-04,Laptop,93550.0,3.0,,Chennai,India,0.0,UPI,61.0,Male
+2022-01-17,Mouse,81785.0,19.0,West,Ahmedabad,France,5.0,UPI,65.0,Female
+2022-07-16,Phone,4733.0,46.0,South,Ahmedabad,USA,15.0,Credit Card,38.0,Male
+2022-11-06,Mouse,83739.0,2.0,West,Bangalore,Germany,,Cash,27.0,Male
+2022-04-10,Laptop,16360.0,31.0,West,Jaipur,Canada,20.0,Credit Card,37.0,Male
+2022-03-25,Smartwatch,24262.0,17.0,West,Lucknow,UK,20.0,Net Banking,60.0,Female
+2022-02-17,Headphones,,28.0,West,,UK,10.0,Net Banking,53.0,Female
+,Keyboard,26306.0,1.0,North,Hyderabad,UK,5.0,Debit Card,47.0,Female
+2022-07-20,Headphones,1566.0,47.0,West,Mumbai,India,20.0,Cash,35.0,
+2022-10-04,Mouse,25653.0,,East,Mumbai,USA,0.0,Debit Card,31.0,Female
+2022-08-20,Smartwatch,74781.0,18.0,South,Hyderabad,USA,15.0,UPI,23.0,Female
+,Tablet,16175.0,37.0,East,Delhi,India,15.0,Credit Card,52.0,Other
+2022-10-14,Mouse,34795.0,35.0,East,Chennai,India,0.0,UPI,40.0,Male
+2022-01-15,Tablet,42522.0,14.0,,Ahmedabad,USA,5.0,Debit Card,33.0,Male
+2022-04-08,Keyboard,68794.0,,East,Bangalore,USA,15.0,Net Banking,29.0,
+2022-11-27,Laptop,13482.0,44.0,South,Pune,Germany,15.0,Cash,33.0,Female
+2022-04-30,Mouse,1092.0,24.0,West,,Germany,20.0,UPI,34.0,Other
+2022-01-17,Smartwatch,83534.0,22.0,North,Hyderabad,Canada,5.0,Cash,21.0,Male
+,Printer,15789.0,15.0,North,Kolkata,UK,,UPI,27.0,Female
+2022-10-08,Smartwatch,72047.0,24.0,South,Mumbai,India,5.0,UPI,22.0,Female
+2022-10-08,Keyboard,56216.0,16.0,,Lucknow,France,15.0,Cash,20.0,Female
+2022-09-04,Printer,72155.0,30.0,West,Delhi,France,0.0,Net Banking,65.0,Female
+2022-12-30,Smartwatch,28999.0,13.0,South,Delhi,Germany,15.0,Credit Card,29.0,Other
+2022-05-16,Printer,65433.0,46.0,South,Ahmedabad,Canada,5.0,Cash,66.0,Other
+2022-09-04,Keyboard,70022.0,29.0,North,Hyderabad,USA,20.0,,68.0,
+2022-12-04,Monitor,1639.0,5.0,East,Ahmedabad,,15.0,Credit Card,68.0,Other
+2022-06-08,Keyboard,11931.0,20.0,,Lucknow,USA,15.0,Credit Card,52.0,Female
+2022-04-28,Smartwatch,31035.0,38.0,South,Lucknow,India,5.0,Net Banking,25.0,Male
+2022-02-19,Smartwatch,72367.0,44.0,North,Bangalore,Germany,15.0,UPI,68.0,Male
+2022-03-19,Laptop,60754.0,4.0,West,Delhi,India,5.0,Net Banking,53.0,Female
+2022-02-27,Monitor,19685.0,39.0,West,Bangalore,France,,UPI,60.0,
+2022-12-20,Camera,72301.0,47.0,East,Jaipur,USA,15.0,Debit Card,52.0,Female
+2022-09-17,,25286.0,20.0,East,Pune,Canada,5.0,Debit Card,69.0,Male
+2022-08-28,Keyboard,42038.0,34.0,South,Lucknow,Germany,0.0,Cash,26.0,Male
+2022-02-02,Tablet,56492.0,39.0,East,Mumbai,USA,15.0,,47.0,Other
+2022-12-10,Printer,88195.0,25.0,West,Ahmedabad,UK,10.0,,54.0,Other
+,Keyboard,9211.0,47.0,North,Hyderabad,Canada,15.0,Cash,69.0,Male
+2022-06-12,Laptop,63317.0,31.0,,Delhi,France,20.0,Credit Card,39.0,Female
+2022-04-05,Printer,25195.0,26.0,South,Pune,India,15.0,Net Banking,39.0,Male
+2022-10-22,Phone,81060.0,42.0,,Ahmedabad,India,10.0,Debit Card,43.0,Female
+2022-01-09,Headphones,1562.0,19.0,West,Jaipur,USA,5.0,Cash,31.0,Female
+2022-08-13,Headphones,42079.0,14.0,North,Bangalore,India,5.0,Cash,20.0,Other
+2022-05-15,Printer,66042.0,17.0,East,Ahmedabad,Canada,5.0,,25.0,Other
+2022-05-21,Camera,94208.0,43.0,North,Delhi,Germany,15.0,Credit Card,62.0,Female
+,Keyboard,40125.0,37.0,West,Ahmedabad,Germany,5.0,Credit Card,61.0,Female
+2022-02-11,Tablet,82608.0,20.0,East,Mumbai,France,10.0,Credit Card,45.0,Female
+2022-08-23,Keyboard,93765.0,19.0,North,Jaipur,France,15.0,Debit Card,56.0,Male
+2022-01-14,Printer,56496.0,34.0,South,Lucknow,UK,0.0,Debit Card,41.0,Female
+2022-05-07,Monitor,26727.0,1.0,East,Ahmedabad,India,0.0,Credit Card,36.0,Other
+2022-06-13,Camera,81518.0,32.0,South,Hyderabad,USA,15.0,Cash,25.0,Female
+2022-11-07,Tablet,14726.0,,East,Ahmedabad,UK,0.0,Net Banking,65.0,Other
+2022-06-07,Mouse,20128.0,16.0,South,Lucknow,France,20.0,Debit Card,48.0,Other
+2022-08-19,Printer,18119.0,3.0,West,Ahmedabad,USA,20.0,,40.0,Male
+2022-04-16,Camera,94538.0,29.0,West,,USA,10.0,UPI,28.0,
+2022-05-10,,,33.0,West,Mumbai,UK,10.0,Debit Card,47.0,Male
+2022-01-29,Camera,15579.0,39.0,West,Delhi,France,15.0,UPI,34.0,Male
+2022-08-03,Smartwatch,74811.0,43.0,East,Ahmedabad,UK,15.0,UPI,32.0,Other
+2022-08-03,Printer,73424.0,47.0,West,Lucknow,Canada,0.0,UPI,41.0,Other
+2022-01-12,Phone,81631.0,14.0,South,Lucknow,Germany,10.0,Debit Card,47.0,
+2022-08-15,Monitor,5347.0,35.0,East,Mumbai,UK,0.0,UPI,48.0,Female
+2022-04-10,Mouse,60619.0,29.0,West,Ahmedabad,India,5.0,Debit Card,59.0,Other
+2022-06-30,Phone,,42.0,West,Delhi,France,20.0,Credit Card,43.0,Male
+2022-10-13,Phone,80739.0,44.0,South,Chennai,Canada,20.0,UPI,45.0,Male
+2022-10-20,Phone,71286.0,12.0,North,Bangalore,Canada,5.0,Credit Card,62.0,Female
+2022-05-02,,79888.0,30.0,West,Kolkata,India,0.0,UPI,49.0,Male
+2022-06-26,Monitor,16089.0,18.0,,Ahmedabad,Canada,0.0,,53.0,Male
+2022-03-09,Laptop,26632.0,32.0,North,Mumbai,UK,15.0,Credit Card,33.0,Male
+2022-10-30,Phone,43159.0,39.0,North,,Germany,15.0,Cash,49.0,Other
+2022-08-06,Phone,,4.0,South,Chennai,India,20.0,Credit Card,52.0,Other
+2022-05-16,Monitor,79075.0,49.0,East,Mumbai,UK,0.0,Debit Card,32.0,Female
+2022-02-27,Keyboard,3221.0,22.0,South,Delhi,UK,15.0,Cash,51.0,Male
+2022-06-15,Keyboard,10410.0,1.0,North,Pune,UK,10.0,Cash,52.0,Other
+2022-06-09,Monitor,90154.0,12.0,South,Hyderabad,Germany,15.0,Debit Card,65.0,Female
+2022-08-09,Tablet,98927.0,38.0,East,Bangalore,France,0.0,Net Banking,35.0,Male
+2022-06-22,Monitor,95013.0,10.0,East,Kolkata,,20.0,Cash,41.0,Male
+2022-12-08,Mouse,57488.0,37.0,East,Pune,Canada,0.0,Debit Card,37.0,Female
+2022-07-21,Phone,97534.0,14.0,South,Jaipur,,5.0,Net Banking,47.0,Male
+2022-11-14,Mouse,87234.0,,East,Pune,Germany,20.0,Credit Card,47.0,Female
+2022-03-10,Mouse,21989.0,7.0,East,,UK,10.0,UPI,26.0,Other
+2022-05-23,Laptop,99327.0,47.0,North,Hyderabad,,20.0,,,Other
+2022-10-16,Monitor,14309.0,13.0,South,Bangalore,India,10.0,Credit Card,21.0,Female
+2022-07-21,Monitor,37111.0,33.0,West,Ahmedabad,UK,20.0,Net Banking,47.0,Female
+2022-12-22,Camera,95658.0,44.0,,Lucknow,,10.0,Net Banking,56.0,Male
+2022-11-30,Keyboard,,16.0,East,Kolkata,USA,5.0,Debit Card,55.0,Female
+2022-08-18,Smartwatch,59442.0,41.0,South,Hyderabad,Canada,10.0,UPI,33.0,Other
+2022-12-25,Smartwatch,32667.0,18.0,East,Chennai,Germany,15.0,Debit Card,20.0,Female
+2022-07-25,Keyboard,27407.0,2.0,East,Pune,France,0.0,UPI,22.0,Female
+2022-11-10,Printer,57635.0,12.0,North,Bangalore,Canada,5.0,Debit Card,68.0,Male
+2022-04-17,Laptop,1284.0,46.0,North,Mumbai,France,15.0,UPI,51.0,Male
+,Laptop,45383.0,38.0,North,Chennai,Germany,5.0,Cash,40.0,Male
+2022-05-04,Headphones,97883.0,48.0,South,Hyderabad,UK,15.0,Debit Card,,Male
+2022-02-09,Tablet,53573.0,36.0,South,Mumbai,USA,5.0,UPI,27.0,Male
+2022-08-09,Headphones,27300.0,39.0,East,Mumbai,Germany,10.0,Debit Card,54.0,Male
+2022-03-23,Keyboard,60839.0,8.0,North,Jaipur,UK,20.0,Debit Card,68.0,Male
+2022-07-27,Laptop,47994.0,6.0,North,Ahmedabad,USA,10.0,UPI,67.0,Female
+2022-03-15,Camera,82303.0,29.0,South,Mumbai,UK,0.0,UPI,,Female
+2022-12-16,Smartwatch,26240.0,2.0,North,Bangalore,USA,0.0,Net Banking,42.0,Female
+2022-01-22,Smartwatch,74014.0,1.0,East,Kolkata,USA,0.0,Net Banking,45.0,Female
+2022-09-14,Laptop,36544.0,38.0,West,Ahmedabad,Germany,0.0,Cash,53.0,Female
+2022-05-17,Camera,56697.0,29.0,South,Hyderabad,France,20.0,UPI,31.0,Male
+2022-05-25,Monitor,10592.0,36.0,South,Hyderabad,UK,5.0,Credit Card,54.0,Other
+2022-06-28,Phone,21167.0,47.0,South,Bangalore,India,0.0,Cash,61.0,Male
+2022-12-18,Laptop,31821.0,33.0,East,Chennai,Canada,15.0,Debit Card,44.0,Female
+2022-12-03,Monitor,22295.0,5.0,,Delhi,USA,15.0,,58.0,Other
+2022-02-05,Laptop,69068.0,42.0,West,Hyderabad,Canada,15.0,Debit Card,26.0,Male
+2022-03-04,Printer,79978.0,13.0,East,Lucknow,,10.0,Cash,38.0,Other
+2022-12-14,,98195.0,21.0,,Mumbai,France,20.0,Net Banking,37.0,Other
+2022-08-07,Monitor,74794.0,47.0,North,Pune,France,10.0,Debit Card,50.0,Female
+2022-09-02,,51582.0,49.0,South,Ahmedabad,,0.0,Debit Card,58.0,Other
+,,62680.0,45.0,,Lucknow,India,5.0,Credit Card,68.0,Female
+2022-11-03,Camera,20416.0,31.0,West,Hyderabad,India,0.0,Debit Card,52.0,Male
+2022-03-25,,52528.0,43.0,North,Jaipur,Germany,10.0,Debit Card,25.0,Other
+2022-02-27,Camera,66038.0,40.0,South,Hyderabad,USA,15.0,Debit Card,50.0,Female
+2022-11-10,Monitor,26283.0,49.0,North,Ahmedabad,Germany,,Debit Card,26.0,Female
+2022-07-26,Laptop,36232.0,41.0,North,Mumbai,Canada,10.0,Cash,24.0,Other
+,Camera,21055.0,5.0,North,Chennai,Germany,20.0,Debit Card,32.0,Other
+2022-11-17,,86586.0,46.0,South,Delhi,UK,20.0,UPI,22.0,Other
+2022-02-07,Tablet,95486.0,19.0,West,Bangalore,,20.0,Cash,60.0,Other
+2022-01-29,Printer,41885.0,13.0,South,Delhi,Canada,10.0,Debit Card,39.0,Female
+2022-10-23,Phone,45847.0,3.0,North,Ahmedabad,Canada,15.0,Debit Card,52.0,Other
+2022-07-26,Phone,15186.0,13.0,East,Delhi,UK,20.0,Net Banking,37.0,Female
+2022-10-29,Camera,2909.0,25.0,North,Hyderabad,,15.0,UPI,45.0,Male
+2022-03-02,Monitor,25564.0,9.0,North,Ahmedabad,France,10.0,Debit Card,41.0,Male
+2022-10-20,Phone,88659.0,10.0,North,Chennai,France,20.0,Cash,23.0,
+2022-11-24,Headphones,9737.0,12.0,South,,Germany,20.0,Credit Card,40.0,Female
+2022-01-28,Laptop,28657.0,20.0,North,Pune,Canada,20.0,UPI,23.0,Other
+2022-12-29,Mouse,74124.0,8.0,North,Lucknow,Canada,5.0,Net Banking,30.0,Male
+2022-11-14,Mouse,52819.0,48.0,North,Lucknow,Canada,0.0,Debit Card,55.0,Male
+2022-03-04,Smartwatch,52832.0,14.0,North,Kolkata,India,10.0,Cash,18.0,Female
+2022-10-29,Smartwatch,83847.0,15.0,North,Hyderabad,India,20.0,UPI,62.0,Female
+2022-04-21,Tablet,90240.0,34.0,South,Ahmedabad,Germany,5.0,UPI,61.0,Male
+,Keyboard,99882.0,26.0,West,Pune,USA,5.0,UPI,,Male
+2022-12-27,Headphones,57886.0,7.0,West,Pune,UK,10.0,Cash,49.0,Male
+2022-05-14,Headphones,52251.0,18.0,West,Hyderabad,France,20.0,Debit Card,42.0,Female
+2022-07-04,Headphones,94596.0,9.0,East,Mumbai,USA,15.0,Credit Card,67.0,Other
+2022-11-09,Laptop,17218.0,5.0,South,Delhi,France,10.0,UPI,,Male
+2022-02-24,Printer,53875.0,4.0,North,Delhi,France,15.0,Net Banking,57.0,Male
+2022-11-13,Monitor,7311.0,26.0,East,Kolkata,France,15.0,UPI,32.0,Male
+2022-01-20,Camera,1401.0,39.0,North,Ahmedabad,UK,5.0,Cash,27.0,Female
+2022-06-03,Keyboard,78645.0,23.0,North,Chennai,UK,0.0,Net Banking,34.0,Male
+2022-02-16,Camera,46611.0,30.0,West,Ahmedabad,France,15.0,Cash,55.0,Other
+2022-08-25,Camera,62880.0,42.0,West,Mumbai,USA,20.0,Net Banking,63.0,Other
+2022-10-07,Keyboard,86583.0,18.0,South,Ahmedabad,Germany,15.0,Credit Card,19.0,Male
+2022-06-11,Camera,1687.0,24.0,North,Chennai,USA,15.0,Net Banking,22.0,Male
+2022-05-27,Keyboard,51602.0,45.0,North,Chennai,France,5.0,Net Banking,67.0,Male
+2022-04-20,Headphones,56034.0,42.0,East,Jaipur,USA,5.0,UPI,69.0,Other
+2022-02-13,Camera,13799.0,17.0,South,Kolkata,USA,5.0,Debit Card,49.0,Other
+2022-07-10,,47415.0,24.0,North,Bangalore,USA,5.0,Net Banking,27.0,Male
+2022-08-13,Tablet,33869.0,33.0,East,Pune,Germany,10.0,Credit Card,44.0,Other
+2022-02-26,Mouse,37519.0,48.0,West,Chennai,India,5.0,Cash,57.0,Other
+2022-09-13,Laptop,98287.0,,,Kolkata,Germany,10.0,Debit Card,64.0,Male
+2022-08-13,Mouse,59650.0,38.0,West,Hyderabad,,10.0,Credit Card,51.0,Male
+2022-08-31,Mouse,68467.0,24.0,East,Mumbai,USA,0.0,UPI,69.0,Other
+2022-04-28,Keyboard,96602.0,24.0,West,Bangalore,India,15.0,Cash,23.0,Other
+2022-05-16,Tablet,12226.0,2.0,East,Bangalore,France,15.0,Credit Card,36.0,Other
+2022-02-15,Tablet,98666.0,26.0,,Bangalore,India,10.0,Credit Card,21.0,Male
+2022-08-07,Smartwatch,7482.0,13.0,South,Kolkata,UK,5.0,Cash,20.0,Male
+2022-11-20,Monitor,52216.0,,North,Hyderabad,India,5.0,,31.0,Other
+2022-07-15,Headphones,40733.0,28.0,North,Mumbai,France,20.0,Debit Card,41.0,Other
+2022-02-16,,27381.0,17.0,,Ahmedabad,UK,20.0,Cash,25.0,Other
+2022-08-06,Printer,51548.0,29.0,West,Chennai,UK,5.0,UPI,60.0,Other
+2022-11-22,Headphones,23104.0,14.0,South,Pune,France,15.0,Net Banking,56.0,Female
+2022-01-27,Phone,67000.0,13.0,South,Jaipur,Canada,10.0,Cash,41.0,Male
+2022-08-21,Mouse,51422.0,25.0,West,Pune,USA,10.0,Credit Card,41.0,Male
+2022-04-02,Keyboard,89489.0,16.0,North,Mumbai,Germany,0.0,Debit Card,65.0,Male
+2022-06-14,Tablet,30891.0,3.0,West,Pune,USA,0.0,Net Banking,23.0,Other
+2022-08-05,Keyboard,68259.0,42.0,North,Bangalore,France,10.0,UPI,19.0,Other
+2022-03-06,Phone,94100.0,25.0,North,Delhi,Canada,5.0,Net Banking,41.0,Other
+2022-04-02,Mouse,46198.0,14.0,South,Mumbai,USA,0.0,Net Banking,48.0,Female
+2022-02-14,Printer,40644.0,6.0,East,Mumbai,,20.0,UPI,63.0,Male
+,Headphones,46862.0,37.0,South,Chennai,India,5.0,Credit Card,24.0,Male
+2022-08-05,Tablet,94715.0,33.0,North,,Canada,5.0,Debit Card,56.0,Male
+2022-03-29,Smartwatch,60381.0,22.0,West,Ahmedabad,,20.0,Debit Card,28.0,
+2022-10-31,Phone,5022.0,25.0,West,Jaipur,Germany,0.0,Credit Card,45.0,Female
+2022-05-21,Printer,,45.0,South,Ahmedabad,India,20.0,UPI,54.0,Male
+2022-01-18,Keyboard,60341.0,7.0,North,Jaipur,India,5.0,Debit Card,,
+2022-04-17,Laptop,72204.0,41.0,East,Lucknow,Germany,0.0,Debit Card,27.0,Female
+2022-04-29,Keyboard,88002.0,,South,Bangalore,France,10.0,Cash,,Other
+2022-01-28,Laptop,13369.0,35.0,,Jaipur,Canada,10.0,UPI,68.0,Female
+2022-04-05,Phone,48903.0,49.0,West,Delhi,,5.0,Net Banking,29.0,Female
+2022-05-07,Headphones,21197.0,27.0,West,Hyderabad,Canada,10.0,Debit Card,34.0,Male
+,Phone,21264.0,39.0,South,Jaipur,India,0.0,UPI,67.0,Male
+2022-06-20,Smartwatch,38829.0,28.0,West,Ahmedabad,UK,15.0,UPI,67.0,Female
+2022-12-10,,49730.0,23.0,South,Kolkata,UK,15.0,UPI,59.0,Other
+2022-02-16,Printer,25725.0,43.0,East,Pune,France,0.0,Credit Card,,Male
+2022-03-16,Headphones,26033.0,38.0,South,Hyderabad,Canada,20.0,Credit Card,27.0,Other
+2022-02-05,Camera,95481.0,42.0,North,Kolkata,USA,20.0,,58.0,Female
+2022-06-17,Laptop,22291.0,17.0,South,Kolkata,USA,5.0,Net Banking,59.0,Other
+2022-07-29,Monitor,88080.0,18.0,South,Ahmedabad,France,10.0,Net Banking,42.0,Female
+2022-01-18,Keyboard,93946.0,23.0,South,Jaipur,Germany,20.0,Credit Card,54.0,Male
+2022-10-09,Smartwatch,33239.0,9.0,North,Lucknow,Canada,15.0,,27.0,Male
+2022-12-04,Tablet,15967.0,,East,Kolkata,USA,0.0,,50.0,Male
+2022-06-02,Monitor,79862.0,6.0,South,Chennai,UK,15.0,Credit Card,38.0,Female
+2022-03-27,Mouse,12820.0,6.0,East,Pune,Germany,0.0,Credit Card,33.0,Male
+2022-04-26,Keyboard,40196.0,49.0,East,Jaipur,Canada,10.0,Debit Card,52.0,Other
+2022-06-14,Phone,61178.0,41.0,West,Pune,Canada,0.0,Cash,32.0,Other
+2022-06-07,Camera,58660.0,26.0,East,Mumbai,India,5.0,Credit Card,31.0,Male
+2022-05-23,Keyboard,49212.0,4.0,South,,France,15.0,Credit Card,53.0,Male
+2022-12-16,,2737.0,5.0,South,Hyderabad,Germany,20.0,Credit Card,23.0,Male
+2022-03-22,Smartwatch,57321.0,16.0,North,Lucknow,Germany,10.0,Debit Card,28.0,
+2022-09-30,Monitor,74022.0,29.0,North,,,5.0,UPI,28.0,Female
+2022-02-15,Keyboard,16624.0,20.0,North,Chennai,France,0.0,Credit Card,39.0,Other
+2022-12-15,Mouse,71306.0,15.0,East,Kolkata,Canada,0.0,UPI,37.0,Other
+2022-07-11,Headphones,79179.0,19.0,South,Chennai,France,20.0,Credit Card,24.0,Male
+2022-09-03,Tablet,30925.0,40.0,South,Hyderabad,UK,10.0,Credit Card,49.0,Female
+,Mouse,83153.0,32.0,South,Mumbai,UK,15.0,Credit Card,53.0,Female
+2022-06-27,Keyboard,44337.0,8.0,North,Hyderabad,Germany,15.0,Net Banking,54.0,Other
+2022-09-03,Mouse,81110.0,48.0,South,Pune,USA,5.0,Debit Card,27.0,Other
+2022-04-09,Monitor,72184.0,47.0,,Lucknow,UK,0.0,Credit Card,58.0,Male
+2022-06-24,Printer,49136.0,23.0,South,Chennai,Germany,20.0,Credit Card,18.0,Other
+2022-12-30,Laptop,60752.0,44.0,West,Kolkata,Germany,15.0,Debit Card,43.0,Male
+2022-12-13,Keyboard,14480.0,30.0,East,,India,5.0,Net Banking,39.0,Female
+2022-08-30,Smartwatch,79283.0,2.0,East,Bangalore,UK,5.0,Net Banking,47.0,Other
+2022-06-17,Tablet,40642.0,29.0,South,Kolkata,Germany,20.0,Net Banking,,Male
+2022-06-01,Keyboard,28241.0,10.0,North,Pune,Canada,0.0,UPI,25.0,Other
+,Printer,65166.0,17.0,East,Mumbai,UK,5.0,Cash,44.0,Female
+2022-03-30,Headphones,,38.0,North,Delhi,USA,5.0,,65.0,Female
+2022-07-02,Printer,53787.0,9.0,West,Jaipur,Germany,0.0,Net Banking,31.0,Male
+2022-09-30,,53411.0,13.0,North,Mumbai,Germany,0.0,UPI,56.0,Male
+2022-07-13,Keyboard,21416.0,9.0,West,Jaipur,Germany,10.0,UPI,58.0,Male
+2022-08-27,Tablet,35522.0,5.0,South,,Germany,15.0,Cash,41.0,Male
+2022-09-19,Mouse,15216.0,14.0,East,Lucknow,UK,0.0,Credit Card,36.0,Female
+2022-07-17,Mouse,33676.0,28.0,South,Delhi,UK,,Credit Card,61.0,Other
+2022-11-16,Smartwatch,57304.0,21.0,South,Chennai,India,20.0,Cash,36.0,Male
+,Keyboard,48047.0,21.0,South,Kolkata,Canada,5.0,Credit Card,39.0,Female
+2022-05-23,,5736.0,21.0,South,Chennai,Germany,5.0,UPI,52.0,Other
+,Monitor,95933.0,31.0,North,Kolkata,USA,5.0,Debit Card,66.0,Female
+,Phone,17753.0,36.0,East,Mumbai,Germany,15.0,Cash,69.0,Male
+2022-08-05,Phone,27057.0,29.0,North,Kolkata,UK,,Net Banking,53.0,Other
+2022-11-10,Smartwatch,16763.0,37.0,North,Hyderabad,Germany,15.0,Cash,38.0,Other
+2022-11-02,Tablet,67757.0,33.0,West,,India,5.0,UPI,35.0,Female
+2022-11-13,Mouse,47334.0,6.0,East,Mumbai,France,5.0,Net Banking,,Other
+2022-10-30,Headphones,,28.0,East,Kolkata,India,10.0,UPI,43.0,Female
+2022-07-10,Camera,68479.0,36.0,East,Ahmedabad,France,0.0,Credit Card,22.0,Male
+2022-10-11,Keyboard,40425.0,10.0,West,Delhi,France,5.0,UPI,56.0,Female
+2022-02-19,Camera,24154.0,11.0,East,Hyderabad,Canada,10.0,,64.0,Other
+2022-06-15,Phone,28790.0,9.0,East,Chennai,,10.0,Credit Card,63.0,Female
+2022-05-17,Keyboard,,6.0,East,Bangalore,USA,15.0,Debit Card,34.0,Other
+2022-01-27,Smartwatch,83016.0,,North,Delhi,France,10.0,Debit Card,47.0,Male
+2022-11-08,Keyboard,60138.0,39.0,East,Pune,Germany,10.0,Net Banking,21.0,Other
+2022-02-20,Phone,80271.0,28.0,South,Hyderabad,France,5.0,Credit Card,,Male
+,Monitor,61178.0,40.0,North,Kolkata,UK,20.0,,30.0,Other
+2022-12-29,Phone,79837.0,38.0,North,Delhi,France,0.0,Debit Card,47.0,Other
+2022-04-13,Tablet,13129.0,49.0,West,Bangalore,UK,15.0,UPI,24.0,Other
+2022-01-15,Mouse,44216.0,,North,Hyderabad,USA,0.0,Debit Card,38.0,Male
+2022-01-09,Tablet,89435.0,43.0,South,Delhi,UK,15.0,UPI,52.0,Female
+2022-03-23,Camera,1507.0,13.0,West,Jaipur,India,10.0,Credit Card,24.0,Other
+2022-11-08,Headphones,83664.0,6.0,East,Lucknow,France,10.0,Net Banking,43.0,Female
+2022-10-10,Camera,49040.0,43.0,North,Mumbai,France,5.0,Credit Card,44.0,Male
+2022-09-16,Tablet,27125.0,,South,Mumbai,USA,,UPI,32.0,Other
+2022-08-12,Mouse,80177.0,5.0,East,Pune,France,0.0,Cash,43.0,
+2022-04-05,Laptop,14793.0,22.0,North,Kolkata,Germany,15.0,Cash,56.0,Male
+2022-05-14,Smartwatch,46899.0,25.0,West,Chennai,France,,UPI,49.0,
+2022-10-27,Printer,68572.0,29.0,North,Lucknow,France,10.0,Credit Card,33.0,Male
+2022-12-08,Smartwatch,89974.0,33.0,East,Jaipur,Canada,20.0,Credit Card,69.0,Female
+2022-01-26,Smartwatch,19503.0,30.0,South,Bangalore,Germany,0.0,Debit Card,39.0,Other
+2022-12-13,Smartwatch,6291.0,6.0,South,Lucknow,USA,,Net Banking,51.0,Other
+2022-04-14,Phone,56456.0,39.0,South,Mumbai,USA,20.0,,39.0,Male
+2022-05-05,Mouse,64028.0,23.0,,Jaipur,UK,,UPI,57.0,Other
+2022-08-10,,95405.0,22.0,West,Ahmedabad,UK,0.0,,63.0,Male
+2022-04-06,Tablet,6235.0,32.0,North,Bangalore,UK,0.0,Cash,22.0,Other
+2022-09-23,Mouse,63180.0,38.0,West,Chennai,UK,20.0,Debit Card,63.0,Male
+2022-05-29,Phone,7449.0,28.0,West,Lucknow,USA,10.0,Net Banking,63.0,Male
+2022-12-30,,34509.0,31.0,North,Chennai,USA,10.0,Debit Card,61.0,Other
+2022-12-11,Monitor,58013.0,13.0,West,Lucknow,France,20.0,Cash,39.0,Male
+,,2816.0,2.0,East,,USA,20.0,Cash,65.0,Male
+2022-09-25,Phone,76723.0,42.0,North,Kolkata,Germany,10.0,Net Banking,61.0,
+2022-10-11,Mouse,78963.0,44.0,East,Hyderabad,Germany,10.0,Cash,45.0,Female
+2022-10-24,Keyboard,61460.0,10.0,South,Bangalore,,0.0,Cash,,Other
+2022-02-22,Phone,16222.0,11.0,,Lucknow,France,5.0,Debit Card,37.0,Male
+2022-01-23,Smartwatch,83211.0,,South,Ahmedabad,UK,5.0,UPI,31.0,Female
+2022-04-20,Headphones,56034.0,42.0,East,Jaipur,USA,5.0,UPI,69.0,Other
+2022-05-24,,85266.0,47.0,,Lucknow,Canada,20.0,Debit Card,24.0,Male
+2022-09-06,Monitor,43701.0,,East,Bangalore,USA,10.0,Cash,61.0,Other
+2022-06-14,Keyboard,63853.0,42.0,South,Kolkata,Germany,5.0,Net Banking,44.0,Other
+2022-07-19,Monitor,73855.0,23.0,North,Chennai,Canada,5.0,UPI,35.0,Male
+2022-08-06,Phone,7666.0,13.0,North,Delhi,India,20.0,Credit Card,52.0,Female
+2022-03-06,,66225.0,31.0,West,Delhi,Canada,15.0,,56.0,Female
+2022-04-07,Laptop,64586.0,26.0,East,Kolkata,UK,15.0,Debit Card,43.0,Female
+2022-09-08,,37152.0,37.0,West,,France,20.0,Debit Card,32.0,Other
+2022-03-04,Keyboard,92150.0,45.0,East,Mumbai,France,0.0,UPI,51.0,Male
+2022-05-24,Phone,70252.0,12.0,West,Chennai,UK,0.0,UPI,35.0,Other
+2022-01-08,Printer,50117.0,1.0,West,,USA,,Net Banking,39.0,Female
+2022-02-22,Mouse,97971.0,18.0,North,Jaipur,UK,0.0,Credit Card,30.0,Male
+2022-12-31,Printer,70222.0,31.0,West,Lucknow,France,,UPI,66.0,Female
+2022-08-30,Monitor,18495.0,14.0,East,Delhi,France,5.0,Credit Card,36.0,Male
+2022-12-02,Mouse,23648.0,39.0,East,Mumbai,UK,0.0,Cash,,Female
+2022-11-05,Printer,,35.0,East,Delhi,France,15.0,UPI,62.0,Male
+2022-05-13,Monitor,12342.0,,West,Lucknow,India,15.0,Cash,24.0,Other
+2022-05-28,Headphones,11497.0,,West,Mumbai,USA,10.0,Cash,36.0,Female
+2022-11-20,Headphones,83268.0,11.0,West,Kolkata,France,10.0,Credit Card,,Male
+2022-06-14,Phone,15287.0,18.0,West,Lucknow,Canada,,Credit Card,27.0,Other
+2022-04-08,Phone,9365.0,11.0,South,,Canada,15.0,UPI,64.0,Female
+2022-09-28,Keyboard,,6.0,East,Kolkata,UK,0.0,Cash,19.0,Male
+2022-08-01,Camera,21511.0,15.0,North,Delhi,India,0.0,UPI,,Other
+,Keyboard,78643.0,6.0,West,Mumbai,France,5.0,Debit Card,21.0,Other
+2022-03-29,Smartwatch,89453.0,16.0,North,Jaipur,Germany,20.0,,29.0,
+2022-10-09,Tablet,26412.0,4.0,North,Chennai,Germany,5.0,UPI,38.0,Other
+2022-06-22,Headphones,11282.0,8.0,North,Pune,Germany,20.0,Debit Card,34.0,
+2022-06-09,Tablet,69451.0,4.0,South,Mumbai,UK,20.0,UPI,49.0,Female
+2022-06-16,Phone,72690.0,30.0,South,Delhi,Canada,5.0,Debit Card,19.0,Male
+2022-07-23,Camera,19672.0,31.0,East,Chennai,India,20.0,Cash,46.0,Other
+2022-08-04,Phone,26181.0,35.0,West,Ahmedabad,France,15.0,Cash,20.0,Male
+2022-05-14,Keyboard,67263.0,38.0,West,Chennai,Canada,0.0,Cash,32.0,Female
+2022-08-30,Mouse,16298.0,29.0,West,Chennai,,5.0,Debit Card,41.0,Male
+2022-02-22,Camera,27505.0,41.0,West,Hyderabad,France,10.0,Cash,48.0,Male
+2022-05-01,Phone,43927.0,22.0,West,Pune,France,20.0,Debit Card,64.0,Other
+2022-08-06,Printer,13954.0,31.0,North,Bangalore,USA,0.0,UPI,69.0,Female
+2022-09-21,Printer,6827.0,22.0,West,Delhi,France,5.0,UPI,67.0,Other
+2022-01-13,Headphones,67138.0,7.0,South,Jaipur,France,10.0,UPI,53.0,Male
+2022-08-15,Tablet,18400.0,5.0,South,Lucknow,France,,UPI,21.0,Other
+2022-05-02,Headphones,90517.0,4.0,North,Hyderabad,,20.0,Debit Card,47.0,Male
+2022-12-19,Tablet,87608.0,13.0,East,Mumbai,USA,0.0,Net Banking,23.0,Female
+2022-01-22,Phone,10027.0,18.0,North,Jaipur,UK,20.0,Net Banking,55.0,Other
+2022-07-10,Printer,18029.0,22.0,North,Lucknow,Canada,15.0,Net Banking,19.0,Female
+2022-07-01,Smartwatch,25891.0,44.0,,Delhi,Canada,5.0,Debit Card,69.0,Male
+2022-10-06,Monitor,27664.0,33.0,West,Delhi,USA,20.0,Debit Card,59.0,Male
+2022-08-24,Keyboard,56909.0,15.0,South,Ahmedabad,Germany,10.0,Cash,64.0,Other
+2022-02-11,Printer,89524.0,40.0,,Mumbai,Canada,20.0,,,Male
+2022-07-06,Keyboard,29186.0,46.0,West,Delhi,UK,10.0,Debit Card,34.0,Female
+2022-10-30,Monitor,97654.0,13.0,North,Chennai,USA,10.0,UPI,50.0,Other
+2022-03-17,Monitor,68680.0,36.0,North,Chennai,UK,,Credit Card,,Male
+2022-05-05,Keyboard,5729.0,2.0,North,Pune,Canada,20.0,Cash,57.0,Other
+2022-10-28,Laptop,86550.0,1.0,North,Ahmedabad,Germany,15.0,Debit Card,37.0,Female
+2022-12-12,Camera,30332.0,28.0,East,Jaipur,Germany,10.0,Debit Card,40.0,Male
+2022-10-12,,13643.0,39.0,West,Ahmedabad,,20.0,UPI,27.0,Other
+2022-03-16,,22806.0,48.0,East,Kolkata,Germany,20.0,Credit Card,66.0,Other
+2022-11-18,Phone,96356.0,41.0,North,Pune,Germany,15.0,UPI,,Male
+2022-12-23,Keyboard,69617.0,14.0,North,Lucknow,India,5.0,UPI,54.0,Male
+2022-11-19,Laptop,94383.0,22.0,North,Kolkata,UK,,Cash,24.0,Female
+2022-04-07,Phone,76746.0,7.0,South,,USA,,UPI,29.0,Female
+2022-01-20,Keyboard,19424.0,6.0,East,Ahmedabad,Canada,5.0,Credit Card,34.0,Other
+2022-04-30,Keyboard,10885.0,25.0,West,Hyderabad,Germany,15.0,Debit Card,52.0,
+2022-09-01,Keyboard,98714.0,4.0,South,Ahmedabad,,10.0,UPI,67.0,Female
+2022-10-08,Mouse,22586.0,33.0,West,Lucknow,UK,10.0,Net Banking,22.0,Male
+2022-10-06,Monitor,82900.0,30.0,North,Lucknow,India,,Debit Card,62.0,Other
+2022-07-20,Monitor,49977.0,26.0,East,Delhi,,20.0,Credit Card,20.0,Other
+2022-04-26,Phone,75408.0,20.0,South,Kolkata,USA,15.0,Net Banking,36.0,Female
+2022-01-02,Keyboard,94913.0,48.0,East,Mumbai,Germany,5.0,Credit Card,59.0,Female
+2022-02-28,Tablet,49799.0,36.0,South,Lucknow,India,0.0,UPI,,Other
+2022-08-12,Phone,55521.0,12.0,South,Bangalore,,20.0,Credit Card,24.0,Male
+2022-01-26,Keyboard,91399.0,23.0,East,Jaipur,India,15.0,UPI,23.0,Male
+2022-02-08,Headphones,34858.0,13.0,West,Mumbai,UK,15.0,Net Banking,49.0,Other
+2022-03-30,Monitor,87327.0,36.0,East,Kolkata,India,5.0,,18.0,Other
+2022-11-05,Printer,56498.0,1.0,East,Chennai,France,5.0,UPI,33.0,Female
+2022-04-18,Tablet,27488.0,10.0,West,Hyderabad,France,20.0,Debit Card,63.0,Female
+2022-04-15,Tablet,32183.0,,North,Jaipur,India,15.0,Net Banking,69.0,Other
+2022-10-20,Printer,77460.0,31.0,South,Hyderabad,Germany,,Net Banking,36.0,Other
+2022-05-31,Phone,,20.0,North,Mumbai,India,15.0,UPI,21.0,Other
+2022-08-01,Mouse,25004.0,15.0,East,Hyderabad,USA,15.0,UPI,68.0,Male
+2022-06-23,Headphones,,,South,Ahmedabad,,0.0,Credit Card,55.0,Other
+2022-09-08,Mouse,,10.0,North,Delhi,Germany,5.0,Net Banking,52.0,Female
+2022-06-30,Keyboard,60472.0,30.0,West,Chennai,France,0.0,UPI,45.0,Female
+2022-07-27,Laptop,73691.0,28.0,East,,Germany,15.0,UPI,68.0,Other
+2022-05-13,,30351.0,17.0,East,Mumbai,Germany,10.0,Debit Card,45.0,Female
+2022-01-14,Mouse,11623.0,9.0,North,Delhi,Canada,20.0,Net Banking,32.0,Other
+2022-11-16,Laptop,39549.0,16.0,East,Bangalore,UK,15.0,UPI,21.0,Other
+2022-08-15,Headphones,87627.0,28.0,South,Mumbai,UK,20.0,UPI,35.0,Female
+,Camera,65464.0,8.0,East,Hyderabad,India,0.0,Cash,69.0,Female
+2022-10-21,Mouse,55898.0,45.0,West,Delhi,France,,Net Banking,62.0,Other
+2022-10-17,Headphones,52509.0,18.0,North,Pune,USA,20.0,Credit Card,59.0,
+2022-08-11,Printer,78453.0,19.0,East,,Canada,20.0,Cash,35.0,Female
+2022-10-15,Monitor,7097.0,,South,Hyderabad,Germany,10.0,Cash,43.0,Male
+,Headphones,37433.0,13.0,East,Kolkata,USA,,UPI,23.0,Male
+2022-11-19,Monitor,898.0,49.0,North,Delhi,UK,,,34.0,Male
+2022-04-14,Printer,88703.0,31.0,South,,UK,0.0,Credit Card,36.0,Female
+2022-03-31,Mouse,50594.0,29.0,North,Jaipur,USA,20.0,UPI,24.0,Other
+2022-06-02,Tablet,7565.0,,East,Pune,India,20.0,,31.0,Other
+2022-08-18,Camera,49024.0,33.0,North,Jaipur,Canada,15.0,Credit Card,,Male
+2022-04-25,Mouse,24760.0,19.0,North,Kolkata,USA,10.0,Debit Card,52.0,Female
+2022-02-07,Camera,79793.0,12.0,West,Mumbai,Germany,0.0,Cash,50.0,Other
+2022-11-16,Smartwatch,35953.0,2.0,North,Bangalore,France,0.0,Cash,69.0,
+2022-12-21,Monitor,58602.0,,South,Delhi,,0.0,,56.0,Female
+2022-09-15,Camera,97989.0,48.0,East,Chennai,USA,15.0,Cash,49.0,Male
+2022-05-17,Keyboard,39984.0,26.0,,Jaipur,Canada,10.0,Credit Card,51.0,Female
+2022-02-05,,99058.0,1.0,West,Jaipur,Germany,10.0,Net Banking,49.0,Female
+2022-04-11,,40744.0,37.0,West,Hyderabad,USA,20.0,Net Banking,29.0,Male
+2022-12-26,Keyboard,69597.0,29.0,,Ahmedabad,,10.0,Debit Card,38.0,Female
+2022-12-08,Smartwatch,88758.0,48.0,North,Bangalore,USA,0.0,Credit Card,47.0,Male
+2022-06-01,Monitor,,39.0,South,Jaipur,Germany,5.0,,30.0,Female
+2022-05-10,Headphones,19259.0,15.0,East,Lucknow,France,20.0,Cash,33.0,Female
+2022-11-01,Headphones,92950.0,,North,Ahmedabad,UK,5.0,Debit Card,37.0,Male
+2022-03-10,Mouse,27251.0,35.0,West,Bangalore,France,0.0,UPI,56.0,Male
+2022-09-15,Laptop,25205.0,15.0,East,Jaipur,Germany,15.0,Net Banking,33.0,Female
+2022-08-13,Phone,52513.0,21.0,West,Hyderabad,USA,5.0,Debit Card,57.0,
+2022-05-23,Keyboard,49212.0,4.0,South,,France,15.0,Credit Card,53.0,Male
+,Smartwatch,92172.0,2.0,North,Bangalore,Canada,20.0,UPI,25.0,Female
+2022-12-18,Phone,96135.0,2.0,East,Hyderabad,France,15.0,Debit Card,68.0,Male
+2022-02-15,Phone,,43.0,East,Pune,Canada,10.0,Debit Card,66.0,Male
+2022-06-01,Headphones,40663.0,8.0,East,Kolkata,Canada,0.0,Debit Card,41.0,Female
+2022-08-17,Mouse,17818.0,47.0,East,,Germany,10.0,,37.0,Male
+2022-02-23,Laptop,64027.0,20.0,,Lucknow,USA,10.0,Cash,47.0,Female
+2022-09-14,Printer,16655.0,11.0,North,Pune,USA,5.0,Debit Card,65.0,Other
+2022-09-15,Mouse,33735.0,4.0,East,Chennai,India,0.0,Credit Card,27.0,Other
+2022-07-27,Smartwatch,20984.0,21.0,South,Kolkata,Canada,10.0,Debit Card,64.0,Male
+2022-01-19,Mouse,5160.0,29.0,North,Ahmedabad,France,15.0,Credit Card,23.0,Male
+2022-09-27,Printer,10848.0,33.0,North,Jaipur,France,20.0,Credit Card,67.0,Male
+2022-08-21,,46242.0,31.0,West,Lucknow,India,10.0,Cash,69.0,Female
+2022-03-08,Smartwatch,3184.0,37.0,North,Hyderabad,India,20.0,Credit Card,33.0,Male
+2022-10-25,Printer,65052.0,2.0,North,Jaipur,France,10.0,UPI,67.0,Female
+2022-04-14,Phone,8407.0,10.0,,Hyderabad,USA,20.0,Cash,21.0,Female
+2022-11-26,Tablet,48885.0,16.0,West,Mumbai,France,20.0,UPI,56.0,Other
+2022-12-17,Phone,91848.0,,West,Lucknow,India,5.0,Net Banking,54.0,Other
+2022-07-09,Camera,48717.0,27.0,East,Bangalore,,,Credit Card,35.0,
+2022-07-21,,71434.0,25.0,West,Ahmedabad,USA,0.0,Net Banking,49.0,Female
+2022-09-21,,1229.0,28.0,North,Kolkata,Canada,10.0,UPI,51.0,Other
+2022-02-18,Laptop,79657.0,4.0,West,Bangalore,UK,5.0,Debit Card,67.0,Female
+2022-09-21,Camera,60480.0,17.0,East,Hyderabad,Germany,10.0,Net Banking,49.0,Female
+2022-08-15,Laptop,47866.0,46.0,East,Kolkata,France,5.0,Credit Card,60.0,Male
+2022-01-26,Printer,17372.0,4.0,East,Bangalore,,5.0,,65.0,
+2022-05-27,Printer,1261.0,24.0,South,Jaipur,France,15.0,Credit Card,,Other
+2022-12-31,Laptop,8631.0,20.0,East,Hyderabad,USA,10.0,UPI,38.0,Male
+2022-09-18,Monitor,21738.0,39.0,West,Bangalore,UK,0.0,Net Banking,46.0,Male
+2022-09-07,Tablet,86817.0,38.0,North,Delhi,Germany,20.0,Debit Card,25.0,Other
+2022-12-16,,22569.0,41.0,North,Pune,Germany,15.0,Credit Card,43.0,Male
+2022-01-12,Camera,83832.0,13.0,North,Pune,USA,0.0,Cash,62.0,Male
+2022-12-26,Laptop,71316.0,49.0,West,Kolkata,India,,UPI,30.0,Other
+2022-06-26,Mouse,29809.0,15.0,,Bangalore,Canada,15.0,Credit Card,47.0,Female
+2022-03-13,,95964.0,42.0,,Mumbai,,15.0,Debit Card,37.0,Female
+2022-08-31,Tablet,28160.0,38.0,North,Ahmedabad,India,,Debit Card,61.0,Other
+2022-09-01,Monitor,96987.0,11.0,North,Lucknow,Canada,10.0,Cash,47.0,Female
+2022-12-09,Headphones,84073.0,13.0,South,Kolkata,France,5.0,Credit Card,38.0,Female
+2022-11-28,Monitor,29420.0,19.0,South,Lucknow,,10.0,,,
+,Smartwatch,3848.0,20.0,North,Ahmedabad,India,5.0,Cash,51.0,Other
+2022-01-05,Camera,41181.0,15.0,East,Kolkata,UK,20.0,Debit Card,67.0,Female
+2022-03-31,Mouse,65703.0,13.0,South,Pune,India,10.0,UPI,27.0,Female
+2022-11-01,Mouse,80683.0,30.0,West,Lucknow,France,0.0,Cash,33.0,Female
+2022-05-21,Laptop,60924.0,12.0,West,Hyderabad,Germany,10.0,Net Banking,18.0,Female
+2022-08-13,Smartwatch,42417.0,10.0,West,Bangalore,Canada,20.0,Credit Card,27.0,Other
+,Monitor,23027.0,41.0,West,Kolkata,UK,15.0,Cash,57.0,Female
+2022-06-12,Monitor,12961.0,42.0,East,Pune,,10.0,Credit Card,33.0,Other
+2022-06-09,Laptop,61481.0,45.0,North,Jaipur,Canada,5.0,Credit Card,56.0,Other
+2022-01-01,Tablet,21750.0,16.0,West,Pune,USA,10.0,Net Banking,51.0,Other
+2022-01-15,Phone,8948.0,48.0,South,Lucknow,Canada,15.0,Credit Card,20.0,Female
+2022-11-06,Printer,3328.0,8.0,East,Kolkata,Canada,5.0,Credit Card,54.0,Female
+2022-10-07,Keyboard,84048.0,24.0,North,Hyderabad,Canada,5.0,,45.0,Male
+2022-08-07,Smartwatch,71487.0,39.0,West,Jaipur,Germany,0.0,Net Banking,,Female
+,Smartwatch,37444.0,35.0,South,Hyderabad,France,20.0,UPI,56.0,Female
+,Camera,8420.0,25.0,East,Ahmedabad,France,20.0,Cash,44.0,Other
+2022-03-02,Headphones,24946.0,30.0,,Bangalore,USA,,Debit Card,54.0,Male
+2022-12-08,Headphones,57162.0,25.0,East,Bangalore,India,10.0,Credit Card,61.0,Male
+2022-12-16,Tablet,53151.0,47.0,West,Ahmedabad,Canada,15.0,Credit Card,53.0,Other
+2022-01-23,Phone,23564.0,26.0,East,Chennai,Germany,10.0,Net Banking,67.0,Male
+2022-06-16,Smartwatch,60508.0,42.0,South,Chennai,Canada,5.0,Debit Card,63.0,Other
+2022-05-31,Monitor,53244.0,30.0,East,Delhi,Canada,10.0,Net Banking,50.0,Other
+2022-12-05,Keyboard,44406.0,24.0,North,Delhi,Germany,15.0,UPI,34.0,Female
+2022-02-08,Tablet,55665.0,8.0,West,Bangalore,USA,10.0,Net Banking,61.0,Female
+2022-08-11,Headphones,35809.0,,North,Mumbai,Germany,10.0,Debit Card,67.0,Male
+2022-08-27,Smartwatch,95627.0,5.0,East,Bangalore,India,0.0,Credit Card,20.0,
+2022-05-23,Headphones,21495.0,27.0,South,Ahmedabad,India,15.0,Credit Card,35.0,Male
+2022-05-18,Mouse,62812.0,9.0,East,Jaipur,India,20.0,Credit Card,41.0,Other
+2022-06-29,Camera,25591.0,39.0,East,Kolkata,UK,20.0,Debit Card,28.0,Other
+2022-05-09,Tablet,52411.0,29.0,West,Mumbai,Germany,5.0,Debit Card,23.0,Male
+2022-01-19,Laptop,11432.0,10.0,East,Ahmedabad,France,10.0,UPI,59.0,Female
+2022-06-28,Mouse,14349.0,19.0,West,,France,0.0,Credit Card,37.0,Other
+2022-05-22,Mouse,68046.0,39.0,North,Mumbai,USA,0.0,Net Banking,,Other
+2022-12-03,Headphones,10243.0,34.0,South,Hyderabad,France,10.0,Credit Card,42.0,Other
+2022-03-10,Tablet,79536.0,26.0,South,,USA,0.0,Net Banking,34.0,Other
+2022-02-19,Smartwatch,,12.0,South,Ahmedabad,India,10.0,Net Banking,60.0,Female
+2022-11-19,Mouse,88960.0,38.0,South,Pune,UK,5.0,Credit Card,36.0,Other
+2022-06-19,Laptop,3883.0,39.0,West,Kolkata,USA,5.0,Net Banking,45.0,Female
+2022-06-09,,94643.0,22.0,West,Kolkata,UK,10.0,Debit Card,46.0,Female
+2022-12-10,,70267.0,46.0,,Delhi,USA,5.0,Credit Card,62.0,Male
+2022-12-26,Headphones,86310.0,28.0,South,Kolkata,UK,5.0,Credit Card,68.0,Male
+2022-12-22,Printer,1478.0,35.0,North,Delhi,Germany,15.0,UPI,29.0,Other
+2022-11-14,Laptop,42914.0,11.0,South,Delhi,Canada,20.0,,49.0,Female
+2022-08-04,Keyboard,3259.0,43.0,,Kolkata,USA,10.0,UPI,53.0,Male
+2022-07-05,Keyboard,94734.0,19.0,East,Pune,India,,Debit Card,29.0,Male
+2022-06-09,Mouse,57614.0,36.0,South,Lucknow,India,20.0,UPI,69.0,Female
+2022-04-14,Laptop,22792.0,26.0,East,Bangalore,Canada,10.0,Credit Card,39.0,Female
+2022-05-30,Printer,42774.0,13.0,North,Jaipur,Germany,0.0,Net Banking,20.0,Other
+2022-02-10,Phone,16221.0,4.0,West,Jaipur,France,5.0,Debit Card,47.0,Female
+2022-12-08,Printer,53470.0,6.0,South,Lucknow,Canada,5.0,Debit Card,27.0,Male
+2022-04-23,Headphones,59313.0,23.0,South,Bangalore,UK,5.0,Net Banking,38.0,Other
+2022-10-21,Laptop,13126.0,25.0,North,Mumbai,Canada,10.0,Debit Card,18.0,Male
+2022-05-08,Phone,16072.0,7.0,South,,Canada,15.0,Credit Card,42.0,Female
+2022-11-05,Printer,22937.0,7.0,South,Lucknow,UK,,Debit Card,22.0,Male
+2022-10-30,Keyboard,19523.0,11.0,,,Canada,10.0,Credit Card,37.0,Male
+2022-05-10,Keyboard,50699.0,28.0,East,Delhi,USA,10.0,UPI,30.0,Other
+2022-02-24,Camera,87273.0,26.0,East,Hyderabad,France,5.0,Credit Card,48.0,Other
+2022-10-04,Phone,15298.0,34.0,South,Ahmedabad,USA,20.0,Debit Card,68.0,
+2022-10-09,Smartwatch,87282.0,42.0,South,Delhi,Germany,15.0,Net Banking,27.0,Female
+2022-12-15,Headphones,,9.0,East,Chennai,India,20.0,UPI,68.0,Female
+2022-02-15,Keyboard,40796.0,27.0,North,Delhi,Germany,5.0,Credit Card,39.0,Male
+2022-01-07,Keyboard,39616.0,27.0,North,Delhi,UK,10.0,Credit Card,44.0,Male
+2022-06-01,Laptop,95182.0,48.0,South,Ahmedabad,France,10.0,Credit Card,35.0,Other
+,Tablet,84794.0,33.0,North,Bangalore,India,20.0,Cash,34.0,Other
+2022-02-24,Monitor,67017.0,47.0,South,,France,20.0,Net Banking,64.0,Female
+2022-02-20,Laptop,94048.0,12.0,South,Chennai,,15.0,UPI,47.0,Male
+2022-07-24,Mouse,94874.0,22.0,West,Lucknow,India,10.0,,,Female
+2022-09-11,Laptop,12816.0,28.0,South,Jaipur,France,20.0,Debit Card,57.0,
+2022-09-16,Printer,80963.0,46.0,East,Hyderabad,Germany,10.0,Credit Card,20.0,Female
+2022-12-01,Camera,26399.0,16.0,West,Delhi,USA,15.0,,34.0,Other
+2022-11-21,Printer,58919.0,5.0,,Bangalore,UK,,Credit Card,29.0,Male
+2022-01-12,Headphones,91747.0,6.0,North,Jaipur,UK,20.0,Net Banking,33.0,Male
+2022-12-31,Headphones,41950.0,11.0,West,Jaipur,France,5.0,Debit Card,48.0,Other
+2022-07-15,Printer,31758.0,46.0,East,Jaipur,UK,0.0,Credit Card,47.0,Female
+2022-04-11,Monitor,13768.0,46.0,,Hyderabad,France,15.0,Debit Card,52.0,Male
+2022-03-16,Phone,23445.0,21.0,South,Pune,USA,5.0,Net Banking,,Male
+2022-07-09,Printer,70304.0,10.0,West,Mumbai,France,0.0,Cash,50.0,Other
+2022-04-02,Headphones,6633.0,1.0,North,Jaipur,India,10.0,UPI,49.0,Female
+2022-09-28,Headphones,54775.0,37.0,North,Bangalore,USA,,Debit Card,51.0,Male
+2022-10-23,Monitor,51728.0,21.0,West,Delhi,,5.0,Credit Card,32.0,Female
+2022-01-17,Printer,64704.0,9.0,East,Pune,UK,,Net Banking,59.0,Female
+2022-03-10,Mouse,49256.0,42.0,North,Ahmedabad,India,0.0,UPI,24.0,Other
+2022-11-26,Headphones,47304.0,15.0,South,Jaipur,France,0.0,Net Banking,30.0,Female
+2022-11-28,Laptop,46601.0,35.0,North,Jaipur,USA,,Debit Card,18.0,Other
+2022-03-15,Camera,82564.0,17.0,West,Ahmedabad,India,15.0,Credit Card,24.0,Male
+2022-08-23,Mouse,86536.0,35.0,West,Hyderabad,France,0.0,Cash,42.0,Other
+2022-03-04,Laptop,78382.0,8.0,North,Pune,Germany,15.0,Cash,45.0,Female
+2022-03-18,Headphones,68243.0,26.0,South,Lucknow,Germany,15.0,UPI,35.0,Male
+,Phone,90778.0,32.0,West,Lucknow,Canada,10.0,UPI,58.0,Female
+2022-11-11,Smartwatch,43358.0,7.0,North,Delhi,UK,0.0,Cash,61.0,Male
+2022-09-25,Phone,28985.0,34.0,East,Chennai,France,5.0,Debit Card,30.0,Female
+2022-08-29,Tablet,67795.0,44.0,West,Mumbai,UK,,UPI,67.0,Female
+2022-12-15,Tablet,98171.0,3.0,South,Pune,India,0.0,Cash,19.0,Other
+2022-09-07,Camera,58841.0,43.0,North,Ahmedabad,France,15.0,Cash,24.0,Male
+2022-10-10,Smartwatch,30233.0,48.0,South,Bangalore,France,10.0,Credit Card,41.0,Female
+2022-12-08,Monitor,10825.0,21.0,West,Delhi,Germany,5.0,UPI,40.0,Other
+2022-02-21,Monitor,73631.0,29.0,South,Chennai,Canada,10.0,UPI,52.0,Male
+2022-05-06,Printer,31079.0,29.0,South,Bangalore,France,20.0,Cash,59.0,Other
+2022-05-30,Laptop,89342.0,11.0,,Jaipur,,15.0,Net Banking,54.0,Male
+2022-06-01,Monitor,,21.0,South,Chennai,Canada,0.0,Net Banking,34.0,
+2022-01-04,Smartwatch,,30.0,North,Hyderabad,UK,15.0,Net Banking,42.0,Other
+2022-09-29,Keyboard,21784.0,41.0,South,Jaipur,Germany,5.0,Cash,50.0,Other
+,Printer,278.0,27.0,East,Bangalore,Germany,5.0,Net Banking,26.0,
+2022-01-06,Smartwatch,57756.0,6.0,South,Delhi,Canada,15.0,Credit Card,20.0,Male
+2022-04-14,Printer,23749.0,33.0,North,,UK,5.0,UPI,49.0,
+2022-03-21,Headphones,94442.0,1.0,South,Lucknow,USA,10.0,Debit Card,49.0,Female
+2022-01-02,Tablet,46906.0,35.0,North,Chennai,France,20.0,UPI,69.0,Other
+2022-03-23,Mouse,83223.0,48.0,East,Kolkata,France,5.0,UPI,28.0,Male
+2022-01-12,Printer,14745.0,20.0,South,Chennai,Germany,20.0,Cash,33.0,
+,Smartwatch,76496.0,23.0,East,Delhi,Germany,5.0,Cash,67.0,Other
+2022-06-29,Tablet,85158.0,24.0,West,Hyderabad,France,10.0,Credit Card,43.0,Female
+2022-06-08,Tablet,27694.0,27.0,South,Mumbai,UK,5.0,,28.0,Female
+2022-02-17,Laptop,7235.0,18.0,East,Kolkata,Germany,10.0,Credit Card,68.0,Other
+2022-09-21,Camera,49416.0,8.0,East,Pune,Canada,15.0,Debit Card,33.0,Female
+2022-10-10,Keyboard,34853.0,26.0,North,Kolkata,Canada,5.0,Debit Card,53.0,Other
+2022-05-24,Monitor,49128.0,15.0,East,Pune,France,10.0,Cash,69.0,Male
+2022-01-05,Smartwatch,22192.0,9.0,West,Lucknow,Canada,20.0,Debit Card,36.0,Female
+2022-10-20,Tablet,55062.0,42.0,North,Hyderabad,Germany,,Debit Card,32.0,Other
+2022-06-26,Tablet,27152.0,1.0,West,Mumbai,UK,5.0,Net Banking,48.0,Male
+2022-02-01,Monitor,95339.0,22.0,East,,Canada,5.0,Credit Card,46.0,Female
+2022-12-06,Tablet,92307.0,12.0,South,Hyderabad,India,0.0,UPI,65.0,Other
+2022-12-21,Phone,81495.0,41.0,South,Lucknow,France,,Credit Card,33.0,Other
+2022-09-24,Laptop,14241.0,17.0,North,Lucknow,India,20.0,Debit Card,62.0,Female
+,Keyboard,86061.0,10.0,,Mumbai,USA,0.0,Debit Card,32.0,Male
+2022-10-12,Laptop,75169.0,,South,Bangalore,India,0.0,Credit Card,56.0,Female
+2022-09-12,Phone,12406.0,41.0,North,Pune,Canada,15.0,,69.0,Other
+2022-05-12,Monitor,28479.0,25.0,West,Kolkata,India,5.0,Net Banking,65.0,Male
+2022-11-14,Mouse,1774.0,12.0,North,Hyderabad,Germany,0.0,Debit Card,63.0,Female
+2022-09-10,Headphones,56661.0,5.0,East,Hyderabad,USA,15.0,UPI,42.0,Other
+2022-04-11,Camera,49670.0,34.0,North,Mumbai,India,5.0,UPI,35.0,
+2022-03-30,Mouse,76468.0,40.0,North,Delhi,UK,10.0,UPI,34.0,Female
+2022-07-25,Smartwatch,78633.0,39.0,North,Pune,India,15.0,Debit Card,46.0,Other
+,Tablet,61184.0,45.0,South,Kolkata,France,15.0,UPI,46.0,Male
+2022-03-07,Camera,,15.0,North,Mumbai,UK,15.0,Credit Card,56.0,Male
+2022-06-07,Mouse,39667.0,37.0,South,Pune,Germany,0.0,Cash,39.0,Female
+2022-10-09,Monitor,38385.0,,West,Delhi,Germany,15.0,Debit Card,27.0,Male
+2022-07-13,Tablet,,33.0,,Jaipur,Germany,10.0,Debit Card,24.0,Female
+2022-08-14,Mouse,75583.0,48.0,South,Jaipur,France,0.0,,40.0,
+2022-11-19,Camera,97052.0,29.0,East,Delhi,India,15.0,UPI,63.0,Male
+2022-12-06,Tablet,43269.0,2.0,East,Pune,Germany,10.0,UPI,,Male
+2022-01-07,Mouse,92062.0,7.0,East,Mumbai,USA,10.0,UPI,43.0,Male
+2022-10-07,Monitor,28450.0,42.0,West,Chennai,,20.0,Cash,25.0,Male
+2022-05-21,Camera,5133.0,40.0,North,Ahmedabad,France,15.0,UPI,65.0,Male
+2022-08-02,Camera,98334.0,30.0,East,Jaipur,Canada,,Debit Card,31.0,Female
+,Smartwatch,73720.0,32.0,North,Bangalore,USA,0.0,Cash,33.0,Other
+2022-07-17,Camera,6154.0,26.0,West,Ahmedabad,France,0.0,,55.0,Male
+2022-09-25,Mouse,29770.0,,North,Delhi,India,5.0,Net Banking,26.0,Female
+2022-10-16,Smartwatch,45965.0,26.0,North,Kolkata,UK,0.0,Net Banking,34.0,Other
+2022-08-11,Mouse,14371.0,21.0,East,Lucknow,UK,0.0,UPI,46.0,Male
+,Printer,70347.0,13.0,East,Delhi,France,10.0,Cash,,Other
+2022-05-25,Laptop,11254.0,4.0,East,Chennai,USA,10.0,Debit Card,27.0,Female
+2022-12-15,Mouse,71306.0,15.0,East,Kolkata,Canada,0.0,UPI,37.0,Other
+2022-05-01,Tablet,85514.0,3.0,South,Jaipur,Germany,5.0,Cash,59.0,Female
+2022-01-29,,,8.0,South,Pune,UK,5.0,Cash,,Male
+2022-11-27,Keyboard,45437.0,41.0,North,Chennai,France,0.0,,48.0,Male
+2022-06-22,Smartwatch,62601.0,37.0,North,Delhi,,20.0,Debit Card,18.0,Other
+2022-09-04,Camera,,12.0,West,Delhi,India,5.0,Net Banking,46.0,Female
+2022-01-04,Laptop,50483.0,18.0,North,Lucknow,UK,20.0,,64.0,Male
+2022-09-27,Printer,43340.0,43.0,East,,Canada,20.0,UPI,66.0,Female
+2022-03-04,Monitor,96937.0,2.0,East,Kolkata,Canada,10.0,Credit Card,55.0,Female
+,Laptop,79581.0,33.0,East,Pune,Canada,20.0,UPI,56.0,Male
+2022-12-26,Camera,35540.0,23.0,North,Chennai,USA,15.0,Net Banking,53.0,Female
+2022-08-24,Camera,70319.0,27.0,North,Hyderabad,USA,20.0,Net Banking,40.0,Male
+,Smartwatch,29026.0,40.0,East,Ahmedabad,Germany,20.0,Debit Card,26.0,Male
+2022-02-13,Headphones,,12.0,West,Hyderabad,India,20.0,Net Banking,32.0,
+2022-02-09,Camera,2344.0,38.0,North,Hyderabad,France,5.0,Cash,50.0,Other
+2022-02-02,,31476.0,15.0,East,Ahmedabad,UK,5.0,Credit Card,62.0,Other
+2022-06-20,Smartwatch,38829.0,28.0,West,Ahmedabad,UK,15.0,UPI,67.0,Female
+2022-02-09,Phone,31030.0,49.0,East,Lucknow,USA,20.0,Debit Card,58.0,Other
+2022-03-30,Printer,60992.0,8.0,West,Delhi,India,,Credit Card,27.0,Other
+2022-04-06,Tablet,6235.0,32.0,North,Bangalore,UK,0.0,Cash,22.0,Other
+2022-02-04,Headphones,6178.0,22.0,West,Pune,Germany,10.0,Credit Card,54.0,Other
+2022-05-20,Smartwatch,35839.0,39.0,West,Delhi,France,0.0,Net Banking,57.0,Other
+2022-08-11,Keyboard,90536.0,48.0,South,Lucknow,Germany,0.0,,32.0,Female
+2022-01-12,Mouse,76482.0,1.0,West,Delhi,India,0.0,Cash,60.0,Male
+2022-11-22,Keyboard,94441.0,14.0,South,Mumbai,India,10.0,Net Banking,33.0,Other
+2022-04-16,Printer,22437.0,10.0,West,Kolkata,USA,0.0,UPI,,Male
+2022-01-05,Monitor,84798.0,26.0,North,Delhi,USA,15.0,Credit Card,32.0,
+,Monitor,19367.0,39.0,North,Kolkata,France,10.0,,65.0,Female
+2022-12-30,Smartwatch,52897.0,3.0,East,Bangalore,France,20.0,Net Banking,69.0,Male
+2022-11-15,Monitor,69201.0,33.0,East,Lucknow,India,5.0,Net Banking,30.0,Male
+2022-12-31,Mouse,61042.0,7.0,East,Mumbai,USA,20.0,Credit Card,18.0,Male
+2022-01-14,Tablet,,18.0,South,Pune,France,20.0,UPI,27.0,Male
+2022-10-28,Tablet,73905.0,41.0,West,Chennai,Canada,15.0,Cash,31.0,Female
+2022-04-21,Smartwatch,66375.0,20.0,North,Kolkata,India,10.0,Debit Card,24.0,Female
+2022-03-18,Monitor,60389.0,25.0,North,Kolkata,Germany,5.0,UPI,57.0,Other
+2022-05-06,Mouse,24804.0,44.0,North,Ahmedabad,India,0.0,Debit Card,30.0,Male
+2022-10-14,Laptop,563.0,37.0,South,Pune,France,5.0,Net Banking,32.0,Female
+,Printer,98422.0,30.0,East,,Germany,10.0,UPI,68.0,Female
+2022-12-04,Keyboard,20185.0,13.0,East,Bangalore,Germany,5.0,UPI,48.0,Other
+2022-08-15,Printer,38446.0,,East,Kolkata,,10.0,,55.0,Male
+2022-02-27,Headphones,3094.0,,South,Chennai,India,15.0,,56.0,Female
+2022-12-12,Mouse,79016.0,18.0,West,Kolkata,India,0.0,Cash,19.0,Female
+2022-11-23,Keyboard,48029.0,7.0,East,Bangalore,France,20.0,UPI,27.0,Female
+2022-02-18,Printer,34865.0,1.0,North,Chennai,France,,Cash,42.0,Other
+,Monitor,33413.0,19.0,North,Ahmedabad,France,15.0,UPI,24.0,Other
+2022-02-19,Smartwatch,37494.0,11.0,North,Lucknow,Germany,15.0,Debit Card,56.0,Male
+2022-04-12,Tablet,11321.0,49.0,West,Ahmedabad,UK,,Credit Card,69.0,Other
+2022-11-13,Camera,17983.0,11.0,East,Hyderabad,USA,20.0,,36.0,Male
+2022-08-15,Tablet,18400.0,5.0,South,Lucknow,France,,UPI,21.0,Other
+2022-12-16,Headphones,66806.0,24.0,North,,India,10.0,Cash,65.0,Female
+2022-05-13,Tablet,81937.0,3.0,East,Chennai,Germany,5.0,Net Banking,41.0,Other
+2022-04-06,Camera,85743.0,45.0,South,Chennai,UK,10.0,Cash,19.0,Other
+2022-05-16,Keyboard,32567.0,4.0,South,Hyderabad,India,5.0,Debit Card,66.0,Other
+2022-09-04,Laptop,,33.0,South,Chennai,Germany,0.0,UPI,36.0,Female
+2022-06-10,Keyboard,64917.0,30.0,South,Chennai,France,20.0,Cash,51.0,Other
+2022-12-31,Smartwatch,91491.0,32.0,West,Pune,USA,0.0,Credit Card,66.0,
+2022-08-24,Headphones,89962.0,43.0,North,Hyderabad,Germany,0.0,Debit Card,38.0,Other
+2022-06-03,Camera,69811.0,30.0,South,Lucknow,Canada,15.0,Net Banking,20.0,Female
+2022-08-03,Phone,46140.0,48.0,West,Ahmedabad,Canada,10.0,Credit Card,29.0,Female
+2022-08-05,Phone,78489.0,23.0,East,Jaipur,Canada,5.0,UPI,26.0,Other
+2022-08-25,Tablet,70574.0,45.0,West,Mumbai,Germany,10.0,,56.0,Male
+2022-02-04,Headphones,26370.0,46.0,South,Delhi,UK,10.0,Credit Card,63.0,Male
+2022-11-12,Headphones,43559.0,33.0,East,Mumbai,France,5.0,Cash,47.0,Female
+2022-03-31,Tablet,51667.0,21.0,South,Chennai,Germany,20.0,UPI,45.0,Female
+2022-06-07,Laptop,81517.0,44.0,South,Kolkata,Canada,0.0,Cash,34.0,Male
+2022-07-13,Camera,96858.0,3.0,North,Mumbai,India,10.0,Debit Card,23.0,Other
+2022-01-05,Printer,31725.0,30.0,East,Pune,India,20.0,UPI,43.0,Other
+2022-06-01,Smartwatch,56752.0,9.0,West,Mumbai,Germany,20.0,Net Banking,36.0,Male
+2022-02-06,Monitor,86754.0,9.0,East,Kolkata,Canada,20.0,Credit Card,21.0,Other
+2022-06-02,,32674.0,42.0,West,Bangalore,Canada,5.0,Cash,24.0,Male
+,Keyboard,17243.0,38.0,North,Pune,USA,5.0,Debit Card,61.0,Male
+2022-06-09,Smartwatch,32080.0,25.0,South,Kolkata,Canada,20.0,Debit Card,,Other
+2022-04-29,Keyboard,74260.0,,North,Jaipur,France,0.0,Cash,58.0,Other
+2022-02-12,Tablet,72842.0,31.0,South,Mumbai,France,0.0,UPI,55.0,Male
+2022-06-28,Camera,14021.0,37.0,West,Ahmedabad,France,10.0,Debit Card,48.0,Other
+2022-04-24,Printer,81426.0,31.0,West,Kolkata,UK,5.0,UPI,48.0,Female
+2022-12-01,Tablet,91174.0,18.0,North,Lucknow,USA,5.0,Net Banking,28.0,Other
+2022-03-17,Printer,66571.0,45.0,East,Jaipur,USA,5.0,Net Banking,67.0,Female
+2022-12-23,Keyboard,67713.0,48.0,East,,USA,0.0,Credit Card,33.0,Other
+2022-06-02,Mouse,83355.0,47.0,East,Delhi,Canada,0.0,UPI,64.0,Female
+2022-02-28,Camera,88488.0,30.0,East,Ahmedabad,Canada,15.0,Credit Card,39.0,Other
+2022-03-25,Tablet,79501.0,7.0,North,Ahmedabad,India,5.0,Credit Card,47.0,Other
+2022-06-14,Printer,37066.0,49.0,East,Bangalore,India,15.0,UPI,60.0,Male
+2022-09-10,Phone,38358.0,14.0,West,Chennai,UK,20.0,Net Banking,,Other
+2022-05-06,Headphones,54483.0,37.0,North,Chennai,USA,,Net Banking,39.0,Other
+2022-11-22,Headphones,93574.0,19.0,West,Kolkata,USA,20.0,UPI,27.0,Female
+2022-11-11,Laptop,43229.0,24.0,East,Kolkata,Canada,20.0,Credit Card,48.0,Other
+2022-01-13,Mouse,69955.0,42.0,South,Mumbai,USA,0.0,Net Banking,42.0,Male
+2022-08-12,Printer,17397.0,16.0,North,Pune,Canada,20.0,,65.0,Female
+,,83408.0,8.0,,Delhi,Germany,5.0,Credit Card,45.0,Male
+2022-09-19,Keyboard,3543.0,48.0,North,Pune,India,5.0,UPI,50.0,Other
+2022-07-20,Keyboard,73020.0,41.0,South,,Germany,0.0,Debit Card,68.0,Other
+2022-05-16,Printer,84677.0,27.0,South,Pune,France,20.0,Net Banking,25.0,Other
+2022-04-06,Printer,31431.0,16.0,North,Delhi,Germany,5.0,Debit Card,38.0,Female
+2022-11-01,Monitor,28264.0,20.0,West,Ahmedabad,Germany,15.0,Debit Card,53.0,Male
+2022-10-05,Tablet,88277.0,12.0,East,Kolkata,USA,15.0,Credit Card,63.0,Male
+2022-03-20,Phone,40818.0,18.0,East,Hyderabad,Germany,15.0,Credit Card,41.0,Other
+2022-11-20,Keyboard,84407.0,23.0,North,Bangalore,USA,15.0,Debit Card,42.0,Female
+2022-08-15,Monitor,328.0,20.0,West,Kolkata,France,0.0,Cash,22.0,Male
+2022-07-28,Mouse,90877.0,5.0,East,Lucknow,USA,15.0,Debit Card,55.0,Other
+2022-07-11,Monitor,21253.0,12.0,North,Kolkata,USA,0.0,UPI,47.0,Male
+2022-06-13,Tablet,81594.0,15.0,West,Kolkata,Germany,10.0,Net Banking,,Male
+2022-01-27,Camera,16559.0,21.0,West,Kolkata,USA,20.0,UPI,23.0,Male
+2022-03-25,Camera,57923.0,,West,Delhi,,15.0,Net Banking,60.0,Male
+2022-06-24,Tablet,61707.0,7.0,West,Pune,India,10.0,Debit Card,37.0,Other
+2022-12-25,Phone,48765.0,14.0,,Delhi,Canada,10.0,UPI,34.0,Female
+2022-12-26,Printer,88309.0,3.0,North,Chennai,India,0.0,Cash,62.0,Female
+2022-01-07,Printer,16809.0,3.0,West,Chennai,France,15.0,Credit Card,54.0,Other
+2022-06-24,Smartwatch,8533.0,12.0,South,Hyderabad,India,,UPI,39.0,Female
+2022-07-11,Keyboard,45256.0,34.0,South,Kolkata,USA,15.0,Debit Card,57.0,Female
+2022-10-01,Camera,23989.0,49.0,North,Chennai,UK,15.0,Credit Card,55.0,Other
+2022-01-20,Tablet,23254.0,30.0,West,Chennai,India,20.0,Net Banking,27.0,Other
+2022-10-04,Smartwatch,90467.0,48.0,West,Ahmedabad,France,20.0,Cash,51.0,Other
+2022-07-10,Laptop,31313.0,37.0,West,Pune,India,15.0,Debit Card,27.0,Male
+2022-05-10,Laptop,44215.0,13.0,West,Hyderabad,Germany,15.0,Cash,29.0,Female
+2022-12-15,Laptop,40569.0,,South,Kolkata,Canada,15.0,Cash,64.0,Other
+2022-06-19,Camera,93346.0,32.0,West,Kolkata,USA,20.0,Net Banking,41.0,Other
+2022-08-26,Keyboard,84862.0,32.0,West,Ahmedabad,Germany,0.0,Net Banking,18.0,Male
+2022-05-22,Keyboard,30325.0,39.0,South,Ahmedabad,Canada,15.0,Debit Card,42.0,
+2022-02-28,Tablet,94881.0,16.0,East,Pune,UK,5.0,Credit Card,67.0,Other
+2022-01-25,Laptop,93401.0,,South,Pune,UK,10.0,,37.0,Male
+2022-08-17,Smartwatch,95477.0,41.0,East,Delhi,France,10.0,Credit Card,22.0,Female
+2022-07-07,Phone,1615.0,19.0,North,Pune,France,5.0,UPI,45.0,Female
+2022-11-24,Tablet,22653.0,2.0,East,,Canada,5.0,Cash,53.0,Male
+2022-03-30,Headphones,,38.0,North,Delhi,USA,5.0,,65.0,Female
+2022-01-27,Laptop,70290.0,30.0,East,Lucknow,UK,15.0,Net Banking,24.0,Male
+2022-07-26,Keyboard,83484.0,38.0,South,Ahmedabad,France,0.0,Cash,41.0,Other
+2022-04-05,Phone,48903.0,49.0,West,Delhi,,5.0,Net Banking,29.0,Female
+2022-08-30,Printer,83429.0,48.0,West,Hyderabad,Canada,15.0,Credit Card,35.0,Other
+2022-01-09,Monitor,3781.0,22.0,West,Delhi,India,5.0,Cash,66.0,Male
+2022-04-22,Keyboard,57274.0,25.0,West,Kolkata,USA,5.0,Net Banking,63.0,Male
+2022-08-12,Headphones,35440.0,34.0,West,Mumbai,Canada,5.0,UPI,69.0,Other
+2022-09-22,Keyboard,39119.0,6.0,West,Hyderabad,India,5.0,Cash,29.0,Other
+2022-02-04,Keyboard,634.0,13.0,West,Chennai,Germany,10.0,Net Banking,34.0,Female
+2022-05-25,Camera,12715.0,33.0,North,Jaipur,France,10.0,Credit Card,47.0,
+2022-04-08,Smartwatch,43956.0,23.0,North,Lucknow,USA,5.0,Net Banking,23.0,Male
+2022-02-23,Mouse,55612.0,9.0,North,Hyderabad,USA,10.0,Credit Card,32.0,Other
+,Camera,49455.0,15.0,South,Kolkata,India,0.0,Net Banking,58.0,Other
+2022-08-25,Headphones,81615.0,47.0,North,Jaipur,India,10.0,Net Banking,,Male
+2022-07-09,Smartwatch,45326.0,6.0,South,Chennai,India,5.0,,39.0,Female
+2022-03-22,Tablet,33898.0,,North,Delhi,India,15.0,Cash,34.0,Female
+2022-12-11,Monitor,58013.0,13.0,West,Lucknow,France,20.0,Cash,39.0,Male
+2022-06-10,Smartwatch,75514.0,31.0,East,Pune,UK,20.0,Credit Card,18.0,Female
+2022-06-16,Printer,95845.0,38.0,South,Pune,Germany,0.0,UPI,40.0,Other
+2022-01-30,Monitor,96544.0,28.0,East,Hyderabad,Germany,10.0,Debit Card,34.0,Female
+2022-03-03,Camera,57630.0,16.0,East,Jaipur,USA,5.0,UPI,38.0,Male
+2022-01-01,Mouse,92968.0,13.0,East,Mumbai,USA,20.0,UPI,56.0,Female
+2022-01-13,Monitor,87693.0,5.0,South,Jaipur,USA,15.0,Debit Card,30.0,Other
+2022-06-03,Monitor,54560.0,22.0,North,Kolkata,Canada,15.0,Net Banking,55.0,Other
+2022-01-03,Smartwatch,19222.0,31.0,East,,Canada,15.0,Cash,23.0,Female
+2022-11-05,Laptop,38285.0,19.0,East,Pune,France,5.0,Net Banking,60.0,Male
+2022-07-19,Mouse,15604.0,48.0,South,Lucknow,USA,10.0,Cash,53.0,Male
+2022-08-22,Smartwatch,19329.0,47.0,North,Chennai,France,10.0,UPI,22.0,Male
+2022-08-16,Headphones,34750.0,28.0,East,Chennai,USA,20.0,Cash,28.0,Female
+2022-04-05,Mouse,72113.0,,East,Pune,USA,10.0,Cash,53.0,Other
+2022-06-21,Tablet,27143.0,10.0,,Pune,France,10.0,Cash,25.0,
+2022-06-05,Monitor,4479.0,28.0,West,Pune,Canada,10.0,Credit Card,63.0,Other
+2022-10-30,,75157.0,24.0,North,Pune,Canada,5.0,Credit Card,,Female
+2022-09-11,Phone,48543.0,1.0,South,Kolkata,France,20.0,UPI,65.0,Male
+2022-04-25,Headphones,,2.0,North,Delhi,India,15.0,Cash,52.0,Female
+2022-02-27,Headphones,99808.0,16.0,North,Chennai,USA,5.0,Debit Card,26.0,Male
+2022-06-26,Printer,66866.0,12.0,South,Kolkata,Germany,5.0,Credit Card,69.0,Other
+2022-09-24,Monitor,40305.0,7.0,South,Ahmedabad,Germany,20.0,Net Banking,29.0,Female
+2022-05-21,Laptop,88821.0,8.0,East,Hyderabad,India,0.0,Net Banking,62.0,Male
+2022-11-06,Tablet,74331.0,13.0,West,Kolkata,France,20.0,Debit Card,43.0,Female
+2022-06-21,Keyboard,29525.0,43.0,East,Jaipur,USA,5.0,Net Banking,69.0,Male
+2022-02-10,Headphones,29913.0,46.0,East,Kolkata,Germany,10.0,Debit Card,64.0,Female
+2022-06-09,Tablet,93397.0,38.0,North,Chennai,Canada,10.0,Net Banking,24.0,Female
+2022-03-27,Monitor,39891.0,6.0,West,Lucknow,Germany,5.0,Net Banking,31.0,Male
+2022-01-26,Printer,28407.0,35.0,West,Kolkata,India,10.0,Net Banking,51.0,Male
+2022-12-13,Headphones,74329.0,30.0,,Jaipur,USA,20.0,Net Banking,53.0,Female
+2022-10-14,Laptop,4250.0,2.0,East,Lucknow,Canada,20.0,UPI,65.0,Female
+2022-06-05,Printer,93894.0,25.0,West,Ahmedabad,Canada,15.0,Net Banking,43.0,Female
+2022-01-27,Keyboard,43258.0,21.0,West,Lucknow,France,15.0,Cash,40.0,Female
+2022-06-24,Tablet,86307.0,15.0,North,Chennai,USA,5.0,Debit Card,25.0,Male
+2022-03-05,Tablet,41437.0,3.0,South,Mumbai,Canada,15.0,Net Banking,20.0,Male
+2022-09-13,Mouse,,9.0,East,Ahmedabad,UK,15.0,Debit Card,35.0,Female
+2022-04-27,Laptop,3340.0,38.0,South,Ahmedabad,Canada,0.0,Debit Card,54.0,Male
+2022-06-26,Laptop,10653.0,5.0,North,Mumbai,France,5.0,Debit Card,50.0,Male
+2022-07-03,Monitor,31506.0,48.0,West,Mumbai,France,15.0,Cash,33.0,Female
+2022-03-03,Smartwatch,66706.0,3.0,East,Hyderabad,,10.0,Debit Card,57.0,Male
+2022-03-07,Tablet,47201.0,32.0,West,Bangalore,France,5.0,Net Banking,,Female
+2022-04-03,Smartwatch,31724.0,49.0,East,Ahmedabad,Canada,10.0,UPI,28.0,Other
+2022-09-29,Headphones,54578.0,15.0,West,Hyderabad,India,20.0,,22.0,Female
+,Monitor,9517.0,20.0,West,Mumbai,Germany,5.0,Credit Card,23.0,Female
+2022-01-10,Camera,,2.0,West,Kolkata,USA,10.0,UPI,20.0,Male
+2022-07-06,Keyboard,62420.0,40.0,East,Kolkata,Canada,5.0,Credit Card,,Other
+2022-01-11,Printer,31286.0,23.0,,Jaipur,UK,10.0,Credit Card,20.0,Female
+2022-06-22,Mouse,6928.0,49.0,South,,,10.0,Cash,23.0,Male
+2022-09-15,Laptop,87692.0,18.0,South,Bangalore,India,5.0,Cash,49.0,Male
+2022-04-09,Keyboard,85116.0,20.0,North,Mumbai,UK,20.0,Credit Card,63.0,Male
+,Camera,30177.0,1.0,South,Lucknow,Canada,15.0,Net Banking,50.0,Female
+2022-11-24,Tablet,45301.0,3.0,West,Hyderabad,India,20.0,Credit Card,55.0,Other
+2022-10-06,Phone,96994.0,37.0,,Jaipur,USA,20.0,Cash,54.0,Other
+2022-01-23,Phone,26602.0,19.0,North,Hyderabad,,0.0,Credit Card,61.0,Other
+2022-12-15,Laptop,85625.0,19.0,North,Pune,France,20.0,Debit Card,66.0,Other
+2022-04-28,Headphones,36924.0,7.0,North,Mumbai,USA,15.0,Credit Card,45.0,Other
+2022-10-16,Laptop,17110.0,32.0,,Kolkata,USA,10.0,Cash,51.0,Female
+2022-05-07,Printer,49156.0,33.0,North,Mumbai,UK,15.0,Cash,18.0,Female
+2022-07-05,Smartwatch,76376.0,38.0,South,Jaipur,Germany,0.0,Cash,23.0,Male
+2022-09-17,Smartwatch,88120.0,13.0,West,Pune,Canada,15.0,UPI,29.0,Female
+,Tablet,16608.0,11.0,West,Pune,France,0.0,Cash,28.0,Male
+2022-07-24,Monitor,7454.0,46.0,West,,UK,15.0,Cash,49.0,Other
+2022-09-22,Headphones,66777.0,25.0,North,Ahmedabad,UK,15.0,Debit Card,35.0,Other
+2022-07-11,Headphones,32106.0,33.0,South,Chennai,India,15.0,Cash,35.0,Male
+2022-06-11,Camera,1687.0,24.0,North,Chennai,USA,15.0,Net Banking,22.0,Male
+2022-08-15,Headphones,4721.0,24.0,North,Kolkata,Germany,0.0,Cash,42.0,Female
+2022-03-24,Phone,36233.0,3.0,North,Ahmedabad,France,,Net Banking,62.0,Other
+2022-01-04,Camera,4997.0,28.0,South,Kolkata,Germany,0.0,Cash,34.0,Other
+2022-08-21,Camera,86098.0,1.0,South,Mumbai,India,10.0,,29.0,Other
+2022-02-10,Tablet,71332.0,19.0,East,Chennai,Canada,15.0,UPI,24.0,
+2022-03-19,Camera,67716.0,6.0,South,Chennai,Canada,20.0,Credit Card,31.0,Female
+2022-08-30,Camera,77462.0,5.0,West,Delhi,USA,0.0,Credit Card,28.0,
+2022-08-04,,70121.0,26.0,East,Jaipur,,10.0,Net Banking,53.0,Male
+2022-03-17,Printer,73817.0,2.0,East,Bangalore,Germany,0.0,Debit Card,32.0,Male
+2022-11-12,Monitor,76511.0,,East,,UK,0.0,UPI,47.0,Other
+2022-09-14,Tablet,7968.0,37.0,North,Hyderabad,Germany,10.0,Debit Card,21.0,Female
+2022-04-03,Phone,77104.0,33.0,South,Chennai,Germany,0.0,Debit Card,37.0,Male
+2022-08-08,Monitor,69739.0,34.0,South,,Canada,10.0,UPI,59.0,Female
+2022-05-23,Printer,37435.0,42.0,North,Delhi,Canada,0.0,UPI,65.0,Female
+2022-03-28,Camera,70368.0,19.0,South,Delhi,Canada,0.0,UPI,60.0,Male
+2022-07-15,Monitor,96155.0,44.0,South,Mumbai,,0.0,Credit Card,32.0,Other
+2022-07-05,Camera,23482.0,14.0,South,Bangalore,India,10.0,Net Banking,57.0,Male
+2022-07-02,Smartwatch,96065.0,42.0,West,,Germany,5.0,Credit Card,45.0,Male
+2022-11-18,Tablet,95698.0,,East,,USA,0.0,Net Banking,47.0,Other
+2022-09-19,Tablet,76010.0,46.0,East,Pune,India,5.0,Debit Card,50.0,Other
+2022-02-20,Mouse,97793.0,22.0,North,Pune,India,5.0,Net Banking,48.0,Male
+2022-03-26,Tablet,4339.0,44.0,East,Bangalore,Canada,0.0,UPI,55.0,Male
+2022-09-07,Printer,10458.0,10.0,East,Mumbai,USA,20.0,UPI,31.0,Other
+2022-09-10,Keyboard,94937.0,20.0,South,Chennai,USA,20.0,Cash,35.0,Male
+2022-02-21,Printer,69544.0,34.0,East,Lucknow,Germany,20.0,Cash,18.0,Female
+2022-01-14,,93154.0,,East,Pune,India,10.0,Cash,67.0,Female
+2022-02-19,Monitor,68693.0,2.0,West,Lucknow,Canada,15.0,UPI,40.0,Female
+2022-12-20,Tablet,53739.0,1.0,North,Kolkata,UK,5.0,Credit Card,22.0,Male
+2022-04-30,Phone,32430.0,4.0,West,Lucknow,USA,10.0,UPI,45.0,
+2022-04-07,Tablet,59907.0,32.0,South,Lucknow,USA,15.0,UPI,54.0,Male
+2022-03-03,Headphones,80540.0,44.0,West,Ahmedabad,Canada,5.0,Cash,28.0,Female
+2022-03-04,,66423.0,27.0,North,Lucknow,France,15.0,Debit Card,46.0,Female
+2022-04-23,Camera,50592.0,3.0,,Ahmedabad,France,20.0,Debit Card,39.0,Female
+2022-04-19,Monitor,43216.0,38.0,East,Kolkata,UK,15.0,Debit Card,64.0,Other
+2022-09-28,Laptop,18916.0,32.0,North,Jaipur,Canada,10.0,Credit Card,35.0,Male
+2022-04-12,Laptop,84081.0,13.0,West,Hyderabad,Germany,5.0,UPI,56.0,Female
+2022-12-12,,26781.0,46.0,West,Bangalore,Canada,5.0,Cash,26.0,Other
+2022-12-30,,35550.0,39.0,West,Chennai,UK,15.0,UPI,27.0,Male
+2022-11-22,Phone,99070.0,,North,Hyderabad,France,5.0,UPI,47.0,Female
+2022-08-03,Phone,35793.0,,,Pune,France,20.0,Net Banking,59.0,Other
+2022-10-12,Camera,30068.0,37.0,West,Lucknow,UK,0.0,Credit Card,37.0,Other
+2022-01-08,Tablet,90485.0,5.0,South,Kolkata,USA,15.0,Net Banking,39.0,Female
+2022-01-06,Headphones,77046.0,5.0,South,Delhi,UK,15.0,Cash,,Female
+2022-02-10,,15340.0,29.0,North,Ahmedabad,Canada,15.0,Debit Card,40.0,Male
+2022-10-13,Headphones,15466.0,14.0,South,Lucknow,USA,15.0,UPI,63.0,Other
+2022-12-18,Laptop,17299.0,42.0,South,Bangalore,Canada,15.0,Cash,18.0,Other
+2022-09-30,Camera,78102.0,32.0,East,Bangalore,UK,5.0,UPI,20.0,Male
+2022-08-17,Camera,3278.0,16.0,West,Pune,India,0.0,Cash,54.0,Female
+2022-05-23,Printer,6464.0,9.0,East,Mumbai,Germany,5.0,Debit Card,41.0,Male
+2022-08-03,Laptop,45996.0,42.0,South,Bangalore,France,5.0,Debit Card,64.0,Female
+2022-07-12,Laptop,56854.0,39.0,South,Hyderabad,Germany,5.0,Debit Card,33.0,Male
+2022-02-02,Headphones,44136.0,2.0,North,Jaipur,,10.0,Net Banking,52.0,Male
+2022-08-27,Laptop,98332.0,43.0,East,Ahmedabad,,10.0,Net Banking,31.0,Male
+2022-03-18,Mouse,36029.0,39.0,East,Ahmedabad,,20.0,Debit Card,62.0,Female
+2022-03-25,Keyboard,83621.0,20.0,West,Pune,Canada,0.0,UPI,32.0,Female
+2022-11-09,Phone,39976.0,,South,Bangalore,France,0.0,Credit Card,30.0,Other
+2022-01-12,Headphones,73790.0,14.0,West,Chennai,Canada,10.0,Net Banking,36.0,Male
+2022-04-29,Smartwatch,20759.0,6.0,South,Chennai,USA,10.0,Credit Card,34.0,Other
+2022-06-13,Laptop,40845.0,46.0,South,Delhi,UK,20.0,Debit Card,22.0,Other
+2022-09-18,Phone,9145.0,16.0,East,Hyderabad,India,,Credit Card,31.0,Female
+2022-06-04,Printer,54305.0,36.0,North,,UK,20.0,Cash,34.0,Other
+2022-02-03,Keyboard,82314.0,12.0,West,Pune,USA,10.0,,21.0,Other
+2022-06-22,Tablet,3189.0,48.0,South,Kolkata,India,5.0,Debit Card,30.0,Other
+2022-02-18,Printer,34865.0,1.0,North,Chennai,France,,Cash,42.0,Other
+2022-06-20,Laptop,33996.0,17.0,South,Hyderabad,USA,,Cash,67.0,Female
+2022-11-17,Headphones,92688.0,6.0,North,Mumbai,USA,10.0,Net Banking,40.0,Male
+2022-08-03,Keyboard,99672.0,44.0,South,Hyderabad,India,10.0,Net Banking,55.0,Other
+2022-07-05,Headphones,20324.0,2.0,North,Ahmedabad,Germany,5.0,Cash,60.0,Female
+2022-08-20,Camera,25263.0,23.0,West,Bangalore,Germany,5.0,Net Banking,45.0,Female
+2022-06-07,Printer,166.0,24.0,North,Kolkata,Germany,15.0,Net Banking,56.0,
+2022-01-29,Keyboard,6321.0,3.0,North,Lucknow,France,10.0,UPI,54.0,Other
+2022-05-26,Monitor,81945.0,5.0,West,Hyderabad,Canada,10.0,Cash,30.0,Male
+,,56927.0,42.0,North,Jaipur,USA,15.0,Credit Card,26.0,Male
+2022-04-14,Phone,2981.0,10.0,North,Chennai,,,UPI,67.0,Male
+2022-01-02,Camera,39852.0,23.0,East,Jaipur,UK,20.0,Credit Card,,Female
+,Phone,54560.0,26.0,West,Bangalore,USA,0.0,Credit Card,56.0,Other
+2022-12-11,Printer,86544.0,44.0,East,Mumbai,,5.0,Cash,61.0,Female
+,Tablet,38517.0,25.0,North,Pune,India,20.0,UPI,30.0,Other
+2022-06-19,Smartwatch,69543.0,20.0,North,Chennai,India,10.0,Debit Card,51.0,Male
+2022-07-27,Camera,30092.0,,North,Chennai,France,20.0,Net Banking,24.0,Male
+2022-11-14,Phone,43019.0,23.0,East,Lucknow,UK,20.0,Debit Card,40.0,Male
+,Phone,94022.0,5.0,West,Pune,Canada,0.0,Debit Card,19.0,Female
+2022-12-07,Keyboard,,8.0,South,Bangalore,Germany,10.0,Net Banking,55.0,Female
+2022-05-31,Camera,12848.0,9.0,East,Jaipur,France,15.0,Net Banking,48.0,Male
+2022-05-25,Tablet,40975.0,43.0,East,Delhi,India,0.0,Net Banking,31.0,Female
+2022-01-02,Camera,39631.0,34.0,West,Lucknow,France,5.0,Cash,,Male
+,Phone,50817.0,8.0,East,Pune,India,15.0,Debit Card,30.0,Other
+2022-05-11,Smartwatch,,44.0,East,Delhi,Canada,10.0,UPI,55.0,Male
+2022-12-03,Smartwatch,65525.0,2.0,South,Bangalore,Germany,15.0,Cash,35.0,Other
+2022-02-20,Mouse,50310.0,39.0,North,Ahmedabad,France,20.0,Cash,27.0,Female
+2022-09-06,Headphones,54244.0,27.0,West,Mumbai,India,10.0,UPI,35.0,
+2022-12-31,Keyboard,71658.0,34.0,North,Pune,USA,,Net Banking,,Male
+2022-03-26,Printer,39485.0,49.0,North,Ahmedabad,Germany,20.0,Net Banking,25.0,Other
+2022-10-04,Keyboard,85803.0,36.0,East,Ahmedabad,UK,10.0,Cash,47.0,Other
+2022-02-03,Keyboard,11718.0,,West,Hyderabad,UK,5.0,Debit Card,59.0,Female
+2022-05-31,Smartwatch,19873.0,3.0,West,Mumbai,,20.0,Net Banking,60.0,Other
+2022-12-15,Camera,86800.0,48.0,West,Kolkata,India,10.0,UPI,22.0,Other
+2022-01-21,,17068.0,34.0,West,Mumbai,UK,5.0,Net Banking,23.0,Male
+2022-02-18,Camera,3417.0,35.0,West,Delhi,Canada,15.0,Credit Card,34.0,Other
+2022-03-10,Laptop,69906.0,21.0,South,Delhi,Canada,0.0,Credit Card,33.0,Male
+2022-05-22,Printer,83929.0,25.0,East,Pune,India,5.0,Credit Card,28.0,Other
+2022-12-10,Laptop,85219.0,8.0,East,Mumbai,,5.0,UPI,33.0,Female
+2022-10-04,Tablet,94758.0,45.0,North,Bangalore,USA,5.0,Debit Card,29.0,Male
+2022-11-08,Headphones,90979.0,9.0,East,Pune,Canada,5.0,Debit Card,61.0,
+2022-07-24,Printer,36032.0,26.0,South,Jaipur,USA,15.0,Net Banking,28.0,Male
+2022-05-26,Tablet,,33.0,East,Lucknow,India,10.0,Credit Card,34.0,Female
+2022-04-06,,77081.0,48.0,North,Lucknow,Canada,0.0,Net Banking,19.0,
+2022-10-30,Phone,91421.0,,East,Kolkata,Germany,20.0,Net Banking,66.0,Other
+2022-05-27,Monitor,1709.0,3.0,North,Chennai,USA,20.0,Cash,58.0,Other
+2022-02-11,Laptop,82391.0,4.0,North,Jaipur,,5.0,Debit Card,68.0,Female
+2022-09-17,Camera,47474.0,8.0,West,Ahmedabad,France,20.0,,22.0,Male
+2022-11-07,Monitor,4237.0,41.0,East,Kolkata,India,0.0,Net Banking,57.0,Other
+2022-06-16,Smartwatch,34854.0,32.0,South,Pune,USA,5.0,UPI,22.0,Male
+2022-10-21,Smartwatch,80920.0,,East,Jaipur,UK,10.0,Debit Card,33.0,Female
+2022-07-03,Phone,61916.0,45.0,North,Delhi,UK,0.0,Debit Card,32.0,Male
+2022-05-16,Printer,65433.0,46.0,South,Ahmedabad,Canada,5.0,Cash,66.0,Other
+2022-08-13,Phone,68719.0,42.0,East,Ahmedabad,Germany,0.0,Debit Card,33.0,Male
+2022-06-07,Keyboard,48453.0,17.0,East,Delhi,France,15.0,Net Banking,33.0,Male
+2022-12-20,Mouse,57333.0,44.0,South,Hyderabad,USA,15.0,Credit Card,22.0,Male
+2022-10-14,Smartwatch,65320.0,33.0,South,Chennai,USA,5.0,Cash,36.0,Other
+2022-09-25,,11450.0,10.0,North,Jaipur,USA,15.0,Credit Card,55.0,Female
+2022-11-24,Phone,52449.0,20.0,North,Pune,Germany,20.0,Credit Card,25.0,Female
+2022-07-04,,65781.0,37.0,East,Mumbai,UK,10.0,Cash,36.0,Female
+2022-09-09,Laptop,84217.0,4.0,East,Hyderabad,India,0.0,Credit Card,,Male
+2022-04-14,Monitor,86164.0,8.0,,Hyderabad,Canada,10.0,Cash,25.0,Other
+2022-04-28,Laptop,83391.0,11.0,North,Lucknow,UK,0.0,UPI,67.0,Female
+2022-08-10,Headphones,18379.0,7.0,West,Lucknow,India,20.0,UPI,,Male
+2022-11-07,Camera,96722.0,49.0,East,Ahmedabad,India,0.0,Credit Card,46.0,Other
+2022-10-13,Laptop,,3.0,South,Pune,Germany,0.0,Cash,65.0,Female
+2022-12-27,Tablet,47391.0,3.0,West,Chennai,Germany,10.0,Cash,69.0,Female
+2022-02-10,Mouse,85778.0,37.0,North,Mumbai,India,0.0,Debit Card,44.0,Other
+2022-12-29,Phone,48228.0,6.0,East,Chennai,Germany,5.0,Credit Card,27.0,Other
+2022-08-08,Laptop,83986.0,23.0,North,Mumbai,France,5.0,Net Banking,23.0,Other
+2022-11-07,Camera,10168.0,45.0,,,USA,20.0,UPI,51.0,Male
+2022-12-22,,3325.0,36.0,North,Ahmedabad,Canada,0.0,Debit Card,49.0,Other
+2022-06-13,Printer,20216.0,24.0,West,Chennai,UK,10.0,Net Banking,56.0,Other
+2022-09-20,Mouse,993.0,28.0,East,Mumbai,,20.0,UPI,,Other
+2022-08-17,Printer,19980.0,49.0,West,Hyderabad,India,20.0,Credit Card,52.0,Male
+2022-03-20,Phone,96276.0,27.0,South,Ahmedabad,France,5.0,Net Banking,64.0,Female
+2022-04-06,Printer,,37.0,East,Chennai,Germany,5.0,UPI,42.0,Other
+2022-02-11,,3062.0,28.0,North,Ahmedabad,France,15.0,UPI,45.0,Male
+2022-07-29,Smartwatch,4667.0,15.0,North,Chennai,UK,20.0,Net Banking,61.0,Other
+2022-12-27,Headphones,6108.0,32.0,West,Hyderabad,Germany,20.0,UPI,35.0,Male
+2022-07-07,Monitor,35308.0,20.0,North,Ahmedabad,USA,20.0,Credit Card,52.0,Female
+2022-11-11,Laptop,76398.0,26.0,North,Mumbai,USA,10.0,Net Banking,26.0,Other
+2022-10-22,Monitor,96071.0,49.0,West,Kolkata,Canada,20.0,Credit Card,37.0,Male
+2022-05-11,Monitor,16474.0,21.0,North,Jaipur,UK,5.0,Cash,43.0,Female
+2022-07-03,,7470.0,2.0,East,Chennai,USA,15.0,Debit Card,24.0,Female
+2022-01-01,Tablet,58351.0,43.0,East,Bangalore,USA,0.0,Cash,38.0,Male
+2022-04-24,Keyboard,17032.0,11.0,East,Jaipur,India,20.0,UPI,53.0,Other
+2022-05-30,Smartwatch,18746.0,46.0,South,Hyderabad,India,20.0,Net Banking,55.0,Other
+2022-04-21,,83697.0,14.0,North,,India,5.0,Net Banking,28.0,Male
+2022-11-07,,74810.0,48.0,South,Bangalore,India,0.0,Debit Card,55.0,Other
+,Camera,79954.0,15.0,South,Pune,UK,10.0,Net Banking,34.0,Female
+2022-06-21,Smartwatch,86690.0,21.0,West,Mumbai,France,15.0,Debit Card,22.0,Female
+2022-07-15,Monitor,46786.0,3.0,North,Jaipur,India,20.0,,59.0,
+2022-06-03,Monitor,95207.0,21.0,South,Jaipur,UK,0.0,Cash,69.0,Other
+2022-10-30,Phone,28232.0,11.0,East,Mumbai,Canada,10.0,Cash,34.0,Female
+2022-11-25,Laptop,35625.0,25.0,North,Pune,Germany,15.0,Credit Card,32.0,Female
+2022-08-04,,,49.0,,Chennai,India,0.0,Credit Card,25.0,Female
+2022-11-29,Smartwatch,61482.0,8.0,West,Jaipur,,5.0,UPI,66.0,Other
+2022-05-04,Mouse,36260.0,,South,Ahmedabad,France,5.0,Credit Card,59.0,Other
+2022-09-08,Headphones,87560.0,22.0,East,Jaipur,USA,10.0,UPI,69.0,Other
+2022-11-23,Laptop,4178.0,35.0,South,Kolkata,UK,10.0,Credit Card,53.0,Male
+2022-05-18,Smartwatch,71566.0,37.0,North,Lucknow,India,5.0,,36.0,Other
+2022-04-12,Headphones,754.0,16.0,South,Hyderabad,India,20.0,Debit Card,22.0,
+2022-12-14,Smartwatch,70523.0,27.0,East,Ahmedabad,Canada,5.0,Cash,49.0,Female
+2022-05-13,Monitor,67889.0,37.0,South,Hyderabad,USA,0.0,Net Banking,39.0,Male
+2022-07-01,Keyboard,47094.0,,South,Hyderabad,Germany,0.0,Cash,58.0,Male
+2022-10-31,Mouse,96467.0,1.0,East,Chennai,Germany,5.0,Debit Card,61.0,Other
+2022-05-10,Phone,91329.0,19.0,North,Mumbai,USA,5.0,Cash,43.0,Female
+2022-09-09,Printer,96061.0,31.0,South,Ahmedabad,UK,20.0,Credit Card,60.0,Other
+2022-06-20,Printer,5722.0,9.0,East,Bangalore,India,0.0,Cash,59.0,Female
+2022-12-16,Phone,38320.0,32.0,West,Ahmedabad,Canada,0.0,Credit Card,42.0,Male
+2022-02-07,Monitor,85482.0,14.0,East,Hyderabad,India,15.0,Cash,22.0,Male
+2022-07-21,,42724.0,9.0,North,Bangalore,France,20.0,Credit Card,39.0,Male
+2022-09-05,Printer,15132.0,3.0,North,Jaipur,Germany,10.0,Net Banking,31.0,Other
+2022-02-08,Camera,45139.0,24.0,West,Mumbai,Canada,15.0,Credit Card,50.0,Other
+2022-09-18,Monitor,99419.0,36.0,East,Mumbai,Canada,5.0,Debit Card,49.0,Male
+2022-07-16,Smartwatch,73469.0,42.0,West,Ahmedabad,India,10.0,Net Banking,23.0,Other
+2022-02-18,Headphones,71201.0,18.0,North,Bangalore,Germany,,Cash,28.0,Other
+2022-10-15,Mouse,98978.0,12.0,North,Kolkata,UK,15.0,,51.0,Other
+2022-09-04,Smartwatch,30078.0,41.0,North,Delhi,USA,0.0,Debit Card,39.0,Other
+2022-11-22,Smartwatch,23265.0,48.0,North,Pune,USA,5.0,Net Banking,23.0,Female
+2022-05-01,Smartwatch,83700.0,42.0,East,Lucknow,,5.0,Debit Card,,Other
+,Mouse,97900.0,7.0,West,Bangalore,France,15.0,Credit Card,60.0,Other
+2022-10-27,Tablet,57989.0,17.0,East,Pune,UK,10.0,Net Banking,,Other
+2022-02-24,Laptop,27877.0,28.0,South,,France,10.0,Debit Card,50.0,Male
+2022-11-17,Printer,35394.0,44.0,,Chennai,,20.0,Credit Card,46.0,Other
+2022-12-06,Camera,91519.0,45.0,North,Kolkata,UK,0.0,Credit Card,55.0,Other
+2022-05-08,Monitor,,27.0,North,Hyderabad,UK,0.0,UPI,21.0,Female
+,Mouse,51758.0,14.0,North,Mumbai,Germany,20.0,Credit Card,60.0,
+2022-10-18,Mouse,33232.0,47.0,North,Chennai,France,10.0,Cash,42.0,Male
+2022-07-11,Monitor,,23.0,West,Mumbai,France,5.0,Credit Card,21.0,Female
+2022-08-03,Phone,62057.0,39.0,East,Ahmedabad,USA,15.0,Debit Card,66.0,Male
+2022-02-07,Phone,6872.0,22.0,East,Jaipur,Canada,5.0,Debit Card,32.0,Female
+2022-06-06,Keyboard,60093.0,40.0,South,Chennai,USA,10.0,UPI,37.0,Female
+2022-07-31,Tablet,30871.0,16.0,South,,Canada,15.0,Cash,41.0,Female
+2022-07-14,Headphones,24916.0,8.0,West,Kolkata,USA,0.0,Debit Card,36.0,Male
+2022-10-12,Keyboard,66827.0,32.0,East,Pune,India,15.0,,53.0,Female
+2022-10-17,Mouse,26431.0,,South,Pune,Canada,15.0,Net Banking,,Other
+2022-08-02,Monitor,9444.0,21.0,South,Hyderabad,India,20.0,Debit Card,44.0,Other
+2022-04-08,Smartwatch,88757.0,6.0,East,Mumbai,Canada,15.0,UPI,41.0,Female
+2022-11-10,Printer,41447.0,12.0,South,Hyderabad,UK,10.0,UPI,66.0,Other
+2022-07-12,Smartwatch,59938.0,37.0,North,Kolkata,Canada,5.0,Credit Card,45.0,Male
+2022-10-18,Camera,5696.0,21.0,East,Pune,Canada,5.0,UPI,49.0,Female
+2022-04-30,Mouse,6882.0,,East,Jaipur,UK,20.0,Credit Card,49.0,Other
+,Tablet,95732.0,7.0,South,Lucknow,France,0.0,Credit Card,29.0,Male
+2022-09-16,Phone,83236.0,29.0,South,Pune,UK,0.0,Net Banking,58.0,Male
+2022-02-03,Camera,,35.0,South,Delhi,Canada,10.0,Net Banking,61.0,Male
+,Camera,1173.0,36.0,West,Kolkata,France,5.0,Cash,22.0,Other
+2022-08-27,Phone,91661.0,21.0,East,Bangalore,India,,Credit Card,53.0,Male
+2022-10-29,Printer,54010.0,34.0,West,Bangalore,Canada,10.0,Credit Card,23.0,Female
+2022-06-27,Headphones,34778.0,32.0,South,Delhi,UK,10.0,Debit Card,27.0,Other
+2022-02-09,Smartwatch,82921.0,44.0,West,Mumbai,UK,15.0,Credit Card,24.0,Other
+2022-03-14,Keyboard,29524.0,,East,Pune,India,15.0,Net Banking,52.0,Female
+2022-07-18,Headphones,42010.0,49.0,,,Canada,0.0,UPI,50.0,Other
+2022-08-26,Camera,,16.0,South,Hyderabad,UK,,Cash,19.0,Other
+2022-09-10,Printer,13310.0,2.0,South,Ahmedabad,India,15.0,Debit Card,48.0,Other
+2022-07-25,Tablet,29731.0,10.0,North,Ahmedabad,USA,15.0,Credit Card,55.0,Other
+2022-10-12,Laptop,60530.0,20.0,West,Bangalore,Canada,20.0,,52.0,
+2022-08-27,Phone,17753.0,39.0,East,Lucknow,USA,10.0,UPI,58.0,Male
+2022-08-03,Printer,91419.0,18.0,West,,UK,0.0,UPI,35.0,Female
+2022-11-06,Printer,18657.0,38.0,North,Hyderabad,France,5.0,Credit Card,49.0,Other
+2022-10-19,Mouse,39232.0,11.0,East,Jaipur,UK,20.0,Cash,19.0,Other
+2022-09-04,Phone,6570.0,13.0,North,Pune,India,0.0,,34.0,Other
+2022-12-13,Smartwatch,14490.0,13.0,West,Kolkata,UK,10.0,Net Banking,33.0,Female
+2022-11-26,Smartwatch,3829.0,8.0,West,Bangalore,India,10.0,Net Banking,21.0,Female
+2022-02-21,Mouse,40963.0,26.0,West,Bangalore,Germany,10.0,UPI,66.0,Male
+2022-12-01,Mouse,40377.0,29.0,West,Chennai,France,20.0,Credit Card,24.0,
+2022-05-25,Smartwatch,96552.0,1.0,North,Ahmedabad,USA,15.0,Net Banking,56.0,Female
+2022-08-16,,49094.0,37.0,North,Mumbai,UK,0.0,Credit Card,57.0,Other
+2022-08-12,Monitor,41347.0,41.0,North,Jaipur,Germany,20.0,Debit Card,25.0,Other
+2022-10-15,Phone,12305.0,14.0,East,Kolkata,,0.0,,49.0,Male
+2022-09-03,Mouse,64992.0,16.0,North,Hyderabad,Canada,10.0,Cash,18.0,Other
+2022-07-12,Monitor,11795.0,17.0,West,Jaipur,UK,,UPI,40.0,Male
+2022-10-01,Camera,33786.0,32.0,West,Kolkata,India,15.0,Credit Card,27.0,Female
+2022-10-20,Printer,10445.0,44.0,West,Bangalore,France,20.0,Net Banking,38.0,Other
+2022-02-15,Phone,253.0,1.0,,Lucknow,Germany,0.0,Cash,39.0,Other
+2022-04-27,Tablet,31651.0,11.0,East,Kolkata,Canada,5.0,Net Banking,39.0,Other
+2022-06-19,Printer,59322.0,24.0,East,Ahmedabad,Canada,,Net Banking,26.0,Female
+2022-06-27,Camera,76308.0,45.0,South,Jaipur,USA,15.0,Cash,28.0,Male
+2022-02-03,Smartwatch,91856.0,30.0,South,Bangalore,India,20.0,Cash,56.0,Female
+2022-04-05,Tablet,36583.0,10.0,West,Pune,Germany,0.0,Cash,44.0,Female
+2022-05-06,Headphones,,12.0,West,Lucknow,Germany,10.0,Credit Card,25.0,Female
+2022-01-14,Printer,27943.0,2.0,South,Jaipur,Germany,5.0,Net Banking,60.0,Other
+2022-03-06,Phone,57824.0,43.0,North,Bangalore,France,20.0,Credit Card,65.0,Male
+2022-05-08,Printer,55126.0,5.0,East,Bangalore,France,10.0,,43.0,Other
+2022-03-13,Camera,38862.0,25.0,East,Kolkata,France,20.0,Cash,20.0,Other
+2022-01-15,Tablet,17487.0,10.0,,Chennai,UK,20.0,Debit Card,58.0,Other
+2022-07-26,Printer,39068.0,26.0,West,Pune,UK,10.0,Net Banking,64.0,Other
+2022-08-24,Phone,10477.0,44.0,West,,USA,15.0,Debit Card,44.0,
+2022-06-22,Mouse,52764.0,2.0,East,Chennai,France,5.0,UPI,29.0,Other
+,Laptop,,7.0,West,Pune,USA,5.0,UPI,27.0,Male
+2022-08-19,Printer,23431.0,,East,Lucknow,Canada,15.0,Debit Card,36.0,Male
+2022-09-18,Keyboard,61404.0,22.0,North,Ahmedabad,Canada,5.0,Credit Card,67.0,Female
+2022-04-30,Monitor,95127.0,16.0,East,Mumbai,USA,20.0,Cash,65.0,Male
+2022-03-06,Mouse,69445.0,,East,Pune,Germany,20.0,Net Banking,24.0,Male
+2022-03-02,Printer,81563.0,15.0,East,Lucknow,,0.0,UPI,58.0,Female
+2022-02-15,,65779.0,20.0,West,Hyderabad,Canada,0.0,UPI,24.0,Female
+2022-08-09,Smartwatch,50351.0,25.0,West,Lucknow,Canada,15.0,UPI,19.0,Male
+2022-04-07,Tablet,4858.0,25.0,North,,UK,10.0,Net Banking,,
+2022-07-11,Headphones,75418.0,20.0,North,Delhi,,10.0,Cash,50.0,Male
+,Keyboard,60382.0,41.0,East,Hyderabad,USA,10.0,Credit Card,31.0,
+2022-03-28,Headphones,44166.0,29.0,North,Jaipur,Germany,,Credit Card,60.0,Other
+2022-08-31,Camera,67698.0,32.0,North,Delhi,USA,20.0,Net Banking,47.0,Male
+2022-05-12,Mouse,24748.0,29.0,West,Chennai,Germany,0.0,Net Banking,45.0,Male
+2022-04-21,Camera,91817.0,8.0,South,Hyderabad,India,0.0,Net Banking,66.0,Male
+2022-01-15,Phone,5683.0,29.0,South,Chennai,USA,10.0,Cash,32.0,Female
+2022-01-01,Tablet,21750.0,16.0,West,Pune,USA,10.0,Net Banking,51.0,Other
+2022-02-03,Phone,80946.0,22.0,West,Hyderabad,France,5.0,Net Banking,53.0,Other
+2022-05-11,Smartwatch,78115.0,36.0,West,Chennai,USA,15.0,Net Banking,30.0,Other
+2022-05-25,Monitor,33140.0,17.0,West,Lucknow,India,20.0,Net Banking,63.0,Other
+2022-11-16,Headphones,77627.0,39.0,West,Jaipur,USA,0.0,Net Banking,35.0,Female
+2022-10-16,Headphones,48014.0,18.0,East,Ahmedabad,UK,15.0,Credit Card,19.0,Female
+2022-06-23,Camera,28512.0,27.0,West,Jaipur,USA,10.0,Credit Card,50.0,Female
+2022-04-10,Mouse,8735.0,1.0,West,Pune,France,20.0,Cash,41.0,Female
+2022-05-28,Laptop,27486.0,11.0,South,Mumbai,India,20.0,Debit Card,54.0,
+2022-12-07,Laptop,3109.0,36.0,North,Bangalore,USA,20.0,UPI,22.0,Other
+2022-01-31,Tablet,3214.0,18.0,South,Bangalore,India,10.0,Credit Card,66.0,Male
+2022-12-21,Headphones,76316.0,44.0,South,Mumbai,Canada,20.0,Credit Card,26.0,Other
+,Keyboard,55601.0,1.0,East,Lucknow,Canada,0.0,Net Banking,48.0,Male
+,Headphones,39761.0,40.0,West,Lucknow,UK,0.0,Credit Card,60.0,Other
+2022-07-07,Monitor,1399.0,27.0,West,Chennai,India,10.0,UPI,,Male
+2022-03-13,Keyboard,,4.0,West,Jaipur,France,10.0,UPI,55.0,Male
+2022-12-18,Mouse,32527.0,33.0,South,Mumbai,UK,0.0,UPI,34.0,Female
+2022-06-08,Headphones,96970.0,19.0,North,,Germany,20.0,Cash,49.0,Female
+2022-03-17,Headphones,10870.0,7.0,East,Ahmedabad,Canada,10.0,Net Banking,,Male
+2022-10-01,Tablet,24100.0,45.0,South,Ahmedabad,France,10.0,Debit Card,29.0,Other
+2022-03-01,Keyboard,32463.0,9.0,West,Pune,France,,Debit Card,28.0,Male
+2022-01-16,Camera,77339.0,40.0,,Lucknow,France,0.0,UPI,56.0,
+2022-07-08,Monitor,39090.0,18.0,West,Delhi,,15.0,Cash,26.0,Female
+2022-08-05,Keyboard,28935.0,36.0,West,Lucknow,France,15.0,UPI,69.0,Female
+2022-05-09,Keyboard,51387.0,26.0,South,,India,5.0,Debit Card,66.0,Male
+2022-12-26,Laptop,35997.0,31.0,West,Jaipur,UK,5.0,Debit Card,19.0,Other
+2022-05-08,,84618.0,14.0,North,Chennai,Germany,10.0,Net Banking,,Other
+2022-12-26,Keyboard,14230.0,36.0,North,Lucknow,France,0.0,Cash,29.0,Male
+2022-08-15,Printer,82363.0,31.0,,Lucknow,Germany,20.0,Debit Card,46.0,Female
+2022-03-16,Smartwatch,75342.0,24.0,North,Lucknow,Germany,20.0,Net Banking,21.0,Male
+2022-05-10,Keyboard,87575.0,28.0,North,Bangalore,USA,5.0,Net Banking,22.0,Female
+2022-06-18,Camera,25379.0,10.0,South,Kolkata,USA,5.0,Debit Card,25.0,Male
+2022-08-01,Camera,34317.0,19.0,North,Lucknow,Canada,0.0,Debit Card,59.0,
+2022-01-02,Printer,96970.0,9.0,West,Bangalore,USA,5.0,Debit Card,67.0,Male
+2022-10-13,Monitor,21142.0,48.0,East,Ahmedabad,Germany,0.0,Credit Card,60.0,Female
+2022-09-29,Laptop,65284.0,21.0,West,Delhi,USA,20.0,Net Banking,67.0,Male
+2022-08-12,Monitor,36505.0,33.0,West,Pune,UK,0.0,UPI,67.0,Other
+2022-09-16,Camera,,15.0,East,Pune,USA,20.0,UPI,54.0,Female
+2022-08-05,,73680.0,15.0,,,France,20.0,Cash,26.0,Male
+2022-12-06,Laptop,39505.0,43.0,South,Delhi,Germany,5.0,UPI,19.0,Other
+2022-01-12,Laptop,90469.0,3.0,South,,UK,20.0,Net Banking,28.0,Other
+2022-09-22,Tablet,34882.0,49.0,South,Lucknow,India,15.0,Credit Card,23.0,
+2022-05-29,Monitor,73943.0,35.0,North,Bangalore,Germany,20.0,Net Banking,64.0,Other
+2022-06-30,Mouse,85811.0,47.0,North,Kolkata,France,0.0,Debit Card,58.0,Other
+2022-05-18,Laptop,42050.0,14.0,West,Bangalore,UK,0.0,Net Banking,45.0,Female
+2022-02-18,Mouse,7447.0,38.0,West,Ahmedabad,Canada,20.0,Net Banking,,Male
+2022-03-19,Printer,55471.0,27.0,East,Delhi,Canada,0.0,Net Banking,51.0,Male
+2022-09-01,Laptop,81541.0,8.0,South,Bangalore,France,10.0,Credit Card,30.0,Female
+,Laptop,51688.0,39.0,South,Jaipur,India,10.0,Cash,27.0,Other
+2022-12-10,Keyboard,13615.0,14.0,North,Bangalore,Germany,15.0,Cash,47.0,Other
+2022-09-14,Laptop,67784.0,6.0,West,Bangalore,India,20.0,Credit Card,,Male
+2022-09-18,Smartwatch,82833.0,18.0,South,Kolkata,Germany,5.0,Debit Card,60.0,Female
+2022-03-01,Headphones,,,North,Bangalore,Canada,,Cash,,Male
+2022-10-09,Keyboard,7897.0,45.0,South,Hyderabad,India,10.0,Credit Card,55.0,Male
+2022-08-27,Monitor,,31.0,East,Lucknow,Germany,10.0,UPI,43.0,Female
+2022-05-09,Camera,49323.0,4.0,West,Pune,UK,10.0,Credit Card,57.0,Other
+2022-06-06,Smartwatch,,14.0,North,Mumbai,India,0.0,Debit Card,56.0,Other
+2022-05-26,Monitor,80830.0,11.0,South,,India,10.0,UPI,43.0,Other
+2022-02-13,Printer,39554.0,39.0,North,Ahmedabad,Canada,15.0,Credit Card,50.0,
+2022-03-31,Headphones,27336.0,20.0,North,Bangalore,France,20.0,Cash,33.0,Female
+2022-06-26,Monitor,8087.0,46.0,North,Chennai,India,10.0,UPI,63.0,Other
+2022-12-05,Laptop,25316.0,,North,Hyderabad,UK,10.0,Credit Card,42.0,Male
+2022-03-25,Smartwatch,19485.0,,South,Delhi,France,15.0,UPI,59.0,Male
+2022-09-21,Camera,33066.0,42.0,South,Lucknow,UK,5.0,Credit Card,65.0,Female
+2022-11-11,Monitor,58101.0,18.0,West,,Germany,15.0,Debit Card,40.0,Other
+2022-06-21,Headphones,4652.0,45.0,,Delhi,France,0.0,UPI,45.0,Female
+2022-09-26,Tablet,38206.0,11.0,South,Pune,UK,0.0,Net Banking,49.0,Other
+2022-01-13,Phone,67667.0,32.0,South,Jaipur,France,20.0,,51.0,Male
+2022-11-17,Camera,62885.0,17.0,West,Lucknow,Canada,15.0,Cash,,Other
+2022-01-20,Smartwatch,24603.0,39.0,South,,Germany,10.0,UPI,65.0,Other
+2022-08-05,Monitor,62771.0,35.0,South,Kolkata,India,10.0,Cash,44.0,Male
+2022-05-16,,21441.0,25.0,West,Kolkata,France,20.0,,55.0,Other
+2022-11-12,Monitor,76511.0,,East,,UK,0.0,UPI,47.0,Other
+2022-02-23,Laptop,98681.0,1.0,North,Lucknow,Germany,20.0,Net Banking,64.0,Female
+2022-07-26,Tablet,98825.0,24.0,West,Ahmedabad,France,0.0,Net Banking,23.0,Male
+2022-04-22,Printer,51515.0,47.0,,Delhi,India,10.0,Cash,58.0,
+2022-04-17,Phone,65885.0,39.0,East,Chennai,Germany,15.0,Credit Card,21.0,Other
+2022-01-13,Mouse,68412.0,49.0,North,Chennai,USA,5.0,UPI,22.0,Other
+2022-04-11,Monitor,97728.0,31.0,East,Hyderabad,UK,5.0,Debit Card,58.0,Female
+2022-04-09,Headphones,3820.0,16.0,South,Hyderabad,UK,20.0,Debit Card,52.0,Other
+2022-10-31,Headphones,60510.0,44.0,East,Bangalore,USA,0.0,,51.0,Male
+2022-07-06,Smartwatch,9715.0,42.0,East,Lucknow,USA,0.0,Net Banking,44.0,Other
+2022-09-26,Smartwatch,9565.0,7.0,West,Mumbai,India,20.0,,23.0,Other
+2022-11-03,Phone,85142.0,46.0,East,Chennai,India,5.0,Credit Card,52.0,Male
+2022-10-21,Printer,83960.0,22.0,East,Lucknow,Canada,20.0,Cash,50.0,Other
+2022-12-10,Phone,58086.0,22.0,North,Lucknow,USA,15.0,Debit Card,44.0,Male
+,Tablet,35415.0,,West,Chennai,France,0.0,Net Banking,37.0,Male
+2022-01-05,Laptop,7937.0,45.0,East,Chennai,,10.0,Debit Card,32.0,Other
+2022-04-28,Camera,85316.0,42.0,South,Delhi,France,15.0,Cash,68.0,Male
+2022-11-22,Phone,42871.0,,East,Ahmedabad,France,15.0,UPI,44.0,Female
+2022-11-12,Laptop,42531.0,42.0,West,Kolkata,India,20.0,Debit Card,32.0,Female
+2022-05-06,Laptop,57708.0,41.0,North,Chennai,India,20.0,Cash,59.0,Other
+2022-02-24,Printer,71090.0,48.0,West,Pune,UK,20.0,Credit Card,51.0,Male
+2022-08-12,Smartwatch,5369.0,46.0,North,Ahmedabad,Canada,0.0,Debit Card,39.0,Female
+2022-06-25,Mouse,79607.0,43.0,South,,France,,Cash,68.0,Male
+2022-10-16,Monitor,34080.0,14.0,West,Jaipur,Canada,0.0,Credit Card,44.0,Other
+2022-07-14,Tablet,39233.0,,West,Ahmedabad,UK,10.0,Debit Card,32.0,Female
+2022-09-28,Laptop,15796.0,13.0,South,Chennai,India,,UPI,68.0,Female
+2022-09-21,Mouse,84623.0,42.0,West,Jaipur,USA,,Net Banking,28.0,Other
+2022-05-27,Tablet,78940.0,28.0,West,Ahmedabad,UK,5.0,Credit Card,18.0,Other
+2022-02-04,Keyboard,69422.0,49.0,South,Mumbai,Germany,10.0,Net Banking,33.0,Other
+2022-06-19,Laptop,70569.0,28.0,,Mumbai,Germany,15.0,Debit Card,54.0,Other
+2022-05-31,Tablet,79367.0,43.0,West,Bangalore,India,20.0,UPI,30.0,Other
+2022-09-12,Laptop,40131.0,42.0,North,Lucknow,USA,15.0,Cash,39.0,Other
+2022-07-11,Smartwatch,68409.0,1.0,North,Lucknow,Canada,20.0,Credit Card,57.0,Male
+2022-08-23,Camera,13766.0,44.0,East,Bangalore,USA,10.0,Debit Card,49.0,Male
+2022-05-15,Headphones,77096.0,39.0,East,Mumbai,France,5.0,UPI,51.0,Male
+2022-02-09,Laptop,64273.0,28.0,East,Hyderabad,India,20.0,,56.0,Other
+2022-09-23,Monitor,,,,Mumbai,France,10.0,,67.0,Male
+2022-11-14,Camera,43980.0,7.0,South,Kolkata,UK,5.0,Credit Card,35.0,Other
+2022-09-19,Smartwatch,53082.0,17.0,East,Mumbai,UK,10.0,Credit Card,60.0,Male
+2022-05-03,Tablet,21309.0,35.0,South,Pune,USA,15.0,Cash,,Male
+2022-05-02,Keyboard,43490.0,3.0,South,Jaipur,USA,5.0,Cash,51.0,Male
+2022-05-23,Keyboard,99941.0,24.0,East,Lucknow,France,10.0,Credit Card,24.0,
+2022-01-14,Laptop,55292.0,4.0,South,Ahmedabad,UK,,,42.0,Male
+2022-04-16,Keyboard,72672.0,14.0,,Bangalore,France,5.0,Net Banking,60.0,Other
+2022-05-27,Monitor,,18.0,West,Bangalore,USA,20.0,UPI,62.0,Male
+2022-04-12,Camera,10928.0,34.0,East,Kolkata,France,5.0,Net Banking,27.0,Female
+2022-12-08,Monitor,73390.0,39.0,North,Kolkata,Canada,15.0,Debit Card,39.0,Female
+2022-04-09,Tablet,24091.0,25.0,East,Kolkata,Germany,15.0,Net Banking,48.0,Female
+2022-06-22,Keyboard,69553.0,18.0,North,Bangalore,USA,5.0,Net Banking,29.0,Female
+2022-04-10,Monitor,19277.0,46.0,North,Hyderabad,India,10.0,Credit Card,,Other
+2022-02-05,Smartwatch,38052.0,31.0,East,Delhi,France,0.0,Net Banking,27.0,Female
+,Phone,78370.0,45.0,East,Bangalore,India,0.0,Cash,,
+2022-11-20,Laptop,26126.0,49.0,South,Delhi,USA,20.0,Cash,48.0,Other
+,Laptop,,2.0,West,Hyderabad,Canada,5.0,UPI,19.0,
+2022-02-18,Keyboard,31522.0,7.0,West,Kolkata,Germany,0.0,Cash,32.0,Male
+2022-08-21,Camera,71217.0,,East,Lucknow,USA,20.0,Net Banking,48.0,Other
+2022-06-12,Camera,5643.0,44.0,East,Hyderabad,Germany,5.0,Debit Card,,Other
+2022-09-08,Monitor,19882.0,37.0,East,Hyderabad,USA,20.0,Credit Card,27.0,Male
+2022-06-12,Mouse,2562.0,6.0,East,Lucknow,UK,10.0,Cash,57.0,Female
+2022-06-25,Keyboard,47901.0,23.0,,Ahmedabad,,0.0,Debit Card,57.0,Other
+2022-11-13,Headphones,25839.0,30.0,East,Chennai,USA,,,65.0,Female
+,Monitor,61178.0,40.0,North,Kolkata,UK,20.0,,30.0,Other
+2022-01-24,Keyboard,13116.0,37.0,West,Delhi,India,20.0,Net Banking,50.0,Male
+2022-01-25,Tablet,92761.0,,South,,USA,,UPI,49.0,Other
+2022-08-14,Keyboard,32543.0,2.0,East,Lucknow,USA,0.0,Debit Card,26.0,Female
+2022-07-21,Headphones,,28.0,North,Jaipur,Canada,10.0,Cash,55.0,Other
+2022-07-03,Keyboard,98262.0,11.0,East,Lucknow,Germany,,Debit Card,67.0,Female
+2022-11-30,Headphones,87605.0,43.0,North,Bangalore,Canada,5.0,Net Banking,,Other
+2022-07-17,Printer,68307.0,27.0,South,Lucknow,UK,0.0,Net Banking,40.0,Female
+2022-06-19,Mouse,86697.0,3.0,East,Delhi,Canada,20.0,Cash,59.0,Male
+2022-07-15,Laptop,73002.0,35.0,East,Pune,France,0.0,Net Banking,66.0,Female
+2022-09-20,Smartwatch,72878.0,6.0,North,Delhi,France,0.0,UPI,42.0,Other
+2022-02-11,Camera,42165.0,49.0,East,,Canada,0.0,Net Banking,44.0,Female
+2022-03-02,Monitor,77833.0,46.0,,Mumbai,France,0.0,Cash,,Other
+2022-03-03,Laptop,17146.0,14.0,North,Jaipur,USA,20.0,Cash,21.0,Male
+2022-08-21,Keyboard,94802.0,38.0,North,,India,15.0,Cash,69.0,Male
+2022-08-11,Tablet,14408.0,22.0,West,Pune,UK,0.0,Cash,53.0,Female
+2022-01-25,Mouse,90556.0,49.0,South,Chennai,Germany,15.0,Net Banking,67.0,Male
+2022-07-25,Monitor,38467.0,14.0,East,Hyderabad,Germany,0.0,Credit Card,44.0,Other
+2022-06-26,Headphones,76536.0,15.0,East,Lucknow,UK,15.0,Cash,32.0,Female
+2022-05-26,Phone,86233.0,23.0,East,Jaipur,Germany,,Cash,44.0,Other
+2022-01-03,Camera,11718.0,18.0,South,Ahmedabad,France,,Debit Card,18.0,Female
+2022-08-24,Phone,78618.0,41.0,North,Ahmedabad,Germany,15.0,,60.0,Other
+2022-08-02,Mouse,69621.0,43.0,North,Hyderabad,Germany,0.0,Credit Card,38.0,Male
+2022-02-18,Camera,82642.0,37.0,North,Kolkata,UK,10.0,Net Banking,34.0,Male
+2022-03-07,Laptop,99401.0,13.0,North,Kolkata,UK,5.0,UPI,46.0,Male
+2022-05-09,Smartwatch,80222.0,31.0,North,Pune,Canada,20.0,Credit Card,38.0,Male
+2022-01-01,Tablet,855.0,9.0,South,Chennai,India,10.0,Cash,24.0,Female
+2022-09-20,Phone,50358.0,36.0,North,,Canada,10.0,Credit Card,63.0,Male
+2022-05-05,Camera,71216.0,16.0,West,Chennai,Canada,5.0,UPI,31.0,Other
+2022-05-12,Laptop,4142.0,2.0,South,Ahmedabad,,5.0,Net Banking,20.0,Male
+2022-10-31,Laptop,66353.0,2.0,West,Lucknow,Canada,20.0,UPI,58.0,Female
+2022-02-06,Phone,22984.0,12.0,South,Ahmedabad,Canada,5.0,Credit Card,38.0,Other
+2022-01-01,Keyboard,47000.0,9.0,West,Bangalore,France,10.0,Credit Card,19.0,
+,Printer,17894.0,42.0,North,Delhi,Germany,15.0,Credit Card,61.0,Male
+2022-05-13,Printer,14606.0,,North,Pune,Canada,0.0,Debit Card,54.0,Female
+2022-10-16,Keyboard,,10.0,North,Kolkata,USA,10.0,Credit Card,21.0,
+2022-08-25,Tablet,3303.0,26.0,East,Pune,,0.0,Credit Card,34.0,Other
+2022-11-25,Tablet,30366.0,6.0,South,Jaipur,USA,0.0,Credit Card,48.0,Other
+2022-01-14,,64441.0,47.0,East,Delhi,Canada,15.0,UPI,59.0,Male
+2022-01-09,Camera,49837.0,29.0,East,Jaipur,UK,20.0,UPI,23.0,Other
+2022-08-03,Mouse,62108.0,14.0,South,Ahmedabad,India,10.0,Net Banking,60.0,Male
+2022-06-21,Keyboard,21129.0,6.0,South,Delhi,India,5.0,Credit Card,35.0,Male
+2022-07-07,Tablet,49341.0,29.0,East,Kolkata,Canada,0.0,Credit Card,59.0,Female
+2022-05-24,Headphones,84384.0,3.0,South,Kolkata,Germany,5.0,Net Banking,38.0,Other
+2022-07-14,Mouse,23165.0,20.0,South,Ahmedabad,Germany,15.0,Debit Card,62.0,Male
+2022-08-14,,,36.0,North,Bangalore,USA,20.0,Debit Card,40.0,Other
+2022-09-27,Printer,10848.0,33.0,North,Jaipur,France,20.0,Credit Card,67.0,Male
+2022-09-08,Phone,42932.0,25.0,East,Mumbai,Germany,0.0,Net Banking,25.0,Female
+2022-12-25,Keyboard,53922.0,45.0,South,Hyderabad,India,10.0,Cash,21.0,Male
+2022-11-14,Mouse,93005.0,11.0,South,Kolkata,USA,15.0,Credit Card,23.0,
+2022-03-05,Laptop,23700.0,2.0,East,Ahmedabad,France,5.0,Debit Card,66.0,Other
+2022-12-11,Mouse,84435.0,38.0,West,Bangalore,Germany,15.0,Cash,29.0,Other
+2022-12-24,Phone,46646.0,24.0,East,Delhi,India,20.0,UPI,56.0,Male
+2022-11-12,Phone,42237.0,20.0,East,Hyderabad,Germany,0.0,,37.0,Male
+2022-01-28,Smartwatch,58195.0,11.0,South,Kolkata,Germany,0.0,Cash,42.0,Other
+2022-03-27,Keyboard,41877.0,33.0,South,Ahmedabad,Canada,15.0,Debit Card,53.0,Other
+2022-10-28,Phone,56648.0,36.0,North,Jaipur,India,5.0,,49.0,Female
+2022-10-29,Smartwatch,46115.0,7.0,East,Mumbai,,0.0,Debit Card,51.0,Male
+2022-01-20,Camera,87129.0,46.0,West,Hyderabad,Germany,5.0,Cash,27.0,Other
+2022-03-27,Printer,25018.0,47.0,West,Ahmedabad,India,15.0,Credit Card,61.0,Female
+2022-12-26,Camera,35540.0,23.0,North,Chennai,USA,15.0,Net Banking,53.0,Female
+2022-06-03,Camera,24399.0,21.0,East,Jaipur,USA,5.0,Net Banking,65.0,Male
+2022-05-01,Tablet,42392.0,30.0,East,Mumbai,USA,5.0,UPI,36.0,Female
+2022-07-22,Mouse,32252.0,49.0,South,Lucknow,Germany,10.0,UPI,,Male
+2022-05-25,Camera,63852.0,25.0,North,Kolkata,India,15.0,Cash,53.0,Male
+2022-09-24,Keyboard,54733.0,40.0,South,Bangalore,India,20.0,Debit Card,26.0,Female
+,Smartwatch,92172.0,2.0,North,Bangalore,Canada,20.0,UPI,25.0,Female
+2022-07-01,Keyboard,47094.0,,South,Hyderabad,Germany,0.0,Cash,58.0,Male
+2022-10-30,Camera,51237.0,11.0,West,Ahmedabad,Germany,0.0,Credit Card,19.0,Other
+2022-12-11,Smartwatch,9097.0,,East,Delhi,USA,5.0,UPI,,Male
+2022-10-18,,48075.0,18.0,West,Ahmedabad,UK,15.0,Cash,35.0,Other
+2022-03-17,Tablet,61258.0,18.0,North,Chennai,Canada,5.0,Debit Card,39.0,
+2022-06-22,Phone,16528.0,41.0,North,Chennai,Canada,,Debit Card,55.0,Female
+2022-04-11,Phone,26653.0,1.0,West,Jaipur,USA,20.0,Debit Card,54.0,Male
+2022-11-02,Phone,35833.0,5.0,East,Ahmedabad,UK,5.0,Credit Card,49.0,Female
+2022-03-22,,32869.0,34.0,East,Mumbai,Germany,5.0,Debit Card,60.0,Other
+2022-09-10,Tablet,48949.0,49.0,East,Lucknow,UK,5.0,Debit Card,27.0,Female
+2022-05-10,Monitor,52327.0,28.0,East,Bangalore,India,5.0,Net Banking,43.0,Other
+2022-06-24,Printer,40970.0,21.0,North,Pune,Germany,10.0,Net Banking,22.0,Female
+2022-04-26,Printer,,38.0,East,Chennai,India,10.0,Cash,63.0,Other
+2022-01-08,Keyboard,37365.0,37.0,South,Jaipur,France,5.0,Debit Card,34.0,Female
+2022-01-12,Mouse,76482.0,1.0,West,Delhi,India,0.0,Cash,60.0,Male
+2022-02-16,Headphones,67187.0,13.0,West,Chennai,UK,5.0,Cash,41.0,Other
+2022-11-04,Tablet,60286.0,5.0,,,France,0.0,Net Banking,23.0,Other
+2022-04-23,Monitor,98400.0,35.0,West,Lucknow,Canada,20.0,Credit Card,,Other
+2022-08-30,Tablet,7593.0,25.0,North,Hyderabad,USA,15.0,,27.0,Male
+2022-09-09,,45975.0,,South,Kolkata,France,0.0,Net Banking,30.0,Other
+2022-08-27,Laptop,12057.0,,East,Jaipur,India,20.0,Credit Card,31.0,Other
+2022-05-22,Phone,,32.0,West,Hyderabad,Germany,20.0,Credit Card,20.0,Female
+2022-11-09,Mouse,6180.0,26.0,West,Delhi,USA,10.0,Net Banking,65.0,Female
+2022-11-24,Laptop,4111.0,39.0,North,Chennai,USA,20.0,UPI,64.0,Other
+2022-03-28,Headphones,,1.0,East,Delhi,France,0.0,Debit Card,46.0,Male
+2022-06-16,Keyboard,68547.0,19.0,North,Chennai,Germany,20.0,Cash,42.0,Other
+2022-01-01,Laptop,15834.0,29.0,West,Delhi,Canada,20.0,Net Banking,40.0,Female
+2022-12-24,Camera,16792.0,2.0,South,Pune,India,10.0,Cash,32.0,
+2022-08-19,Tablet,29240.0,1.0,South,Hyderabad,UK,15.0,Debit Card,52.0,Female
+2022-01-06,Smartwatch,28302.0,8.0,North,Kolkata,India,10.0,UPI,39.0,Other
+2022-08-14,Phone,25594.0,34.0,East,Mumbai,Germany,5.0,Cash,52.0,Male
+2022-08-10,Camera,57573.0,11.0,North,Pune,Germany,10.0,Net Banking,46.0,Male
+2022-01-17,Smartwatch,12305.0,38.0,South,Chennai,India,0.0,Cash,50.0,Other
+2022-11-29,Phone,31051.0,23.0,West,,Germany,10.0,Net Banking,60.0,Male
+2022-03-21,Printer,19890.0,2.0,East,Hyderabad,Germany,,Credit Card,22.0,Male
+2022-12-10,Phone,78584.0,24.0,East,Delhi,Germany,20.0,Net Banking,35.0,Male
+2022-10-27,Printer,37296.0,32.0,East,Lucknow,Canada,0.0,Cash,56.0,Other
+2022-04-09,Laptop,38824.0,,North,Delhi,Germany,15.0,UPI,38.0,Female
+2022-12-10,Camera,42322.0,13.0,West,Ahmedabad,Germany,20.0,Debit Card,47.0,Male
+2022-04-02,Printer,39355.0,28.0,North,Hyderabad,France,0.0,Debit Card,68.0,Male
+2022-09-19,Phone,55930.0,35.0,West,Mumbai,Canada,15.0,Debit Card,49.0,Male
+2022-06-09,Smartwatch,97237.0,38.0,North,Kolkata,Germany,0.0,Credit Card,59.0,
+2022-10-21,Tablet,79335.0,47.0,West,Jaipur,Canada,5.0,Debit Card,68.0,Male
+,Monitor,55070.0,40.0,North,Lucknow,Canada,20.0,Cash,,Other
+2022-07-01,,50833.0,2.0,West,Lucknow,USA,15.0,Credit Card,26.0,Other
+2022-06-10,Camera,30834.0,29.0,East,Jaipur,France,0.0,,69.0,Male
+2022-03-27,Camera,4682.0,24.0,West,Mumbai,Canada,5.0,Credit Card,,Male
+2022-11-04,Phone,9021.0,4.0,North,Pune,Germany,0.0,UPI,54.0,Other
+2022-07-17,Phone,42381.0,46.0,South,Kolkata,Canada,20.0,Cash,26.0,Male
+2022-12-03,Headphones,73970.0,30.0,East,Jaipur,,15.0,Credit Card,43.0,Female
+2022-04-16,Printer,,7.0,East,Ahmedabad,USA,0.0,Credit Card,26.0,
+2022-04-20,Keyboard,65856.0,44.0,North,Lucknow,India,,Cash,68.0,Male
+2022-06-15,Laptop,,36.0,East,Jaipur,Canada,0.0,Net Banking,49.0,Male
+2022-01-26,Laptop,30163.0,26.0,North,Hyderabad,France,0.0,Debit Card,69.0,Female
+2022-11-12,Camera,41843.0,7.0,South,Bangalore,India,10.0,UPI,68.0,Other
+2022-10-22,Smartwatch,30580.0,24.0,East,Hyderabad,India,20.0,Net Banking,37.0,Male
+2022-05-26,Headphones,83888.0,47.0,North,Ahmedabad,Canada,10.0,Debit Card,39.0,
+2022-12-29,Keyboard,84201.0,37.0,North,,Germany,10.0,Credit Card,52.0,Other
+2022-07-18,Mouse,75248.0,48.0,West,Lucknow,India,5.0,Credit Card,38.0,Female
+2022-09-21,Tablet,96299.0,22.0,East,Bangalore,USA,10.0,,61.0,Male
+2022-04-09,Headphones,20911.0,17.0,South,Ahmedabad,UK,20.0,UPI,28.0,Other
+2022-02-21,Camera,72784.0,11.0,North,Jaipur,France,0.0,Net Banking,69.0,Male
+2022-07-20,Monitor,,33.0,East,Mumbai,France,0.0,Net Banking,46.0,Female
+2022-11-22,Camera,,9.0,East,Pune,France,10.0,Net Banking,,Female
+2022-11-07,Keyboard,70710.0,25.0,North,Chennai,France,20.0,Cash,,Female
+2022-11-21,Phone,2667.0,,South,,UK,15.0,UPI,30.0,Female
+2022-08-01,Laptop,,19.0,West,Ahmedabad,Germany,20.0,Debit Card,36.0,
+2022-06-27,Smartwatch,59405.0,46.0,North,Hyderabad,UK,20.0,Credit Card,,Other
+2022-02-07,Tablet,30441.0,27.0,North,Jaipur,Canada,10.0,Credit Card,28.0,Female
+2022-03-19,Mouse,44230.0,14.0,North,Ahmedabad,UK,5.0,Net Banking,65.0,Male
+2022-02-11,Tablet,71360.0,12.0,West,Bangalore,France,0.0,UPI,49.0,Other
+2022-09-23,Printer,24602.0,13.0,East,Bangalore,Germany,10.0,Debit Card,67.0,
+2022-07-04,Keyboard,46350.0,37.0,East,Mumbai,Germany,15.0,Net Banking,63.0,Female
+2022-10-18,Monitor,,17.0,North,Ahmedabad,Germany,10.0,Net Banking,37.0,Male
+2022-07-25,Laptop,35498.0,43.0,West,Pune,India,20.0,,69.0,Female
+2022-05-06,Printer,94066.0,5.0,East,Ahmedabad,UK,0.0,Debit Card,55.0,Male
+2022-09-27,Keyboard,72634.0,46.0,South,Pune,Germany,10.0,Debit Card,43.0,Male
+2022-10-07,Mouse,21538.0,38.0,South,Ahmedabad,Canada,5.0,Net Banking,69.0,Female
+2022-02-09,Tablet,,16.0,West,Kolkata,Canada,20.0,UPI,50.0,Other
+2022-06-12,,964.0,8.0,North,Delhi,Canada,5.0,Cash,34.0,Other
+2022-01-22,Phone,46141.0,39.0,South,Pune,Germany,20.0,Net Banking,36.0,Female
+2022-10-20,Printer,90645.0,13.0,East,Bangalore,USA,5.0,Debit Card,51.0,Female
+2022-03-30,Printer,14111.0,34.0,West,,India,,Debit Card,68.0,Male
+2022-10-13,,80265.0,9.0,North,Delhi,,10.0,Credit Card,,Male
+2022-04-30,Camera,98164.0,36.0,South,Bangalore,UK,5.0,,61.0,Male
+2022-12-23,Keyboard,6564.0,,East,Delhi,UK,5.0,Net Banking,55.0,Male
+2022-10-22,Smartwatch,30580.0,24.0,East,Hyderabad,India,20.0,Net Banking,37.0,Male
+2022-03-01,Laptop,46435.0,35.0,West,Ahmedabad,India,0.0,Cash,25.0,Other
+2022-04-23,Phone,18790.0,35.0,,Kolkata,France,0.0,Net Banking,65.0,Female
+2022-01-04,,32866.0,8.0,,Jaipur,Canada,15.0,Cash,68.0,Male
+2022-10-04,Phone,46027.0,7.0,West,Jaipur,UK,5.0,Net Banking,18.0,Male
+2022-09-19,Smartwatch,595.0,39.0,South,,Germany,0.0,Net Banking,43.0,
+,Tablet,,34.0,,Ahmedabad,France,20.0,Credit Card,42.0,Male
+2022-08-31,,68216.0,37.0,West,Hyderabad,UK,0.0,Net Banking,46.0,Male
+2022-12-27,Printer,77309.0,21.0,North,Ahmedabad,India,20.0,UPI,68.0,Male
+2022-10-26,Headphones,2259.0,29.0,South,Lucknow,UK,15.0,Net Banking,62.0,Other
+2022-07-31,Mouse,35992.0,13.0,East,Mumbai,UK,0.0,Credit Card,45.0,Female
+2022-11-14,Laptop,,10.0,West,Chennai,Canada,5.0,Cash,35.0,Other
+2022-01-08,Monitor,73473.0,49.0,East,Hyderabad,USA,20.0,Cash,59.0,Female
+2022-09-25,Keyboard,40417.0,48.0,,Bangalore,UK,15.0,Debit Card,32.0,Male
+,Monitor,18724.0,18.0,East,Kolkata,India,5.0,Credit Card,32.0,Other
+2022-02-04,Headphones,5468.0,12.0,North,Kolkata,Canada,5.0,Debit Card,40.0,Female
+2022-10-16,Keyboard,97328.0,20.0,West,Ahmedabad,Germany,0.0,Cash,52.0,Female
+,Laptop,69618.0,48.0,North,Ahmedabad,Canada,0.0,Cash,26.0,Male
+,Headphones,90810.0,21.0,East,Ahmedabad,India,20.0,UPI,68.0,Female
+2022-05-14,Printer,19981.0,13.0,South,Chennai,France,20.0,Net Banking,29.0,Other
+2022-05-02,Mouse,31608.0,,West,Hyderabad,Canada,20.0,UPI,25.0,
+2022-02-11,Laptop,63823.0,17.0,South,Mumbai,India,20.0,Credit Card,51.0,Other
+2022-11-30,Monitor,39663.0,20.0,North,Bangalore,UK,,Credit Card,27.0,Male
+2022-12-25,Camera,16676.0,28.0,South,Mumbai,India,5.0,Cash,49.0,Other
+2022-12-21,Keyboard,4069.0,29.0,South,Chennai,India,15.0,Debit Card,51.0,Other
+2022-11-23,Phone,61702.0,25.0,South,Kolkata,Germany,10.0,Debit Card,46.0,Other
+2022-03-07,Phone,13849.0,24.0,South,Jaipur,USA,20.0,Net Banking,51.0,Other
+2022-07-25,Tablet,46925.0,36.0,South,Jaipur,USA,20.0,Debit Card,37.0,Female
+2022-01-21,Tablet,,24.0,West,Mumbai,,10.0,Credit Card,36.0,Male
+2022-01-25,Smartwatch,92859.0,2.0,South,Kolkata,France,20.0,Credit Card,56.0,Other
+2022-11-25,Headphones,48764.0,34.0,East,Bangalore,USA,10.0,Cash,60.0,Other
+2022-12-06,Laptop,67072.0,24.0,South,Jaipur,Canada,0.0,Cash,39.0,Male
+2022-07-10,Laptop,65106.0,4.0,North,Pune,USA,10.0,Net Banking,63.0,Female
+,Phone,12084.0,35.0,East,Bangalore,India,0.0,Net Banking,38.0,Other
+2022-12-12,Headphones,27142.0,33.0,West,Jaipur,UK,5.0,Cash,18.0,Male
+2022-12-07,Mouse,53049.0,43.0,East,Ahmedabad,UK,20.0,Debit Card,38.0,Female
+2022-03-19,Smartwatch,89485.0,7.0,,Hyderabad,UK,15.0,Cash,28.0,Other
+2022-02-16,Tablet,8446.0,40.0,North,Lucknow,USA,20.0,Debit Card,63.0,Male
+2022-07-29,Monitor,14275.0,34.0,East,Lucknow,USA,0.0,Debit Card,36.0,Female
+2022-04-18,Printer,23934.0,45.0,West,Ahmedabad,USA,0.0,Debit Card,58.0,Other
+2022-01-15,Printer,79029.0,29.0,East,,Germany,10.0,Cash,57.0,
+2022-06-28,Camera,,32.0,South,Ahmedabad,Germany,0.0,Cash,,Male
+2022-06-28,Mouse,51718.0,16.0,West,,USA,20.0,Debit Card,43.0,Male
+2022-11-15,Monitor,38851.0,16.0,East,Mumbai,Germany,10.0,Cash,52.0,Male
+2022-04-23,Printer,19194.0,18.0,East,Delhi,UK,20.0,UPI,59.0,Female
+2022-12-22,Laptop,44487.0,24.0,West,Jaipur,Canada,10.0,Debit Card,67.0,Male
+2022-11-12,Phone,77229.0,28.0,East,Pune,Canada,10.0,Credit Card,55.0,Other
+2022-02-27,Printer,86105.0,42.0,West,Mumbai,India,10.0,UPI,30.0,Female
+2022-09-15,Camera,3274.0,48.0,West,Mumbai,India,0.0,Net Banking,63.0,Female
+2022-06-10,Mouse,74907.0,31.0,South,Chennai,Canada,0.0,UPI,52.0,Other
+2022-05-22,Tablet,18710.0,20.0,West,Hyderabad,UK,15.0,Cash,27.0,Other
+2022-03-23,Tablet,70211.0,12.0,East,Jaipur,UK,10.0,Cash,56.0,Male
+2022-02-20,Monitor,25106.0,13.0,North,Jaipur,UK,0.0,Cash,55.0,Other
+2022-02-08,Keyboard,33477.0,25.0,South,Bangalore,India,15.0,Cash,,Other
+2022-03-14,Headphones,91388.0,19.0,South,Chennai,Germany,20.0,UPI,63.0,Other
+2022-09-28,Monitor,20798.0,34.0,South,Bangalore,UK,10.0,Credit Card,,Male
+2022-07-27,Printer,8517.0,12.0,South,Hyderabad,Canada,,Cash,29.0,Other
+2022-07-08,Keyboard,56013.0,42.0,West,Delhi,UK,15.0,,53.0,Female
+2022-04-21,,5137.0,31.0,East,Chennai,Canada,5.0,Debit Card,67.0,Other
+2022-06-25,Keyboard,45312.0,39.0,North,Kolkata,USA,10.0,Credit Card,51.0,
+2022-08-05,Monitor,90577.0,39.0,North,Bangalore,USA,20.0,Debit Card,25.0,Female
+2022-04-05,Phone,46954.0,37.0,East,,Canada,20.0,Net Banking,37.0,Other
+2022-05-24,Headphones,27205.0,35.0,West,Delhi,India,5.0,Debit Card,18.0,Male
+2022-12-11,Monitor,47399.0,7.0,West,,India,20.0,,22.0,Female
+2022-04-21,Mouse,19727.0,2.0,South,Lucknow,UK,10.0,Debit Card,,Male
+2022-07-22,Phone,3822.0,27.0,South,Pune,Canada,20.0,Cash,34.0,Male
+,Camera,81522.0,45.0,North,Mumbai,UK,15.0,Credit Card,63.0,Female
+2022-03-22,Laptop,82939.0,13.0,East,Lucknow,Canada,10.0,Cash,61.0,Female
+2022-09-27,Phone,86667.0,6.0,East,Jaipur,Germany,5.0,Net Banking,54.0,Female
+2022-12-15,Monitor,79895.0,1.0,East,Hyderabad,France,5.0,Credit Card,64.0,Male
+2022-06-27,Phone,54845.0,36.0,North,Delhi,USA,0.0,UPI,29.0,Other
+2022-07-13,Monitor,93748.0,5.0,West,,Germany,15.0,Credit Card,42.0,Other
+2022-06-05,Keyboard,55834.0,19.0,South,Delhi,India,15.0,Cash,61.0,Male
+2022-03-05,Monitor,22604.0,33.0,,Jaipur,USA,,Credit Card,20.0,Male
+2022-08-11,Tablet,58355.0,16.0,West,Mumbai,UK,20.0,UPI,38.0,Male
+2022-07-02,Printer,64650.0,43.0,East,Lucknow,Canada,5.0,Debit Card,65.0,Male
+2022-02-16,Headphones,,42.0,East,Chennai,Germany,15.0,Net Banking,56.0,Male
+2022-01-01,Keyboard,70454.0,13.0,East,Bangalore,France,10.0,Cash,49.0,Other
+2022-10-31,Mouse,87992.0,,East,Pune,USA,10.0,Credit Card,30.0,Male
+2022-08-28,Monitor,52874.0,15.0,West,Ahmedabad,Canada,20.0,,22.0,Male
+2022-08-24,Headphones,72027.0,31.0,East,Pune,USA,5.0,Net Banking,48.0,Female
+2022-01-12,Mouse,96487.0,6.0,West,Chennai,Canada,5.0,Net Banking,41.0,Other
+2022-08-26,Tablet,61922.0,39.0,North,Delhi,UK,10.0,Debit Card,33.0,Other
+2022-09-04,Mouse,57869.0,9.0,North,Mumbai,India,0.0,UPI,56.0,Other
+2022-08-25,,15611.0,21.0,South,Lucknow,Germany,5.0,Cash,68.0,Other
+,Keyboard,9924.0,42.0,West,Hyderabad,,20.0,UPI,42.0,Female
+,Headphones,590.0,35.0,South,Delhi,USA,5.0,Debit Card,56.0,Male
+2022-09-22,Camera,29187.0,29.0,North,Delhi,France,5.0,Credit Card,52.0,Other
+2022-02-06,Tablet,34885.0,1.0,West,Lucknow,India,0.0,Credit Card,59.0,Male
+2022-05-02,Printer,77455.0,,East,Jaipur,,0.0,Credit Card,19.0,Female
+2022-05-14,Laptop,16726.0,,West,Pune,UK,0.0,Net Banking,45.0,Male
+2022-04-16,Printer,97899.0,18.0,West,Mumbai,India,15.0,Credit Card,59.0,Male
+2022-04-27,Smartwatch,72115.0,1.0,South,Lucknow,France,10.0,Credit Card,34.0,Male
+2022-04-21,Mouse,19727.0,2.0,South,Lucknow,UK,10.0,Debit Card,,Male
+2022-10-01,Laptop,87447.0,6.0,West,Hyderabad,USA,5.0,Cash,39.0,Male
+2022-06-09,Keyboard,49868.0,47.0,East,Delhi,UK,10.0,UPI,65.0,Male
+2022-04-21,Phone,83500.0,34.0,South,Chennai,Germany,15.0,Cash,45.0,Male
+2022-05-23,Laptop,60035.0,8.0,,Pune,USA,20.0,Debit Card,59.0,Other
+2022-07-05,Smartwatch,13961.0,6.0,North,Lucknow,France,20.0,Net Banking,22.0,Female
+2022-08-03,,31975.0,39.0,South,Lucknow,Canada,,Credit Card,,Other
+2022-01-05,Mouse,29327.0,39.0,West,Jaipur,Germany,10.0,Net Banking,23.0,Other
+2022-05-26,Printer,71142.0,12.0,,Mumbai,Germany,5.0,Cash,41.0,Other
+2022-05-08,Mouse,28907.0,23.0,South,Pune,India,0.0,Net Banking,26.0,Male
+2022-10-29,Tablet,65876.0,48.0,West,Bangalore,USA,15.0,,24.0,
+2022-10-30,Camera,29101.0,35.0,South,Hyderabad,Germany,20.0,UPI,30.0,Other
+2022-09-25,Tablet,20108.0,40.0,East,Ahmedabad,Germany,5.0,Credit Card,56.0,Other
+2022-08-27,Mouse,79890.0,9.0,West,Chennai,USA,15.0,Debit Card,34.0,Female
+2022-09-16,Laptop,86326.0,40.0,,Lucknow,France,20.0,UPI,20.0,Male
+2022-08-24,Keyboard,5615.0,47.0,East,Chennai,France,5.0,Cash,33.0,Male
+2022-10-03,Keyboard,37806.0,45.0,North,,India,10.0,Net Banking,44.0,Other
+2022-04-02,,78783.0,3.0,East,Chennai,India,20.0,Cash,27.0,Female
+2022-03-03,Keyboard,7294.0,49.0,West,Kolkata,USA,5.0,Credit Card,21.0,Female
+2022-02-08,Printer,28842.0,11.0,West,Lucknow,India,20.0,Debit Card,34.0,Male
+2022-02-08,Smartwatch,28329.0,31.0,North,Pune,USA,,Debit Card,32.0,Male
+2022-10-11,Headphones,5977.0,38.0,South,Bangalore,Canada,15.0,UPI,53.0,Male
+2022-07-21,Smartwatch,57204.0,47.0,East,Hyderabad,Germany,0.0,Net Banking,45.0,Female
+2022-08-08,Camera,86537.0,43.0,South,Ahmedabad,France,15.0,Net Banking,45.0,Female
+2022-11-02,Printer,61961.0,41.0,East,Lucknow,UK,15.0,Net Banking,56.0,Other
+2022-06-30,Printer,36734.0,,East,Bangalore,France,20.0,UPI,48.0,Other
+2022-06-21,Phone,21573.0,33.0,West,Chennai,UK,0.0,Net Banking,,Male
+2022-06-06,Phone,10404.0,45.0,East,Kolkata,UK,0.0,Cash,65.0,Male
+2022-08-21,Camera,86098.0,1.0,South,Mumbai,India,10.0,,29.0,Other
+2022-04-03,Headphones,2992.0,4.0,South,Hyderabad,USA,0.0,Cash,22.0,Male
+2022-04-02,Mouse,82944.0,11.0,,Ahmedabad,Canada,5.0,Credit Card,26.0,Female
+2022-04-13,,,47.0,South,Chennai,France,0.0,Debit Card,21.0,Female
+2022-01-25,Mouse,32116.0,,South,Mumbai,India,,Debit Card,25.0,Female
+2022-01-26,Smartwatch,19503.0,30.0,South,Bangalore,Germany,0.0,Debit Card,39.0,Other
